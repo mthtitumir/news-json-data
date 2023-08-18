@@ -1,0 +1,2553 @@
+[
+    {
+        "id": 1,
+        "title": "Government Policy Analysis",
+        "description": "A comprehensive analysis of the recent government policy changes and their impact on the economy.",
+        "img": "https://i.ibb.co/ckrwG2g/politics1.jpg",
+        "category": "politics",
+        "subcategory": "asia",
+        "published_date": "2023-07-20",
+        "author": "Sarah Johnson",
+        "tags": [
+            "government",
+            "policy",
+            "economy"
+        ],
+        "likes": 128,
+        "comments": [
+            {
+                "id": 1,
+                "author": "David Smith",
+                "text": "This analysis is spot on!",
+                "date": "2023-07-21"
+            },
+            {
+                "id": 2,
+                "author": "Emily Brown",
+                "text": "I have some reservations about the conclusions.",
+                "date": "2023-07-22"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Global Diplomacy Trends",
+        "description": "Exploring the evolving diplomatic landscape and its implications for international relations.",
+        "img": "https://i.ibb.co/x3bxBS6/poitics-2.jpg",
+        "category": "politics",
+        "subcategory": "asia",
+        "published_date": "2023-06-15",
+        "author": "Michael Roberts",
+        "tags": [
+            "diplomacy",
+            "international relations",
+            "geopolitics"
+        ],
+        "likes": 87,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Alexandra Lee",
+                "text": "Fascinating read. The world is changing so rapidly.",
+                "date": "2023-06-16"
+            },
+            {
+                "id": 2,
+                "author": "Robert Clark",
+                "text": "I would like to see more analysis on specific regions.",
+                "date": "2023-06-17"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Electoral Strategies Unveiled",
+        "description": "An examination of the strategies employed by political parties in recent elections.",
+        "img": "https://i.ibb.co/QkFx4Tn/politics3.jpg",
+        "category": "politics",
+        "subcategory": "asia",
+        "published_date": "2023-05-10",
+        "author": "Jessica Martinez",
+        "tags": [
+            "elections",
+            "political parties",
+            "campaign strategies"
+        ],
+        "likes": 172,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Daniel Brown",
+                "text": "Insightful analysis. The use of technology is crucial.",
+                "date": "2023-05-11"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Adams",
+                "text": "I'm curious about the impact of social media in this context.",
+                "date": "2023-05-12"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Challenges in Legislative Reform",
+        "description": "Examining the obstacles and opportunities in reforming outdated legislative frameworks.",
+        "img": "https://i.ibb.co/wNbTDcf/politics4.jpg",
+        "category": "politics",
+        "subcategory": "asia",
+        "published_date": "2023-04-05",
+        "author": "Jonathan Williams",
+        "tags": [
+            "legislation",
+            "reform",
+            "government"
+        ],
+        "likes": 93,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Olivia Parker",
+                "text": "This article highlights the need for agile governance.",
+                "date": "2023-04-06"
+            },
+            {
+                "id": 2,
+                "author": "William Turner",
+                "text": "Legislative challenges vary greatly across different countries.",
+                "date": "2023-04-07"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Media's Role in Political Discourse",
+        "description": "Analyzing the influence of media on shaping public opinions and political debates.",
+        "img": "https://i.ibb.co/BZmDm6Q/politics5.jpg",
+        "category": "politics",
+        "subcategory": "asia",
+        "published_date": "2023-03-01",
+        "author": "Elizabeth Collins",
+        "tags": [
+            "media",
+            "public opinion",
+            "political discourse"
+        ],
+        "likes": 206,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Nathan Carter",
+                "text": "Media literacy is more important than ever in today's world.",
+                "date": "2023-03-02"
+            },
+            {
+                "id": 2,
+                "author": "Isabella White",
+                "text": "I'd like to see a comparison of media landscapes in different regions.",
+                "date": "2023-03-03"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Populism and Its Impact",
+        "description": "Examining the rise of populism in recent political movements and its implications for governance.",
+        "img": "https://i.ibb.co/bz9m7pS/politics6.jpg",
+        "category": "politics",
+        "subcategory": "north america",
+        "published_date": "2023-02-10",
+        "author": "Daniel Wilson",
+        "tags": [
+            "populism",
+            "politics",
+            "governance"
+        ],
+        "likes": 145,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Sophie Martin",
+                "text": "Populism seems to be reshaping the political landscape.",
+                "date": "2023-02-11"
+            },
+            {
+                "id": 2,
+                "author": "Liam Johnson",
+                "text": "I'm interested in the historical context of populism.",
+                "date": "2023-02-12"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Climate Change Policies",
+        "description": "Assessing the effectiveness of various climate change policies implemented by governments worldwide.",
+        "img": "https://i.ibb.co/6XsNd5j/politics7.jpg",
+        "category": "politics",
+        "subcategory": "north america",
+        "published_date": "2023-01-05",
+        "author": "Anna Thompson",
+        "tags": [
+            "climate change",
+            "policies",
+            "environment"
+        ],
+        "likes": 278,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Michael Adams",
+                "text": "The urgency of climate action cannot be overstated.",
+                "date": "2023-01-06"
+            },
+            {
+                "id": 2,
+                "author": "Emma Harris",
+                "text": "Are there any success stories in tackling climate change?",
+                "date": "2023-01-07"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "The Role of International Organizations",
+        "description": "Exploring the role and influence of international organizations in global politics and diplomacy.",
+        "img": "https://i.ibb.co/5Fj8VCC/politics8.jpg",
+        "category": "politics",
+        "subcategory": "north america",
+        "published_date": "2022-12-01",
+        "author": "David Miller",
+        "tags": [
+            "international organizations",
+            "global politics",
+            "diplomacy"
+        ],
+        "likes": 194,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Green",
+                "text": "International organizations play a crucial role in maintaining stability.",
+                "date": "2022-12-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Walker",
+                "text": "I'd like to learn more about the decision-making processes within these organizations.",
+                "date": "2022-12-03"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Ethical Considerations in Politics",
+        "description": "Examining the ethical dilemmas faced by politicians and policymakers in making difficult decisions.",
+        "img": "https://i.ibb.co/st34YRb/politics11.jpg",
+        "category": "politics",
+        "subcategory": "north america",
+        "published_date": "2022-11-01",
+        "author": "Emily Turner",
+        "tags": [
+            "ethics",
+            "politics",
+            "decision-making"
+        ],
+        "likes": 152,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Brown",
+                "text": "Balancing ethics and pragmatism can be a real challenge.",
+                "date": "2022-11-02"
+            },
+            {
+                "id": 2,
+                "author": "Isabella Clark",
+                "text": "I wonder how different cultural perspectives affect ethical considerations.",
+                "date": "2022-11-03"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Social Media and Political Activism",
+        "description": "Analyzing the role of social media platforms in facilitating and shaping political activism.",
+        "img": "https://i.ibb.co/G0FvxnQ/politics13.jpg",
+        "category": "politics",
+        "subcategory": "north america",
+        "published_date": "2022-10-01",
+        "author": "Ryan Johnson",
+        "tags": [
+            "social media",
+            "political activism",
+            "technology"
+        ],
+        "likes": 311,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Sophie Roberts",
+                "text": "Social media has revolutionized the way we engage in activism.",
+                "date": "2022-10-02"
+            },
+            {
+                "id": 2,
+                "author": "Ethan Martin",
+                "text": "I'm interested in the potential downsides of digital activism.",
+                "date": "2022-10-03"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Gender Representation in Politics",
+        "description": "Examining the progress and challenges in achieving gender balance in political leadership roles.",
+        "img": "https://i.ibb.co/XfPSr1F/politics14.jpg",
+        "category": "politics",
+        "subcategory": "south america",
+        "published_date": "2022-09-01",
+        "author": "Lindsay Williams",
+        "tags": [
+            "gender representation",
+            "politics",
+            "leadership"
+        ],
+        "likes": 189,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Alex Parker",
+                "text": "Addressing gender inequality is crucial for a truly representative democracy.",
+                "date": "2022-09-02"
+            },
+            {
+                "id": 2,
+                "author": "Emma Turner",
+                "text": "I'd like to see a comparison of gender policies in different countries.",
+                "date": "2022-09-03"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Migration Policies and Global Politics",
+        "description": "Analyzing the impact of migration policies on international relations and geopolitics.",
+        "img": "https://i.ibb.co/0CRQdCV/politics15.jpg",
+        "category": "politics",
+        "subcategory": "south america",
+        "published_date": "2022-08-01",
+        "author": "James Anderson",
+        "tags": [
+            "migration",
+            "global politics",
+            "geopolitics"
+        ],
+        "likes": 265,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Natalie Brown",
+                "text": "Migration is a complex issue with multifaceted implications.",
+                "date": "2022-08-02"
+            },
+            {
+                "id": 2,
+                "author": "Ethan Turner",
+                "text": "I'm interested in understanding the role of humanitarian considerations.",
+                "date": "2022-08-03"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Nationalism and Its Modern Forms",
+        "description": "Exploring the resurgence of nationalism in contemporary politics and its impact on international relations.",
+        "img": "https://i.ibb.co/8sD7hS3/politics16.jpg",
+        "category": "politics",
+        "subcategory": "south america",
+        "published_date": "2022-07-01",
+        "author": "Olivia Robinson",
+        "tags": [
+            "nationalism",
+            "politics",
+            "international relations"
+        ],
+        "likes": 209,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Benjamin Clark",
+                "text": "Nationalism's influence seems to be growing worldwide.",
+                "date": "2022-07-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Turner",
+                "text": "I'd like to explore the historical roots of modern nationalism.",
+                "date": "2022-07-03"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Rise of Digital Diplomacy",
+        "description": "Examining how digital tools and social media are transforming the field of diplomacy.",
+        "img": "https://i.ibb.co/WVn6s1j/politics17.jpg",
+        "category": "politics",
+        "subcategory": "south america",
+        "published_date": "2022-06-01",
+        "author": "Michael Green",
+        "tags": [
+            "diplomacy",
+            "digital tools",
+            "communication"
+        ],
+        "likes": 185,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Emily Turner",
+                "text": "Digital diplomacy opens up new possibilities for international dialogue.",
+                "date": "2022-06-02"
+            },
+            {
+                "id": 2,
+                "author": "Ethan Miller",
+                "text": "I wonder how digital diplomacy affects traditional diplomatic channels.",
+                "date": "2022-06-03"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Political Polarization",
+        "description": "Analyzing the growing political polarization and its impact on democratic societies.",
+        "img": "https://i.ibb.co/XC9SfcY/politics18.jpg",
+        "category": "politics",
+        "subcategory": "south america",
+        "published_date": "2022-05-01",
+        "author": "Sophie Roberts",
+        "tags": [
+            "political polarization",
+            "democracy",
+            "society"
+        ],
+        "likes": 323,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Clark",
+                "text": "Addressing polarization is essential for maintaining a healthy democracy.",
+                "date": "2022-05-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Turner",
+                "text": "I'm interested in potential solutions to bridge political divides.",
+                "date": "2022-05-03"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Human Rights in Global Politics",
+        "description": "Examining the role of human rights in shaping international relations and policies.",
+        "img": "https://i.ibb.co/YNwHLB0/politics19.jpg",
+        "category": "politics",
+        "subcategory": "australia",
+        "published_date": "2022-04-01",
+        "author": "David Wilson",
+        "tags": [
+            "human rights",
+            "international relations",
+            "policies"
+        ],
+        "likes": 236,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Turner",
+                "text": "Human rights should be a central consideration in global politics.",
+                "date": "2022-04-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Green",
+                "text": "I'd like to explore case studies of human rights advocacy.",
+                "date": "2022-04-03"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "The Future of Democracy",
+        "description": "Exploring potential developments and challenges for democratic systems in the coming years.",
+        "img": "https://i.ibb.co/sqmKLdX/politics20.jpg",
+        "category": "politics",
+        "subcategory": "australia",
+        "published_date": "2022-03-01",
+        "author": "Emily White",
+        "tags": [
+            "democracy",
+            "future",
+            "challenges"
+        ],
+        "likes": 287,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Adams",
+                "text": "The digital age presents both opportunities and risks for democracy.",
+                "date": "2022-03-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Martin",
+                "text": "I'd like to see a discussion on participatory democracy.",
+                "date": "2022-03-03"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Geopolitical Shifts in the 21st Century",
+        "description": "Analyzing the changing geopolitical dynamics and power structures in the modern world.",
+        "img": "https://i.ibb.co/gwJ9zMq/politics21.jpg",
+        "category": "politics",
+        "subcategory": "australia",
+        "published_date": "2022-02-01",
+        "author": "Daniel Turner",
+        "tags": [
+            "geopolitics",
+            "global power",
+            "world order"
+        ],
+        "likes": 254,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Olivia Adams",
+                "text": "The rise of new powers is reshaping international relations.",
+                "date": "2022-02-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Martin",
+                "text": "How are traditional superpowers adapting to these shifts?",
+                "date": "2022-02-03"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Youth Engagement in Politics",
+        "description": "Exploring the importance of involving young people in political processes and decision-making.",
+        "img": "https://i.ibb.co/vsDVRqK/politics22.jpg",
+        "category": "politics",
+        "subcategory": "australia",
+        "published_date": "2022-01-01",
+        "author": "Michael Turner",
+        "tags": [
+            "youth engagement",
+            "politics",
+            "participation"
+        ],
+        "likes": 298,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Green",
+                "text": "Empowering youth is essential for a vibrant and inclusive democracy.",
+                "date": "2022-01-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Adams",
+                "text": "I'm curious about effective strategies for engaging young people in politics.",
+                "date": "2022-01-03"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Political Leadership Styles",
+        "description": "Analyzing different leadership styles in politics and their impact on governance and decision-making.",
+        "img": "https://i.ibb.co/b5273Sd/politics23.jpg",
+        "category": "politics",
+        "subcategory": "australia",
+        "published_date": "2021-12-01",
+        "author": "Sophie Johnson",
+        "tags": [
+            "leadership",
+            "politics",
+            "governance"
+        ],
+        "likes": 315,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Adams",
+                "text": "Leadership plays a pivotal role in shaping a nation's trajectory.",
+                "date": "2021-12-02"
+            },
+            {
+                "id": 2,
+                "author": "Emma Turner",
+                "text": "I'd like to see a comparison of leadership styles across different countries.",
+                "date": "2021-12-03"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Economic Inequality and Political Stability",
+        "description": "Exploring the relationship between economic inequality and its impact on political stability.",
+        "img": "https://i.ibb.co/4N0FqkL/politics24.jpg",
+        "category": "politics",
+        "subcategory": "antarctica",
+        "published_date": "2021-11-01",
+        "author": "Michael Green",
+        "tags": [
+            "economic inequality",
+            "political stability",
+            "society"
+        ],
+        "likes": 241,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Turner",
+                "text": "Addressing inequality is crucial for maintaining social cohesion.",
+                "date": "2021-11-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Adams",
+                "text": "I'm interested in potential policy solutions to mitigate inequality.",
+                "date": "2021-11-03"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Post-Conflict Reconstruction",
+        "description": "Analyzing the challenges and strategies for rebuilding societies after conflict and war.",
+        "img": "https://i.ibb.co/5ct0yTY/politics25.jpg",
+        "category": "politics",
+        "subcategory": "antarctica",
+        "published_date": "2021-10-01",
+        "author": "Sophia Wilson",
+        "tags": [
+            "post-conflict reconstruction",
+            "peacebuilding",
+            "society"
+        ],
+        "likes": 278,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Adams",
+                "text": "Reconstruction efforts require a delicate balance of political and social considerations.",
+                "date": "2021-10-02"
+            },
+            {
+                "id": 2,
+                "author": "Emma Turner",
+                "text": "I'd like to learn more about the role of international organizations in this process.",
+                "date": "2021-10-03"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Digital Surveillance and Civil Liberties",
+        "description": "Examining the tension between digital surveillance practices and the protection of civil liberties.",
+        "img": "https://i.ibb.co/xzx1RfQ/politics26.jpg",
+        "category": "politics",
+        "subcategory": "antarctica",
+        "published_date": "2021-09-01",
+        "author": "David Miller",
+        "tags": [
+            "digital surveillance",
+            "privacy",
+            "civil liberties"
+        ],
+        "likes": 206,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Green",
+                "text": "Finding the right balance between security and privacy is a complex challenge.",
+                "date": "2021-09-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Turner",
+                "text": "I'm curious about the legal frameworks surrounding digital surveillance.",
+                "date": "2021-09-03"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Environmental Diplomacy",
+        "description": "Exploring how diplomacy and international cooperation can address global environmental challenges.",
+        "img": "https://i.ibb.co/8mHzJbf/politics27.jpg",
+        "category": "politics",
+        "subcategory": "antarctica",
+        "published_date": "2021-08-01",
+        "author": "Michael Clark",
+        "tags": [
+            "environmental diplomacy",
+            "international cooperation",
+            "climate change"
+        ],
+        "likes": 322,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Olivia Turner",
+                "text": "Environmental issues require collaborative efforts on a global scale.",
+                "date": "2021-08-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Adams",
+                "text": "I'm interested in the role of non-state actors in environmental diplomacy.",
+                "date": "2021-08-03"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "title": "The Rise of Technocracy",
+        "description": "Analyzing the growing influence of technocrats in policymaking and its implications.",
+        "img": "https://i.ibb.co/c65zydb/politics28.jpg",
+        "category": "politics",
+        "subcategory": "antarctica",
+        "published_date": "2021-07-01",
+        "author": "Daniel Turner",
+        "tags": [
+            "technocracy",
+            "policymaking",
+            "governance"
+        ],
+        "likes": 184,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Green",
+                "text": "Technocrats bring expertise, but what about democratic accountability?",
+                "date": "2021-07-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Adams",
+                "text": "I'd like to explore case studies of technocratic decision-making.",
+                "date": "2021-07-03"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Cybersecurity and Political Vulnerabilities",
+        "description": "Examining the intersection of cybersecurity and political systems, including potential vulnerabilities and threats.",
+        "img": "https://i.ibb.co/jwPL7k4/politics29.jpg",
+        "category": "politics",
+        "subcategory": "europe",
+        "published_date": "2021-06-01",
+        "author": "Sophia Miller",
+        "tags": [
+            "cybersecurity",
+            "politics",
+            "technology"
+        ],
+        "likes": 271,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Turner",
+                "text": "Cyber threats pose a new dimension to national security.",
+                "date": "2021-06-02"
+            },
+            {
+                "id": 2,
+                "author": "Emma Green",
+                "text": "I'd like to explore the role of international norms in cybersecurity.",
+                "date": "2021-06-03"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Political Discourse in the Digital Age",
+        "description": "Analyzing how digital platforms impact political discourse, from echo chambers to disinformation.",
+        "img": "https://i.ibb.co/bR8NZ0K/politics30.jpg",
+        "category": "politics",
+        "subcategory": "europe",
+        "published_date": "2021-05-01",
+        "author": "Michael Turner",
+        "tags": [
+            "political discourse",
+            "digital age",
+            "media"
+        ],
+        "likes": 297,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Adams",
+                "text": "Digital platforms have reshaped the way we engage with political ideas.",
+                "date": "2021-05-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Wilson",
+                "text": "I'm interested in the role of algorithms in shaping online discussions.",
+                "date": "2021-05-03"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Corruption and Governance",
+        "description": "Exploring the detrimental effects of corruption on governance and potential anti-corruption measures.",
+        "img": "https://i.ibb.co/z28gm85/politics31.jpg",
+        "category": "politics",
+        "subcategory": "europe",
+        "published_date": "2021-04-01",
+        "author": "Daniel Clark",
+        "tags": [
+            "corruption",
+            "governance",
+            "accountability"
+        ],
+        "likes": 232,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Olivia Turner",
+                "text": "Addressing corruption is essential for fostering trust in government.",
+                "date": "2021-04-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Green",
+                "text": "I'd like to learn about successful cases of curbing corruption.",
+                "date": "2021-04-03"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Identity Politics and Group Representation",
+        "description": "Examining the role of identity politics in shaping group representation and policy agendas.",
+        "img": "https://i.ibb.co/rFpjhyF/politics32.jpg",
+        "category": "politics",
+        "subcategory": "europe",
+        "published_date": "2021-03-01",
+        "author": "Emily Miller",
+        "tags": [
+            "identity politics",
+            "representation",
+            "diversity"
+        ],
+        "likes": 218,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Adams",
+                "text": "Identity politics can amplify marginalized voices in the political arena.",
+                "date": "2021-03-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Turner",
+                "text": "I'm curious about the tensions between different identity groups.",
+                "date": "2021-03-03"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Artificial Intelligence in Governance",
+        "description": "Analyzing the potential of artificial intelligence in improving governance and public services.",
+        "img": "https://i.ibb.co/1sLx4jh/politics33.jpg",
+        "category": "politics",
+        "subcategory": "europe",
+        "published_date": "2021-02-01",
+        "author": "Sophia Clark",
+        "tags": [
+            "artificial intelligence",
+            "governance",
+            "technology"
+        ],
+        "likes": 289,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Turner",
+                "text": "AI could lead to more efficient and data-driven decision-making.",
+                "date": "2021-02-02"
+            },
+            {
+                "id": 2,
+                "author": "Emma Wilson",
+                "text": "I'm interested in the ethical considerations of AI in governance.",
+                "date": "2021-02-03"
+            }
+        ]
+    },
+    {
+        "id": 31,
+        "title": "The Art of Effective Team Communication",
+        "description": "Learn how to communicate effectively within your business team to boost productivity and collaboration.",
+        "img": "https://i.ibb.co/dGzRjT6/business1.jpg",
+        "category": "business",
+        "subcategory": "Asia",
+        "published_date": "2023-08-15",
+        "author": "Jane Doe",
+        "tags": [
+            "communication",
+            "teamwork",
+            "productivity"
+        ],
+        "likes": 245,
+        "comments": [
+            {
+                "id": 11,
+                "author": "Jessica Smith",
+                "text": "This article was incredibly insightful. Communication within a team is vital, and the tips provided here are practical and applicable. Thank you!",
+                "date": "2023-08-16"
+            },
+            {
+                "id": 12,
+                "author": "David Johnson",
+                "text": "I've been struggling with financial challenges in my small business, and this article came at the perfect time. John Smith's advice is valuable and motivating.",
+                "date": "2023-08-14"
+            }
+        ]
+    },
+    {
+        "id": 32,
+        "title": "Navigating Financial Challenges in Small Businesses",
+        "description": "Discover strategies for managing financial challenges specific to small businesses and startups.",
+        "img": "https://i.ibb.co/sty8HCs/business5.jpg",
+        "category": "business",
+        "subcategory": "North America",
+        "published_date": "2023-08-10",
+        "author": "John Smith",
+        "tags": [
+            "finance",
+            "small business",
+            "startups"
+        ],
+        "likes": 127,
+        "comments": [
+            {
+                "id": 21,
+                "author": "Eleanor Brown",
+                "text": "The e-commerce trends discussed in this article are so relevant. It's impressive how technology is reshaping the retail landscape.",
+                "date": "2023-08-12"
+            },
+            {
+                "id": 22,
+                "author": "Samuel White",
+                "text": "Innovative supply chain management is a game-changer. These strategies can really transform the efficiency of operations.",
+                "date": "2023-07-20"
+            }
+        ]
+    },
+    {
+        "id": 33,
+        "title": "E-Commerce Trends Shaping the Future of Retail",
+        "description": "Explore the latest trends in e-commerce that are reshaping the retail landscape globally.",
+        "img": "https://i.ibb.co/3v6qpJz/business7.jpg",
+        "category": "business",
+        "subcategory": "South America",
+        "published_date": "2023-07-25",
+        "author": "Emily Brown",
+        "tags": [
+            "e-commerce",
+            "retail",
+            "technology"
+        ],
+        "likes": 312,
+        "comments": [
+            {
+                "id": 31,
+                "author": "Daniel Miller",
+                "text": "Data-driven decision making has revolutionized how businesses operate. This article highlights its power and potential.",
+                "date": "2023-07-10"
+            },
+            {
+                "id": 32,
+                "author": "Olivia Clark",
+                "text": "The marketing strategies mentioned here are actionable and insightful. Launching a new product has become more competitive than ever.",
+                "date": "2023-06-20"
+            }
+        ]
+    },
+    {
+        "id": 34,
+        "title": "Innovative Approaches to Supply Chain Management",
+        "description": "Learn about innovative supply chain management strategies that optimize efficiency and reduce costs.",
+        "img": "https://i.ibb.co/khy0SYR/business6.jpg",
+        "category": "business",
+        "subcategory": "Australia",
+        "published_date": "2023-07-18",
+        "author": "Michael Johnson",
+        "tags": [
+            "supply chain",
+            "operations",
+            "efficiency"
+        ],
+        "likes": 198,
+        "comments": [
+            {
+                "id": 41,
+                "author": "Alex Turner",
+                "text": "As remote work becomes the norm, this article provides practical guidance for building and leading virtual teams.",
+                "date": "2023-05-30"
+            },
+            {
+                "id": 42,
+                "author": "Sophie Williams",
+                "text": "Sustainability in business is crucial. These practices not only benefit the environment but also make good business sense.",
+                "date": "2023-05-15"
+            }
+        ]
+    },
+    {
+        "id": 35,
+        "title": "The Power of Data-Driven Decision Making",
+        "description": "Discover how data-driven decision making can lead to better business outcomes and strategic advantages.",
+        "img": "https://i.ibb.co/X507dbP/business4.jpg",
+        "category": "business",
+        "subcategory": "Antarctica",
+        "published_date": "2023-06-30",
+        "author": "Alexandra Lee",
+        "tags": [
+            "analytics",
+            "data-driven",
+            "strategy"
+        ],
+        "likes": 521,
+        "comments": [
+            {
+                "id": 51,
+                "author": "Robert Anderson",
+                "text": "Cybersecurity is often overlooked by small businesses. These essentials are a wake-up call to protect sensitive data.",
+                "date": "2023-04-30"
+            },
+            {
+                "id": 52,
+                "author": "Michelle Davis",
+                "text": "Adapting to change is a must for survival. The strategies discussed here are insightful for maintaining resilience.",
+                "date": "2023-04-15"
+            }
+        ]
+    },
+    {
+        "id": 36,
+        "title": "Effective Marketing Strategies for New Product Launches",
+        "description": "Explore marketing tactics to ensure a successful launch for your new products in today's competitive market.",
+        "img": "https://i.ibb.co/c3j8bdf/business3.jpg",
+        "category": "business",
+        "subcategory": "Europe",
+        "published_date": "2023-06-15",
+        "author": "William Clark",
+        "tags": [
+            "marketing",
+            "product launch",
+            "promotion"
+        ],
+        "likes": 375,
+        "comments": [
+            {
+                "id": 61,
+                "author": "Benjamin Wilson",
+                "text": "Investing in a volatile market can be daunting. The strategies presented here provide a solid starting point.",
+                "date": "2023-08-08"
+            },
+            {
+                "id": 62,
+                "author": "Samantha Martin",
+                "text": "Creativity is the lifeblood of innovation. These problem-solving techniques are valuable for any business scenario.",
+                "date": "2023-07-30"
+            }
+        ]
+    },
+    {
+        "id": 37,
+        "title": "Remote Work: Building and Managing Virtual Teams",
+        "description": "Learn how to build, manage, and lead successful remote teams in the evolving landscape of remote work.",
+        "img": "https://i.ibb.co/7yh8Ymc/business10.jpg",
+        "category": "business",
+        "subcategory": "Africa",
+        "published_date": "2023-05-20",
+        "author": "Sarah Roberts",
+        "tags": [
+            "leadership",
+            "remote work",
+            "virtual teams"
+        ],
+        "likes": 289,
+        "comments": [
+            {
+                "id": 71,
+                "author": "Andrew Turner",
+                "text": "Global market entry is complex. This guide breaks down strategies to make expansion on a global scale more manageable.",
+                "date": "2023-07-15"
+            },
+            {
+                "id": 72,
+                "author": "Lisa Johnson",
+                "text": "Inventory management is often underestimated. These efficient practices can significantly impact retail success.",
+                "date": "2023-06-30"
+            }
+        ]
+    },
+    {
+        "id": 38,
+        "title": "Sustainable Practices for Modern Businesses",
+        "description": "Discover sustainable business practices that not only benefit the environment but also contribute to profitability.",
+        "img": "https://i.ibb.co/z2cc5JG/business12.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-05-10",
+        "author": "David Miller",
+        "tags": [
+            "sustainability",
+            "business practices",
+            "environment"
+        ],
+        "likes": 432,
+        "comments": [
+            {
+                "id": 81,
+                "author": "William Harris",
+                "text": "Negotiation is a key skill. The article's insights into negotiation strategies are valuable for business professionals.",
+                "date": "2023-06-15"
+            },
+            {
+                "id": 82,
+                "author": "Sophia Turner",
+                "text": "Employer branding is crucial in attracting top talent. This article highlights how it contributes to a positive culture.",
+                "date": "2023-05-25"
+            }
+        ]
+    },
+    {
+        "id": 39,
+        "title": "Cybersecurity Essentials for Small Enterprises",
+        "description": "Learn the fundamental cybersecurity measures that every small business should implement to protect their digital assets.",
+        "img": "https://i.ibb.co/WybCYwZ/business13.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-04-25",
+        "author": "Jennifer Adams",
+        "tags": [
+            "cybersecurity",
+            "small business",
+            "data protection"
+        ],
+        "likes": 176,
+        "comments": [
+            {
+                "id": 91,
+                "author": "Mark Adams",
+                "text": "B2B sales strategies have evolved with technology. This article provides actionable insights for modern B2B selling.",
+                "date": "2023-05-10"
+            },
+            {
+                "id": 92,
+                "author": "Emily Turner",
+                "text": "Emotional intelligence is a must for effective leadership. Its impact on team dynamics is often underestimated.",
+                "date": "2023-04-20"
+            }
+        ]
+    },
+    {
+        "id": 40,
+        "title": "Adapting to Change: Business Resilience in Uncertain Times",
+        "description": "Explore strategies for building business resilience and agility to thrive in times of uncertainty and rapid change.",
+        "img": "https://i.ibb.co/n3dXRrP/business14.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-04-10",
+        "author": "Robert Turner",
+        "tags": [
+            "strategy",
+            "resilience",
+            "change management"
+        ],
+        "likes": 327,
+        "comments": [
+            {
+                "id": 101,
+                "author": "Raj Patel",
+                "text": "Diversity and inclusion are vital for any organization. The strategies mentioned here contribute to a stronger workforce.",
+                "date": "2023-04-10"
+            },
+            {
+                "id": 102,
+                "author": "Chris Miller",
+                "text": "Social media is a powerful tool for business growth. The trends discussed in this article are worth exploring.",
+                "date": "2023-03-25"
+            }
+        ]
+    },
+    {
+        "id": 41,
+        "title": "Investment Strategies for a Volatile Market",
+        "description": "Explore investment approaches to navigate and capitalize on opportunities in a volatile financial market.",
+        "img": "https://i.ibb.co/jvqjLHr/business15.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-08-05",
+        "author": "Michael Anderson",
+        "tags": [
+            "investment",
+            "finance",
+            "market volatility"
+        ],
+        "likes": 213,
+        "comments": [
+            {
+                "id": 111,
+                "author": "Amanda Wilson",
+                "text": "Team communication is the foundation of success. The article's insights are practical and can be applied right away.",
+                "date": "2023-08-18"
+            },
+            {
+                "id": 112,
+                "author": "Jonathan Davis",
+                "text": "Managing finances is a challenge for startups. This article's advice on navigating financial challenges is invaluable.",
+                "date": "2023-08-12"
+            }
+        ]
+    },
+    {
+        "id": 42,
+        "title": "Unlocking Creativity in Business Problem-Solving",
+        "description": "Learn techniques to foster creative thinking and innovative problem-solving within your business operations.",
+        "img": "https://i.ibb.co/VDL6Y4t/business16.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-07-28",
+        "author": "Linda Williams",
+        "tags": [
+            "innovation",
+            "problem-solving",
+            "creative thinking"
+        ],
+        "likes": 188,
+        "comments": [
+            {
+                "id": 121,
+                "author": "Liam Johnson",
+                "text": "E-commerce trends are shaping consumer behavior. This article's overview provides a comprehensive view of the landscape.",
+                "date": "2023-07-30"
+            },
+            {
+                "id": 122,
+                "author": "Isabella Martinez",
+                "text": "Supply chain management is often underestimated. The innovative approaches mentioned here can drive efficiency.",
+                "date": "2023-07-22"
+            }
+        ]
+    },
+    {
+        "id": 43,
+        "title": "Global Market Entry Strategies: A Comprehensive Guide",
+        "description": "Discover various market entry strategies for businesses seeking to expand their operations on a global scale.",
+        "img": "https://i.ibb.co/CwGhMSy/business17.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-07-12",
+        "author": "Christopher Turner",
+        "tags": [
+            "international business",
+            "market entry",
+            "global expansion"
+        ],
+        "likes": 306,
+        "comments": [
+            {
+                "id": 131,
+                "author": "Lucas Thompson",
+                "text": "Data-driven decisions are a game-changer. This article's insights into their impact are enlightening and motivating.",
+                "date": "2023-07-10"
+            },
+            {
+                "id": 132,
+                "author": "Sophie Turner",
+                "text": "Product launches are make-or-break moments. These marketing strategies are essential for achieving a successful launch.",
+                "date": "2023-06-18"
+            }
+        ]
+    },
+    {
+        "id": 44,
+        "title": "Efficient Inventory Management for Retail Success",
+        "description": "Learn best practices for optimizing inventory management to enhance retail efficiency and customer satisfaction.",
+        "img": "https://i.ibb.co/Fs5D5R7/business19.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-06-25",
+        "author": "Maria Rodriguez",
+        "tags": [
+            "retail",
+            "inventory management",
+            "customer satisfaction"
+        ],
+        "likes": 275,
+        "comments": [
+            {
+                "id": 141,
+                "author": "Brandon Clark",
+                "text": "Remote work is here to stay. The strategies provided for managing virtual teams are relevant and timely.",
+                "date": "2023-05-25"
+            },
+            {
+                "id": 142,
+                "author": "Grace Johnson",
+                "text": "Sustainable practices benefit both the environment and the bottom line. This article's insights are thought-provoking.",
+                "date": "2023-05-12"
+            }
+        ]
+    },
+    {
+        "id": 45,
+        "title": "Mastering the Art of Negotiation in Business",
+        "description": "Explore negotiation strategies and techniques to achieve win-win outcomes in various business scenarios.",
+        "img": "https://i.ibb.co/CJqvsBD/business20.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-06-10",
+        "author": "Daniel Carter",
+        "tags": [
+            "negotiation",
+            "business skills",
+            "win-win outcomes"
+        ],
+        "likes": 409,
+        "comments": [
+            {
+                "id": 151,
+                "author": "Oliver Wilson",
+                "text": "Cybersecurity is a concern for every business. The essentials mentioned here provide a solid foundation for protection.",
+                "date": "2023-04-28"
+            },
+            {
+                "id": 152,
+                "author": "Sophia Turner",
+                "text": "Building business resilience is essential in uncertain times. The strategies discussed here are practical and valuable.",
+                "date": "2023-04-15"
+            }
+        ]
+    },
+    {
+        "id": 46,
+        "title": "Building a Strong Employer Brand for Talent Acquisition",
+        "description": "Learn how to create a compelling employer brand to attract top talent and foster a positive company culture.",
+        "img": "https://i.ibb.co/SrP2HPd/img1.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-05-20",
+        "author": "Jessica Turner",
+        "tags": [
+            "human resources",
+            "employer branding",
+            "talent acquisition"
+        ],
+        "likes": 352,
+        "comments": [
+            {
+                "id": 161,
+                "author": "Ryan Smith",
+                "text": "Investment strategies in a volatile market require careful consideration. The insights provided here are enlightening.",
+                "date": "2023-08-20"
+            },
+            {
+                "id": 162,
+                "author": "Grace Miller",
+                "text": "Innovation starts with creative problem-solving. The techniques discussed in this article are practical and inspiring.",
+                "date": "2023-08-14"
+            }
+        ]
+    },
+    {
+        "id": 47,
+        "title": "Strategies for Effective B2B Sales in the Digital Age",
+        "description": "Discover sales tactics tailored for the digital era to succeed in business-to-business (B2B) selling.",
+        "img": "https://i.ibb.co/F0CfMYB/img2.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-05-08",
+        "author": "Mark Roberts",
+        "tags": [
+            "sales",
+            "B2B selling",
+            "digital marketing"
+        ],
+        "likes": 291,
+        "comments": [
+            {
+                "id": 171,
+                "author": "Nathan Turner",
+                "text": "Global market entry is complex but rewarding. This comprehensive guide is an excellent resource for businesses planning expansion.",
+                "date": "2023-07-28"
+            },
+            {
+                "id": 172,
+                "author": "Emma Davis",
+                "text": "Efficient inventory management is crucial for retail success. The article's insights into optimization are spot-on.",
+                "date": "2023-07-20"
+            }
+        ]
+    },
+    {
+        "id": 48,
+        "title": "The Role of Emotional Intelligence in Leadership",
+        "description": "Explore how emotional intelligence influences effective leadership and team management in the corporate world.",
+        "img": "https://i.ibb.co/4TNMttc/img3.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-04-18",
+        "author": "Sophia Mitchell",
+        "tags": [
+            "leadership",
+            "emotional intelligence",
+            "team management"
+        ],
+        "likes": 438,
+        "comments": [
+            {
+                "id": 181,
+                "author": "Andrew Thompson",
+                "text": "Negotiation skills are essential in business. The strategies mentioned in this article are practical and effective.",
+                "date": "2023-07-10"
+            },
+            {
+                "id": 182,
+                "author": "Sophie Clark",
+                "text": "Employer branding matters more than ever. The article's insights into creating a compelling brand are invaluable.",
+                "date": "2023-06-25"
+            }
+        ]
+    },
+    {
+        "id": 49,
+        "title": "Inclusive Workplace Practices: Fostering Diversity",
+        "description": "Learn about the importance of diversity and inclusion in the workplace and strategies to create an inclusive environment.",
+        "img": "https://i.ibb.co/TtmGHHX/resize.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-04-05",
+        "author": "Andre Johnson",
+        "tags": [
+            "diversity",
+            "inclusion",
+            "workplace culture"
+        ],
+        "likes": 204,
+        "comments": [
+            {
+                "id": 191,
+                "author": "Daniel Turner",
+                "text": "B2B sales strategies have evolved with technology. This article's advice is actionable and adaptable for modern selling.",
+                "date": "2023-06-15"
+            },
+            {
+                "id": 192,
+                "author": "Oliver Miller",
+                "text": "Emotional intelligence is a cornerstone of leadership. The role it plays in effective management cannot be understated.",
+                "date": "2023-04-25"
+            }
+        ]
+    },
+    {
+        "id": 50,
+        "title": "Social Media Marketing Trends for Business Growth",
+        "description": "Explore emerging social media trends and tactics to leverage platforms for business growth and brand engagement.",
+        "img": "https://i.ibb.co/KKRtSdK/pexels-george-milton-7014337.jpg",
+        "category": "business",
+        "subcategory": "",
+        "published_date": "2023-03-20",
+        "author": "Melissa Davis",
+        "tags": [
+            "marketing",
+            "social media",
+            "brand engagement"
+        ],
+        "likes": 324,
+        "comments": [
+            {
+                "id": 201,
+                "author": "Sophia Adams",
+                "text": "Diversity and inclusion are essential for a vibrant workforce. The strategies mentioned here contribute to a more inclusive culture.",
+                "date": "2023-04-18"
+            },
+            {
+                "id": 202,
+                "author": "Ethan Wilson",
+                "text": "Social media is a powerful tool for brand growth. The emerging trends discussed in this article are worth exploring.",
+                "date": "2023-03-30"
+            }
+        ]
+    },
+    {
+        "id": 51,
+        "title": "Effective Time Management Strategies for Professionals",
+        "description": "Learn how to manage your time efficiently to increase productivity and achieve your professional goals.",
+        "img": "https://i.ibb.co/khpHSrC/img14.jpg",
+        "category": "business",
+        "subcategory": "Time Management",
+        "published_date": "2023-08-22",
+        "author": "Matthew Harris",
+        "tags": [
+            "time management",
+            "productivity",
+            "professional development"
+        ],
+        "likes": 186,
+        "comments": [
+            {
+                "id": 211,
+                "author": "Sophia Adams",
+                "text": "Time management is a critical skill. This article provides actionable strategies that I'm excited to implement.",
+                "date": "2023-08-19"
+            },
+            {
+                "id": 212,
+                "author": "Michael Wilson",
+                "text": "Taxation can be daunting for small businesses. The advice given here is valuable for navigating tax responsibilities.",
+                "date": "2023-08-16"
+            }
+        ]
+    },
+    {
+        "id": 52,
+        "title": "Navigating Taxation for Small Businesses",
+        "description": "Discover essential tax considerations and strategies for small business owners to ensure compliance and minimize taxes.",
+        "img": "https://i.ibb.co/80tLJyP/img12.jpg",
+        "category": "business",
+        "subcategory": "Taxation",
+        "published_date": "2023-08-18",
+        "author": "Emily Turner",
+        "tags": [
+            "finance",
+            "taxation",
+            "small business"
+        ],
+        "likes": 122,
+        "comments": [
+            {
+                "id": 221,
+                "author": "Ethan Johnson",
+                "text": "AI and automation are changing the business landscape. This article offers a comprehensive overview of their impact.",
+                "date": "2023-08-14"
+            },
+            {
+                "id": 222,
+                "author": "Isabella Clark",
+                "text": "Strategic pricing is crucial for staying competitive. The insights shared here are practical and thought-provoking.",
+                "date": "2023-08-10"
+            }
+        ]
+    },
+    {
+        "id": 53,
+        "title": "AI and Automation: Transforming Business Operations",
+        "description": "Explore the impact of artificial intelligence and automation on modern business operations and the opportunities they bring.",
+        "img": "https://i.ibb.co/80tLJyP/img12.jpg",
+        "category": "business",
+        "subcategory": "AI & Automation",
+        "published_date": "2023-08-12",
+        "author": "David Clark",
+        "tags": [
+            "technology",
+            "AI",
+            "automation",
+            "business operations"
+        ],
+        "likes": 298,
+        "comments": [
+            {
+                "id": 231,
+                "author": "Aiden Turner",
+                "text": "Exceptional customer service is key for loyalty. The strategies outlined here are applicable to businesses of all sizes.",
+                "date": "2023-08-06"
+            },
+            {
+                "id": 232,
+                "author": "Olivia Davis",
+                "text": "Ethics play a vital role in business success. This article's insights into maintaining ethical practices are invaluable.",
+                "date": "2023-08-02"
+            }
+        ]
+    },
+    {
+        "id": 54,
+        "title": "Strategic Pricing for Competitive Advantage",
+        "description": "Learn how to set optimal pricing strategies that give your business a competitive edge while maintaining profitability.",
+        "img": "https://i.ibb.co/y5gSPQT/istockphoto-1256603011-612x612.jpg",
+        "category": "business",
+        "subcategory": "Pricing Strategy",
+        "published_date": "2023-08-05",
+        "author": "Sophia Turner",
+        "tags": [
+            "marketing",
+            "pricing strategy",
+            "competitive advantage"
+        ],
+        "likes": 247,
+        "comments": [
+            {
+                "id": 241,
+                "author": "Lucas Clark",
+                "text": "Product diversification can drive growth. The innovative strategies discussed here offer a fresh perspective.",
+                "date": "2023-07-28"
+            },
+            {
+                "id": 242,
+                "author": "Sophia Adams",
+                "text": "Remote collaboration is essential in today's work environment. The tools highlighted here are worth exploring.",
+                "date": "2023-07-24"
+            }
+        ]
+    },
+    {
+        "id": 55,
+        "title": "Building Customer Loyalty Through Exceptional Service",
+        "description": "Discover how to create lasting customer relationships by providing exceptional service and enhancing loyalty.",
+        "img": "https://i.ibb.co/C0GZfR9/img6.jpg",
+        "category": "business",
+        "subcategory": "Customer Loyalty",
+        "published_date": "2023-07-30",
+        "author": "John Miller",
+        "tags": [
+            "customer service",
+            "customer loyalty",
+            "relationship building"
+        ],
+        "likes": 312,
+        "comments": [
+            {
+                "id": 251,
+                "author": "Nathan Wilson",
+                "text": "Creating a strong sales funnel is key to conversion. The advice provided in this article is actionable and insightful.",
+                "date": "2023-07-20"
+            },
+            {
+                "id": 252,
+                "author": "Emma Turner",
+                "text": "Adaptive leadership is necessary for change. This article's insights into leading during uncertainty are valuable.",
+                "date": "2023-07-16"
+            }
+        ]
+    },
+    {
+        "id": 56,
+        "title": "The Role of Ethics in Modern Business",
+        "description": "Explore the importance of ethical practices in business and how they contribute to long-term success and reputation.",
+        "img": "https://i.ibb.co/bd0vHPk/img7.jpg",
+        "category": "business",
+        "subcategory": "Business Practices",
+        "published_date": "2023-07-20",
+        "author": "Emma Harris",
+        "tags": [
+            "ethics",
+            "business practices",
+            "reputation"
+        ],
+        "likes": 235,
+        "comments": [
+            {
+                "id": 261,
+                "author": "Ella Miller",
+                "text": "Clear communication is vital for remote teams. The strategies mentioned here can enhance team collaboration.",
+                "date": "2023-07-12"
+            },
+            {
+                "id": 262,
+                "author": "Liam Thompson",
+                "text": "Scaling a startup is challenging. The strategies outlined in this article provide a solid foundation for growth.",
+                "date": "2023-07-08"
+            }
+        ]
+    },
+    {
+        "id": 57,
+        "title": "Innovative Strategies for Product Diversification",
+        "description": "Learn how to expand your product offerings and diversify your business portfolio to capture new market opportunities.",
+        "img": "https://i.ibb.co/YDWhPym/img8.jpg",
+        "category": "business",
+        "subcategory": "Product Diversification",
+        "published_date": "2023-07-15",
+        "author": "Michael Turner",
+        "tags": [
+            "business growth",
+            "product diversification",
+            "market opportunities"
+        ],
+        "likes": 178,
+        "comments": [
+            {
+                "id": 271,
+                "author": "Grace Wilson",
+                "text": "Augmented reality is reshaping retail. The rise of AR shopping is an exciting development for the industry.",
+                "date": "2023-07-04"
+            },
+            {
+                "id": 272,
+                "author": "Noah Clark",
+                "text": "Team-building is essential for productivity. The strategies highlighted here can foster a positive team environment.",
+                "date": "2023-06-30"
+            }
+        ]
+    },
+    {
+        "id": 58,
+        "title": "Remote Collaboration Tools for Virtual Teams",
+        "description": "Discover a range of tools and technologies that enable effective remote collaboration and communication among virtual teams.",
+        "img": "https://i.ibb.co/72v8Ntn/img15.jpg",
+        "category": "business",
+        "subcategory": "Remote Work",
+        "published_date": "2023-07-08",
+        "author": "Sophie Clark",
+        "tags": [
+            "technology",
+            "remote work",
+            "collaboration tools"
+        ],
+        "likes": 329,
+        "comments": [
+            {
+                "id": 281,
+                "author": "Sophie Turner",
+                "text": "Video content is king in digital marketing. The insights into its dominance provided here are enlightening.",
+                "date": "2023-06-26"
+            },
+            {
+                "id": 282,
+                "author": "Nathan Harris",
+                "text": "Employee recognition matters. The role of recognition in fostering engagement is a key takeaway from this article.",
+                "date": "2023-06-22"
+            }
+        ]
+    },
+    {
+        "id": 59,
+        "title": "Creating a Winning Sales Funnel",
+        "description": "Learn how to design and optimize a sales funnel that guides potential customers from awareness to conversion.",
+        "img": "https://i.ibb.co/rF268fJ/img16.jpg",
+        "category": "business",
+        "subcategory": "Sales Funnel",
+        "published_date": "2023-06-30",
+        "author": "Daniel Smith",
+        "tags": [
+            "sales",
+            "sales funnel",
+            "conversion"
+        ],
+        "likes": 263,
+        "comments": [
+            {
+                "id": 291,
+                "author": "Emily Miller",
+                "text": "International expansion requires careful planning. The strategies mentioned here can guide successful market entry.",
+                "date": "2023-06-18"
+            },
+            {
+                "id": 292,
+                "author": "Jacob Wilson",
+                "text": "Innovative customer feedback methods are game-changers. This article's insights are valuable for improving customer satisfaction.",
+                "date": "2023-06-14"
+            }
+        ]
+    },
+    {
+        "id": 60,
+        "title": "Adaptive Leadership in a Rapidly Changing Business Landscape",
+        "description": "Explore the qualities and strategies of adaptive leadership to lead effectively in times of rapid change and uncertainty.",
+        "img": "https://i.ibb.co/9cXbzmn/img17.jpg",
+        "category": "business",
+        "subcategory": "Adaptive Leadership",
+        "published_date": "2023-06-22",
+        "author": "Olivia Johnson",
+        "tags": [
+            "leadership",
+            "adaptive leadership",
+            "change management"
+        ],
+        "likes": 384,
+        "comments": [
+            {
+                "id": 301,
+                "author": "Emma Turner",
+                "text": "Hybrid work models are the future. Successfully implementing them requires thoughtful consideration and strategies.",
+                "date": "2023-06-10"
+            },
+            {
+                "id": 302,
+                "author": "Liam Johnson",
+                "text": "Cross-functional collaboration sparks innovation. This article provides a roadmap for effective collaboration.",
+                "date": "2023-06-06"
+            }
+        ]
+    },
+    {
+        "id": 61,
+        "title": "Effective Communication Strategies for Remote Teams",
+        "description": "Learn how to foster clear and efficient communication within remote teams to ensure collaboration and productivity.",
+        "img": "https://i.ibb.co/BPJ3y1g/img19.jpg",
+        "category": "business",
+        "subcategory": "Remote Work",
+        "published_date": "2023-08-18",
+        "author": "Alex Turner",
+        "tags": [
+            "communication",
+            "remote work",
+            "team collaboration"
+        ],
+        "likes": 189,
+        "comments": [
+            {
+                "id": 311,
+                "author": "Ella Turner",
+                "text": "Effective time management is a game-changer. The strategies outlined in this article are practical and easy to implement.",
+                "date": "2023-08-18"
+            },
+            {
+                "id": 322,
+                "author": "Noah Miller",
+                "text": "Navigating taxation for small businesses is crucial. The advice provided here offers clarity in a complex area.",
+                "date": "2023-08-16"
+            }
+        ]
+    },
+    {
+        "id": 62,
+        "title": "Strategies for Scaling Your Startup",
+        "description": "Discover approaches to scale your startup and manage growth challenges while maintaining the core values of your business.",
+        "img": "https://i.ibb.co/NKFWCgG/img20.jpg",
+        "category": "business",
+        "subcategory": "Startup",
+        "published_date": "2023-08-14",
+        "author": "Sophia Miller",
+        "tags": [
+            "business growth",
+            "startup",
+            "scaling"
+        ],
+        "likes": 142,
+        "comments": [
+            {
+                "id": 321,
+                "author": "Ava Clark",
+                "text": "AI and automation are shaping the business landscape. This article's insights are eye-opening and thought-provoking.",
+                "date": "2023-08-14"
+            },
+            {
+                "id": 322,
+                "author": "Liam Davis",
+                "text": "Strategic pricing requires careful consideration. The guidance provided here can help businesses find the right balance.",
+                "date": "2023-08-12"
+            }
+        ]
+    },
+    {
+        "id": 63,
+        "title": "Innovations in Retail: The Rise of Augmented Reality Shopping",
+        "description": "Explore the use of augmented reality in the retail industry and how it enhances the shopping experience for consumers.",
+        "img": "https://i.ibb.co/3sFMZXv/img21.jpg",
+        "category": "business",
+        "subcategory": "Technology",
+        "published_date": "2023-08-10",
+        "author": "David Wilson",
+        "tags": [
+            "retail",
+            "technology",
+            "augmented reality"
+        ],
+        "likes": 301,
+        "comments": [
+            {
+                "id": 331,
+                "author": "Ethan Turner",
+                "text": "Exceptional service is the key to customer loyalty. The strategies outlined here resonate with customer-centric businesses.",
+                "date": "2023-08-10"
+            },
+            {
+                "id": 332,
+                "author": "Sophia Wilson",
+                "text": "Ethics are the foundation of sustainable business. This article's insights into ethical practices are commendable.",
+                "date": "2023-08-08"
+            }
+        ]
+    },
+    {
+        "id": 64,
+        "title": "Strategies for Effective Team Building",
+        "description": "Learn how to build cohesive and high-performing teams by employing effective team-building strategies and activities.",
+        "img": "https://i.ibb.co/jvRNZDR/img22.jpg",
+        "category": "business",
+        "subcategory": "Team Building",
+        "published_date": "2023-08-05",
+        "author": "Emily Smith",
+        "tags": [
+            "team management",
+            "team building",
+            "collaboration"
+        ],
+        "likes": 271,
+        "comments": [
+            {
+                "id": 341,
+                "author": "Oliver Clark",
+                "text": "Diversifying products can lead to growth. The innovative strategies discussed here offer a fresh perspective.",
+                "date": "2023-08-06"
+            },
+            {
+                "id": 342,
+                "author": "Emma Harris",
+                "text": "Remote collaboration tools are indispensable. The tools mentioned here can enhance virtual team communication.",
+                "date": "2023-08-04"
+            }
+        ]
+    },
+    {
+        "id": 65,
+        "title": "Digital Marketing Trends: Video Content Dominance",
+        "description": "Explore the dominance of video content in digital marketing strategies and how businesses can leverage its power.",
+        "img": "https://i.ibb.co/pQF6DPt/img23.jpg",
+        "category": "business",
+        "subcategory": "Digital Marketing",
+        "published_date": "2023-07-30",
+        "author": "Daniel Turner",
+        "tags": [
+            "marketing",
+            "digital marketing",
+            "video content"
+        ],
+        "likes": 398,
+        "comments": [
+            {
+                "id": 351,
+                "author": "Liam Turner",
+                "text": "Creating an effective sales funnel is a challenge. The insights shared here can guide businesses toward better conversion.",
+                "date": "2023-08-02"
+            },
+            {
+                "id": 352,
+                "author": "Ella Harris",
+                "text": "Adaptive leadership is essential for navigating change. This article's strategies provide a solid foundation for leaders.",
+                "date": "2023-07-31"
+            }
+        ]
+    },
+    {
+        "id": 66,
+        "title": "Einstein's Theory of Relativity",
+        "description": "Exploring the profound concepts of special and general relativity.",
+        "img": "https://i.ibb.co/KXcpCtP/p3.jpg",
+        "category": "science",
+        "subcategory": "physics",
+        "published_date": "2023-08-15",
+        "author": "Albert Einstein",
+        "tags": [
+            "physics",
+            "relativity",
+            "theoretical physics"
+        ],
+        "likes": 235,
+        "comments": [
+            {
+                "id": 101,
+                "author": "Alice",
+                "text": "This revolutionized our understanding of the universe!",
+                "date": "2023-08-10"
+            },
+            {
+                "id": 102,
+                "author": "Bob",
+                "text": "Einstein was a true genius.",
+                "date": "2023-08-10"
+            }
+        ]
+    },
+    {
+        "id": 67,
+        "title": "The Periodic Table",
+        "description": "A comprehensive look at the elements and their organization in the periodic table.",
+        "img": "https://i.ibb.co/6JkPNXV/c2.jpg",
+        "category": "science",
+        "subcategory": "chemistry",
+        "published_date": "2023-08-14",
+        "author": "Marie Curie",
+        "tags": [
+            "chemistry",
+            "elements",
+            "periodic table"
+        ],
+        "likes": 172,
+        "comments": [
+            {
+                "id": 103,
+                "author": "Carol",
+                "text": "I always found the periodic table fascinating.",
+                "date": "2023-08-09"
+            },
+            {
+                "id": 104,
+                "author": "David",
+                "text": "Great work by Marie Curie as always.",
+                "date": "2023-08-09"
+            }
+        ]
+    },
+    {
+        "id": 68,
+        "title": "Mathematical Puzzles",
+        "description": "Dive into challenging mathematical puzzles and their solutions.",
+        "img": "https://i.ibb.co/2KyKYQB/c3.jpg",
+        "category": "science",
+        "subcategory": "chemistry",
+        "published_date": "2023-08-13",
+        "author": "Alan Turing",
+        "tags": [
+            "mathematics",
+            "puzzles",
+            "logic"
+        ],
+        "likes": 123,
+        "comments": [
+            {
+                "id": 105,
+                "author": "Eve",
+                "text": "These puzzles make my brain work hard!",
+                "date": "2023-08-08"
+            },
+            {
+                "id": 106,
+                "author": "Frank",
+                "text": "Alan Turing was a true pioneer.",
+                "date": "2023-08-08"
+            }
+        ]
+    },
+    {
+        "id": 69,
+        "title": "Genetic Code Deciphered",
+        "description": "Unraveling the structure and significance of the DNA genetic code.",
+        "img": "https://i.ibb.co/DrtvrPb/p5.jpg",
+        "category": "science",
+        "subcategory": "physics",
+        "published_date": "2023-08-12",
+        "author": "Rosalind Franklin",
+        "tags": [
+            "biology",
+            "genetics",
+            "DNA"
+        ],
+        "likes": 198,
+        "comments": [
+            {
+                "id": 107,
+                "author": "Grace",
+                "text": "Rosalind Franklin's work paved the way for modern biology.",
+                "date": "2023-08-07"
+            },
+            {
+                "id": 108,
+                "author": "Henry",
+                "text": "The genetic code is the blueprint of life.",
+                "date": "2023-08-07"
+            }
+        ]
+    },
+    {
+        "id": 70,
+        "title": "Black Holes and Beyond",
+        "description": "A journey into the mysteries of black holes, event horizons, and spacetime curvature.",
+        "img": "https://i.ibb.co/z7zPjZL/p4.jpg",
+        "category": "science",
+        "subcategory": "physics",
+        "published_date": "2023-08-11",
+        "author": "Stephen Hawking",
+        "tags": [
+            "physics",
+            "black holes",
+            "cosmology"
+        ],
+        "likes": 327,
+        "comments": [
+            {
+                "id": 109,
+                "author": "Isabel",
+                "text": "The concepts of black holes blow my mind.",
+                "date": "2023-08-06"
+            },
+            {
+                "id": 110,
+                "author": "Jack",
+                "text": "Stephen Hawking's work reshaped our understanding of the cosmos.",
+                "date": "2023-08-06"
+            }
+        ]
+    },
+    {
+        "id": 71,
+        "title": "Chemical Reactions Unveiled",
+        "description": "Examining the fundamental principles behind chemical reactions and reaction kinetics.",
+        "img": "https://i.ibb.co/L6sQvNH/c4.jpg",
+        "category": "science",
+        "subcategory": "chemistry",
+        "published_date": "2023-08-10",
+        "author": "Linus Pauling",
+        "tags": [
+            "chemistry",
+            "chemical reactions",
+            "kinetics"
+        ],
+        "likes": 156,
+        "comments": [
+            {
+                "id": 111,
+                "author": "Karen",
+                "text": "Chemical reactions are the basis of so much in our world.",
+                "date": "2023-08-05"
+            },
+            {
+                "id": 112,
+                "author": "Leo",
+                "text": "Linus Pauling's contributions to chemistry are immense.",
+                "date": "2023-08-05"
+            }
+        ]
+    },
+    {
+        "id": 72,
+        "title": "Mathematical Foundations of Quantum Mechanics",
+        "description": "Exploring the mathematical concepts underpinning quantum mechanics.",
+        "img": "https://i.ibb.co/tLszRps/m4.jpg",
+        "category": "science",
+        "subcategory": "math",
+        "published_date": "2023-08-09",
+        "author": "Max Planck",
+        "tags": [
+            "mathematics",
+            "quantum mechanics",
+            "physics"
+        ],
+        "likes": 187,
+        "comments": [
+            {
+                "id": 113,
+                "author": "Nina",
+                "text": "Quantum mechanics is both fascinating and bewildering.",
+                "date": "2023-08-04"
+            },
+            {
+                "id": 114,
+                "author": "Oscar",
+                "text": "Max Planck's work laid the foundation for modern physics.",
+                "date": "2023-08-04"
+            }
+        ]
+    },
+    {
+        "id": 73,
+        "title": "Discovering DNA Structure",
+        "description": "The story behind the double-helix structure of DNA and its implications.",
+        "img": "https://i.ibb.co/R420Ytx/b3.jpg",
+        "category": "science",
+        "subcategory": "biology",
+        "published_date": "2023-08-08",
+        "author": "James Watson",
+        "tags": [
+            "biology",
+            "DNA",
+            "genetics"
+        ],
+        "likes": 215,
+        "comments": [
+            {
+                "id": 115,
+                "author": "Paula",
+                "text": "The DNA discovery was a milestone in science.",
+                "date": "2023-08-03"
+            },
+            {
+                "id": 116,
+                "author": "Quincy",
+                "text": "James Watson and Francis Crick revolutionized biology.",
+                "date": "2023-08-03"
+            }
+        ]
+    },
+    {
+        "id": 74,
+        "title": "The Beauty of Fractals",
+        "description": "Exploring the intricate world of fractal geometry and its applications.",
+        "img": "https://i.ibb.co/G0xx4W3/m3.jpg",
+        "category": "science",
+        "subcategory": "math",
+        "published_date": "2023-08-07",
+        "author": "Benoit Mandelbrot",
+        "tags": [
+            "mathematics",
+            "fractals",
+            "geometry"
+        ],
+        "likes": 143,
+        "comments": [
+            {
+                "id": 117,
+                "author": "Rachel",
+                "text": "Fractals show the beauty of mathematics in nature.",
+                "date": "2023-08-02"
+            },
+            {
+                "id": 118,
+                "author": "Sam",
+                "text": "Benoit Mandelbrot's work changed how we see complexity.",
+                "date": "2023-08-02"
+            }
+        ]
+    },
+    {
+        "id": 75,
+        "title": "The Birth of Modern Chemistry",
+        "description": "Examining the contributions of Antoine Lavoisier to the development of modern chemistry.",
+        "img": "https://i.ibb.co/Ms2hpKz/c1.jpg",
+        "category": "science",
+        "subcategory": "chemistry",
+        "published_date": "2023-08-06",
+        "author": "Antoine Lavoisier",
+        "tags": [
+            "chemistry",
+            "history of science",
+            "Lavoisier"
+        ],
+        "likes": 176,
+        "comments": [
+            {
+                "id": 119,
+                "author": "Tina",
+                "text": "Lavoisier's work marked a turning point in chemistry.",
+                "date": "2023-08-01"
+            },
+            {
+                "id": 120,
+                "author": "Ulysses",
+                "text": "The foundation of modern chemistry was laid by Lavoisier.",
+                "date": "2023-08-01"
+            }
+        ]
+    },
+    {
+        "id": 76,
+        "title": "Astrophysics and the Cosmos",
+        "description": "Delving into the mysteries of the universe, from cosmic inflation to dark matter.",
+        "img": "https://i.ibb.co/qFrQjfP/p2.jpg",
+        "category": "science",
+        "subcategory": "physics",
+        "published_date": "2023-08-05",
+        "author": "Carl Sagan",
+        "tags": [
+            "physics",
+            "astrophysics",
+            "cosmology"
+        ],
+        "likes": 298,
+        "comments": [
+            {
+                "id": 121,
+                "author": "Victoria",
+                "text": "Astrophysics makes us realize how small we are in the universe.",
+                "date": "2023-07-31"
+            },
+            {
+                "id": 122,
+                "author": "William",
+                "text": "Carl Sagan's way of explaining science is unparalleled.",
+                "date": "2023-07-31"
+            }
+        ]
+    },
+    {
+        "id": 77,
+        "title": "Chemical Bonding: Forces of Attraction",
+        "description": "Understanding the various types of chemical bonds and the forces that hold molecules together.",
+        "img": "https://i.ibb.co/0qRCDWV/c5.jpg",
+        "category": "science",
+        "subcategory": "chemistry",
+        "published_date": "2023-08-04",
+        "author": "Gilbert Lewis",
+        "tags": [
+            "chemistry",
+            "chemical bonding",
+            "molecular forces"
+        ],
+        "likes": 164,
+        "comments": [
+            {
+                "id": 123,
+                "author": "Xander",
+                "text": "Chemical bonding shapes the properties of matter.",
+                "date": "2023-07-30"
+            },
+            {
+                "id": 124,
+                "author": "Yara",
+                "text": "Gilbert Lewis' contributions to chemistry are timeless.",
+                "date": "2023-07-30"
+            }
+        ]
+    },
+    {
+        "id": 78,
+        "title": "Geometry and the Shape of Space",
+        "description": "Exploring the relationship between geometry, curvature, and the nature of space.",
+        "img": "https://i.ibb.co/HVYVC9m/m2.jpg",
+        "category": "science",
+        "subcategory": "math",
+        "published_date": "2023-08-03",
+        "author": "Euclid",
+        "tags": [
+            "mathematics",
+            "geometry",
+            "space"
+        ],
+        "likes": 141,
+        "comments": [
+            {
+                "id": 125,
+                "author": "Zane",
+                "text": "Geometry has a profound impact on how we perceive reality.",
+                "date": "2023-07-29"
+            },
+            {
+                "id": 126,
+                "author": "Ava",
+                "text": "Euclid's work laid the foundations of geometry.",
+                "date": "2023-07-29"
+            }
+        ]
+    },
+    {
+        "id": 79,
+        "title": "The Evolutionary Journey",
+        "description": "Tracing the history of life on Earth, from single-celled organisms to complex species.",
+        "img": "https://i.ibb.co/pw0qwCh/b4.jpg",
+        "category": "science",
+        "subcategory": "biology",
+        "published_date": "2023-08-02",
+        "author": "Charles Darwin",
+        "tags": [
+            "biology",
+            "evolution",
+            "natural selection"
+        ],
+        "likes": 248,
+        "comments": [
+            {
+                "id": 127,
+                "author": "Liam",
+                "text": "Darwin's theory of evolution revolutionized our understanding of life.",
+                "date": "2023-07-28"
+            },
+            {
+                "id": 128,
+                "author": "Mia",
+                "text": "Natural selection is a powerful force driving life's diversity.",
+                "date": "2023-07-28"
+            }
+        ]
+    },
+    {
+        "id": 80,
+        "title": "Unraveling Quantum Entanglement",
+        "description": "Diving into the enigmatic phenomenon of quantum entanglement and its implications.",
+        "img": "https://i.ibb.co/RptJH0s/p1.jpg",
+        "category": "science",
+        "subcategory": "physics",
+        "published_date": "2023-08-01",
+        "author": "Erwin Schrödinger",
+        "tags": [
+            "physics",
+            "quantum mechanics",
+            "entanglement"
+        ],
+        "likes": 292,
+        "comments": [
+            {
+                "id": 129,
+                "author": "Noah",
+                "text": "Quantum entanglement challenges our intuition about reality.",
+                "date": "2023-07-27"
+            },
+            {
+                "id": 130,
+                "author": "Olivia",
+                "text": "Erwin Schrödinger's thought experiments are mind-bending.",
+                "date": "2023-07-27"
+            }
+        ]
+    },
+    {
+        "id": 81,
+        "title": "The Power of Enzymes",
+        "description": "Exploring the crucial role of enzymes in biochemical reactions and life processes.",
+        "img": "https://i.ibb.co/pR1hZzy/b5.jpg",
+        "category": "science",
+        "subcategory": "biology",
+        "published_date": "2023-07-31",
+        "author": "Catalina Herrera",
+        "tags": [
+            "biology",
+            "enzymes",
+            "biochemistry"
+        ],
+        "likes": 179,
+        "comments": [
+            {
+                "id": 131,
+                "author": "Pablo",
+                "text": "Enzymes are the catalysts of life's chemistry.",
+                "date": "2023-07-26"
+            },
+            {
+                "id": 132,
+                "author": "Quinn",
+                "text": "Catalina Herrera's research advanced our understanding of enzymes.",
+                "date": "2023-07-26"
+            }
+        ]
+    },
+    {
+        "id": 82,
+        "title": "The Beauty of Prime Numbers",
+        "description": "Delving into the world of prime numbers and their significance in mathematics.",
+        "img": "https://i.ibb.co/RjrG5Rf/m5.jpg",
+        "category": "science",
+        "subcategory": "math",
+        "published_date": "2023-07-30",
+        "author": "Leonhard Euler",
+        "tags": [
+            "mathematics",
+            "prime numbers",
+            "number theory"
+        ],
+        "likes": 156,
+        "comments": [
+            {
+                "id": 133,
+                "author": "Ruby",
+                "text": "Prime numbers are like hidden gems in mathematics.",
+                "date": "2023-07-25"
+            },
+            {
+                "id": 134,
+                "author": "Sebastian",
+                "text": "Leonhard Euler's contributions to number theory are remarkable.",
+                "date": "2023-07-25"
+            }
+        ]
+    },
+    {
+        "id": 83,
+        "title": "Molecular Biology: Unveiling the Cell's Machinery",
+        "description": "Exploring the intricate world of molecular biology and cellular processes.",
+        "img": "https://i.ibb.co/TqJPnkf/b2.jpg",
+        "category": "science",
+        "subcategory": "biology",
+        "published_date": "2023-07-29",
+        "author": "Craig Venter",
+        "tags": [
+            "biology",
+            "molecular biology",
+            "cellular processes"
+        ],
+        "likes": 201,
+        "comments": [
+            {
+                "id": 135,
+                "author": "Tiffany",
+                "text": "Molecular biology uncovers the secrets of life at the cellular level.",
+                "date": "2023-07-24"
+            },
+            {
+                "id": 136,
+                "author": "Uma",
+                "text": "Craig Venter's contributions to genomics are groundbreaking.",
+                "date": "2023-07-24"
+            }
+        ]
+    },
+    {
+        "id": 84,
+        "title": "The Essence of Calculus",
+        "description": "Delving into the fundamental concepts of calculus and its applications in various fields.",
+        "img": "https://i.ibb.co/XXYxpN0/m1.jpg",
+        "category": "science",
+        "subcategory": "math",
+        "published_date": "2023-07-28",
+        "author": "Isaac Newton",
+        "tags": [
+            "mathematics",
+            "calculus",
+            "mathematical analysis"
+        ],
+        "likes": 189,
+        "comments": [
+            {
+                "id": 137,
+                "author": "Vivian",
+                "text": "Calculus changed the way we understand change itself.",
+                "date": "2023-07-23"
+            },
+            {
+                "id": 138,
+                "author": "William",
+                "text": "Isaac Newton's development of calculus was revolutionary.",
+                "date": "2023-07-23"
+            }
+        ]
+    },
+    {
+        "id": 85,
+        "title": "The Human Genome Project",
+        "description": "Examining the monumental effort to map the entire human genome.",
+        "img": "https://i.ibb.co/02vCkK0/b1.jpg",
+        "category": "science",
+        "subcategory": "biology",
+        "published_date": "2023-07-27",
+        "author": "Francis Collins",
+        "tags": [
+            "biology",
+            "genetics",
+            "human genome"
+        ],
+        "likes": 222,
+        "comments": [
+            {
+                "id": 139,
+                "author": "Xavier",
+                "text": "The Human Genome Project unlocked the secrets of our genetic makeup.",
+                "date": "2023-07-22"
+            },
+            {
+                "id": 140,
+                "author": "Yasmine",
+                "text": "Francis Collins led a monumental leap in genetics.",
+                "date": "2023-07-22"
+            }
+        ]
+    }
+]
