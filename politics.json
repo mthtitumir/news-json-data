@@ -1,0 +1,902 @@
+[
+    {
+        "id": 1,
+        "title": "Government Policy Analysis",
+        "description": "A comprehensive analysis of the recent government policy changes and their impact on the economy.",
+        "img": "https://i.ibb.co/ckrwG2g/politics1.jpg",
+        "category": "politics",
+        "subcategory": "asia",
+        "published_date": "2023-07-20",
+        "author": "Sarah Johnson",
+        "tags": [
+            "government",
+            "policy",
+            "economy"
+        ],
+        "likes": 128,
+        "comments": [
+            {
+                "id": 1,
+                "author": "David Smith",
+                "text": "This analysis is spot on!",
+                "date": "2023-07-21"
+            },
+            {
+                "id": 2,
+                "author": "Emily Brown",
+                "text": "I have some reservations about the conclusions.",
+                "date": "2023-07-22"
+            }
+        ]
+    },
+    {
+        "id": 2,
+        "title": "Global Diplomacy Trends",
+        "description": "Exploring the evolving diplomatic landscape and its implications for international relations.",
+        "img": "https://i.ibb.co/x3bxBS6/poitics-2.jpg",
+        "category": "politics",
+        "subcategory": "asia",
+        "published_date": "2023-06-15",
+        "author": "Michael Roberts",
+        "tags": [
+            "diplomacy",
+            "international relations",
+            "geopolitics"
+        ],
+        "likes": 87,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Alexandra Lee",
+                "text": "Fascinating read. The world is changing so rapidly.",
+                "date": "2023-06-16"
+            },
+            {
+                "id": 2,
+                "author": "Robert Clark",
+                "text": "I would like to see more analysis on specific regions.",
+                "date": "2023-06-17"
+            }
+        ]
+    },
+    {
+        "id": 3,
+        "title": "Electoral Strategies Unveiled",
+        "description": "An examination of the strategies employed by political parties in recent elections.",
+        "img": "https://i.ibb.co/QkFx4Tn/politics3.jpg",
+        "category": "politics",
+        "subcategory": "asia",
+        "published_date": "2023-05-10",
+        "author": "Jessica Martinez",
+        "tags": [
+            "elections",
+            "political parties",
+            "campaign strategies"
+        ],
+        "likes": 172,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Daniel Brown",
+                "text": "Insightful analysis. The use of technology is crucial.",
+                "date": "2023-05-11"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Adams",
+                "text": "I'm curious about the impact of social media in this context.",
+                "date": "2023-05-12"
+            }
+        ]
+    },
+    {
+        "id": 4,
+        "title": "Challenges in Legislative Reform",
+        "description": "Examining the obstacles and opportunities in reforming outdated legislative frameworks.",
+        "img": "https://i.ibb.co/wNbTDcf/politics4.jpg",
+        "category": "politics",
+        "subcategory": "asia",
+        "published_date": "2023-04-05",
+        "author": "Jonathan Williams",
+        "tags": [
+            "legislation",
+            "reform",
+            "government"
+        ],
+        "likes": 93,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Olivia Parker",
+                "text": "This article highlights the need for agile governance.",
+                "date": "2023-04-06"
+            },
+            {
+                "id": 2,
+                "author": "William Turner",
+                "text": "Legislative challenges vary greatly across different countries.",
+                "date": "2023-04-07"
+            }
+        ]
+    },
+    {
+        "id": 5,
+        "title": "Media's Role in Political Discourse",
+        "description": "Analyzing the influence of media on shaping public opinions and political debates.",
+        "img": "https://i.ibb.co/BZmDm6Q/politics5.jpg",
+        "category": "politics",
+        "subcategory": "asia",
+        "published_date": "2023-03-01",
+        "author": "Elizabeth Collins",
+        "tags": [
+            "media",
+            "public opinion",
+            "political discourse"
+        ],
+        "likes": 206,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Nathan Carter",
+                "text": "Media literacy is more important than ever in today's world.",
+                "date": "2023-03-02"
+            },
+            {
+                "id": 2,
+                "author": "Isabella White",
+                "text": "I'd like to see a comparison of media landscapes in different regions.",
+                "date": "2023-03-03"
+            }
+        ]
+    },
+    {
+        "id": 6,
+        "title": "Populism and Its Impact",
+        "description": "Examining the rise of populism in recent political movements and its implications for governance.",
+        "img": "https://i.ibb.co/bz9m7pS/politics6.jpg",
+        "category": "politics",
+        "subcategory": "north america",
+        "published_date": "2023-02-10",
+        "author": "Daniel Wilson",
+        "tags": [
+            "populism",
+            "politics",
+            "governance"
+        ],
+        "likes": 145,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Sophie Martin",
+                "text": "Populism seems to be reshaping the political landscape.",
+                "date": "2023-02-11"
+            },
+            {
+                "id": 2,
+                "author": "Liam Johnson",
+                "text": "I'm interested in the historical context of populism.",
+                "date": "2023-02-12"
+            }
+        ]
+    },
+    {
+        "id": 7,
+        "title": "Climate Change Policies",
+        "description": "Assessing the effectiveness of various climate change policies implemented by governments worldwide.",
+        "img": "https://i.ibb.co/6XsNd5j/politics7.jpg",
+        "category": "politics",
+        "subcategory": "north america",
+        "published_date": "2023-01-05",
+        "author": "Anna Thompson",
+        "tags": [
+            "climate change",
+            "policies",
+            "environment"
+        ],
+        "likes": 278,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Michael Adams",
+                "text": "The urgency of climate action cannot be overstated.",
+                "date": "2023-01-06"
+            },
+            {
+                "id": 2,
+                "author": "Emma Harris",
+                "text": "Are there any success stories in tackling climate change?",
+                "date": "2023-01-07"
+            }
+        ]
+    },
+    {
+        "id": 8,
+        "title": "The Role of International Organizations",
+        "description": "Exploring the role and influence of international organizations in global politics and diplomacy.",
+        "img": "https://i.ibb.co/5Fj8VCC/politics8.jpg",
+        "category": "politics",
+        "subcategory": "north america",
+        "published_date": "2022-12-01",
+        "author": "David Miller",
+        "tags": [
+            "international organizations",
+            "global politics",
+            "diplomacy"
+        ],
+        "likes": 194,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Green",
+                "text": "International organizations play a crucial role in maintaining stability.",
+                "date": "2022-12-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Walker",
+                "text": "I'd like to learn more about the decision-making processes within these organizations.",
+                "date": "2022-12-03"
+            }
+        ]
+    },
+    {
+        "id": 9,
+        "title": "Ethical Considerations in Politics",
+        "description": "Examining the ethical dilemmas faced by politicians and policymakers in making difficult decisions.",
+        "img": "https://i.ibb.co/st34YRb/politics11.jpg",
+        "category": "politics",
+        "subcategory": "north america",
+        "published_date": "2022-11-01",
+        "author": "Emily Turner",
+        "tags": [
+            "ethics",
+            "politics",
+            "decision-making"
+        ],
+        "likes": 152,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Brown",
+                "text": "Balancing ethics and pragmatism can be a real challenge.",
+                "date": "2022-11-02"
+            },
+            {
+                "id": 2,
+                "author": "Isabella Clark",
+                "text": "I wonder how different cultural perspectives affect ethical considerations.",
+                "date": "2022-11-03"
+            }
+        ]
+    },
+    {
+        "id": 10,
+        "title": "Social Media and Political Activism",
+        "description": "Analyzing the role of social media platforms in facilitating and shaping political activism.",
+        "img": "https://i.ibb.co/G0FvxnQ/politics13.jpg",
+        "category": "politics",
+        "subcategory": "north america",
+        "published_date": "2022-10-01",
+        "author": "Ryan Johnson",
+        "tags": [
+            "social media",
+            "political activism",
+            "technology"
+        ],
+        "likes": 311,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Sophie Roberts",
+                "text": "Social media has revolutionized the way we engage in activism.",
+                "date": "2022-10-02"
+            },
+            {
+                "id": 2,
+                "author": "Ethan Martin",
+                "text": "I'm interested in the potential downsides of digital activism.",
+                "date": "2022-10-03"
+            }
+        ]
+    },
+    {
+        "id": 11,
+        "title": "Gender Representation in Politics",
+        "description": "Examining the progress and challenges in achieving gender balance in political leadership roles.",
+        "img": "https://i.ibb.co/XfPSr1F/politics14.jpg",
+        "category": "politics",
+        "subcategory": "south america",
+        "published_date": "2022-09-01",
+        "author": "Lindsay Williams",
+        "tags": [
+            "gender representation",
+            "politics",
+            "leadership"
+        ],
+        "likes": 189,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Alex Parker",
+                "text": "Addressing gender inequality is crucial for a truly representative democracy.",
+                "date": "2022-09-02"
+            },
+            {
+                "id": 2,
+                "author": "Emma Turner",
+                "text": "I'd like to see a comparison of gender policies in different countries.",
+                "date": "2022-09-03"
+            }
+        ]
+    },
+    {
+        "id": 12,
+        "title": "Migration Policies and Global Politics",
+        "description": "Analyzing the impact of migration policies on international relations and geopolitics.",
+        "img": "https://i.ibb.co/0CRQdCV/politics15.jpg",
+        "category": "politics",
+        "subcategory": "south america",
+        "published_date": "2022-08-01",
+        "author": "James Anderson",
+        "tags": [
+            "migration",
+            "global politics",
+            "geopolitics"
+        ],
+        "likes": 265,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Natalie Brown",
+                "text": "Migration is a complex issue with multifaceted implications.",
+                "date": "2022-08-02"
+            },
+            {
+                "id": 2,
+                "author": "Ethan Turner",
+                "text": "I'm interested in understanding the role of humanitarian considerations.",
+                "date": "2022-08-03"
+            }
+        ]
+    },
+    {
+        "id": 13,
+        "title": "Nationalism and Its Modern Forms",
+        "description": "Exploring the resurgence of nationalism in contemporary politics and its impact on international relations.",
+        "img": "https://i.ibb.co/8sD7hS3/politics16.jpg",
+        "category": "politics",
+        "subcategory": "south america",
+        "published_date": "2022-07-01",
+        "author": "Olivia Robinson",
+        "tags": [
+            "nationalism",
+            "politics",
+            "international relations"
+        ],
+        "likes": 209,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Benjamin Clark",
+                "text": "Nationalism's influence seems to be growing worldwide.",
+                "date": "2022-07-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Turner",
+                "text": "I'd like to explore the historical roots of modern nationalism.",
+                "date": "2022-07-03"
+            }
+        ]
+    },
+    {
+        "id": 14,
+        "title": "Rise of Digital Diplomacy",
+        "description": "Examining how digital tools and social media are transforming the field of diplomacy.",
+        "img": "https://i.ibb.co/WVn6s1j/politics17.jpg",
+        "category": "politics",
+        "subcategory": "south america",
+        "published_date": "2022-06-01",
+        "author": "Michael Green",
+        "tags": [
+            "diplomacy",
+            "digital tools",
+            "communication"
+        ],
+        "likes": 185,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Emily Turner",
+                "text": "Digital diplomacy opens up new possibilities for international dialogue.",
+                "date": "2022-06-02"
+            },
+            {
+                "id": 2,
+                "author": "Ethan Miller",
+                "text": "I wonder how digital diplomacy affects traditional diplomatic channels.",
+                "date": "2022-06-03"
+            }
+        ]
+    },
+    {
+        "id": 15,
+        "title": "Political Polarization",
+        "description": "Analyzing the growing political polarization and its impact on democratic societies.",
+        "img": "https://i.ibb.co/XC9SfcY/politics18.jpg",
+        "category": "politics",
+        "subcategory": "south america",
+        "published_date": "2022-05-01",
+        "author": "Sophie Roberts",
+        "tags": [
+            "political polarization",
+            "democracy",
+            "society"
+        ],
+        "likes": 323,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Clark",
+                "text": "Addressing polarization is essential for maintaining a healthy democracy.",
+                "date": "2022-05-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Turner",
+                "text": "I'm interested in potential solutions to bridge political divides.",
+                "date": "2022-05-03"
+            }
+        ]
+    },
+    {
+        "id": 16,
+        "title": "Human Rights in Global Politics",
+        "description": "Examining the role of human rights in shaping international relations and policies.",
+        "img": "https://i.ibb.co/YNwHLB0/politics19.jpg",
+        "category": "politics",
+        "subcategory": "australia",
+        "published_date": "2022-04-01",
+        "author": "David Wilson",
+        "tags": [
+            "human rights",
+            "international relations",
+            "policies"
+        ],
+        "likes": 236,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Turner",
+                "text": "Human rights should be a central consideration in global politics.",
+                "date": "2022-04-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Green",
+                "text": "I'd like to explore case studies of human rights advocacy.",
+                "date": "2022-04-03"
+            }
+        ]
+    },
+    {
+        "id": 17,
+        "title": "The Future of Democracy",
+        "description": "Exploring potential developments and challenges for democratic systems in the coming years.",
+        "img": "https://i.ibb.co/sqmKLdX/politics20.jpg",
+        "category": "politics",
+        "subcategory": "australia",
+        "published_date": "2022-03-01",
+        "author": "Emily White",
+        "tags": [
+            "democracy",
+            "future",
+            "challenges"
+        ],
+        "likes": 287,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Adams",
+                "text": "The digital age presents both opportunities and risks for democracy.",
+                "date": "2022-03-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Martin",
+                "text": "I'd like to see a discussion on participatory democracy.",
+                "date": "2022-03-03"
+            }
+        ]
+    },
+    {
+        "id": 18,
+        "title": "Geopolitical Shifts in the 21st Century",
+        "description": "Analyzing the changing geopolitical dynamics and power structures in the modern world.",
+        "img": "https://i.ibb.co/gwJ9zMq/politics21.jpg",
+        "category": "politics",
+        "subcategory": "australia",
+        "published_date": "2022-02-01",
+        "author": "Daniel Turner",
+        "tags": [
+            "geopolitics",
+            "global power",
+            "world order"
+        ],
+        "likes": 254,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Olivia Adams",
+                "text": "The rise of new powers is reshaping international relations.",
+                "date": "2022-02-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Martin",
+                "text": "How are traditional superpowers adapting to these shifts?",
+                "date": "2022-02-03"
+            }
+        ]
+    },
+    {
+        "id": 19,
+        "title": "Youth Engagement in Politics",
+        "description": "Exploring the importance of involving young people in political processes and decision-making.",
+        "img": "https://i.ibb.co/vsDVRqK/politics22.jpg",
+        "category": "politics",
+        "subcategory": "australia",
+        "published_date": "2022-01-01",
+        "author": "Michael Turner",
+        "tags": [
+            "youth engagement",
+            "politics",
+            "participation"
+        ],
+        "likes": 298,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Green",
+                "text": "Empowering youth is essential for a vibrant and inclusive democracy.",
+                "date": "2022-01-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Adams",
+                "text": "I'm curious about effective strategies for engaging young people in politics.",
+                "date": "2022-01-03"
+            }
+        ]
+    },
+    {
+        "id": 20,
+        "title": "Political Leadership Styles",
+        "description": "Analyzing different leadership styles in politics and their impact on governance and decision-making.",
+        "img": "https://i.ibb.co/b5273Sd/politics23.jpg",
+        "category": "politics",
+        "subcategory": "australia",
+        "published_date": "2021-12-01",
+        "author": "Sophie Johnson",
+        "tags": [
+            "leadership",
+            "politics",
+            "governance"
+        ],
+        "likes": 315,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Adams",
+                "text": "Leadership plays a pivotal role in shaping a nation's trajectory.",
+                "date": "2021-12-02"
+            },
+            {
+                "id": 2,
+                "author": "Emma Turner",
+                "text": "I'd like to see a comparison of leadership styles across different countries.",
+                "date": "2021-12-03"
+            }
+        ]
+    },
+    {
+        "id": 21,
+        "title": "Economic Inequality and Political Stability",
+        "description": "Exploring the relationship between economic inequality and its impact on political stability.",
+        "img": "https://i.ibb.co/4N0FqkL/politics24.jpg",
+        "category": "politics",
+        "subcategory": "antarctica",
+        "published_date": "2021-11-01",
+        "author": "Michael Green",
+        "tags": [
+            "economic inequality",
+            "political stability",
+            "society"
+        ],
+        "likes": 241,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Turner",
+                "text": "Addressing inequality is crucial for maintaining social cohesion.",
+                "date": "2021-11-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Adams",
+                "text": "I'm interested in potential policy solutions to mitigate inequality.",
+                "date": "2021-11-03"
+            }
+        ]
+    },
+    {
+        "id": 22,
+        "title": "Post-Conflict Reconstruction",
+        "description": "Analyzing the challenges and strategies for rebuilding societies after conflict and war.",
+        "img": "https://i.ibb.co/5ct0yTY/politics25.jpg",
+        "category": "politics",
+        "subcategory": "antarctica",
+        "published_date": "2021-10-01",
+        "author": "Sophia Wilson",
+        "tags": [
+            "post-conflict reconstruction",
+            "peacebuilding",
+            "society"
+        ],
+        "likes": 278,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Adams",
+                "text": "Reconstruction efforts require a delicate balance of political and social considerations.",
+                "date": "2021-10-02"
+            },
+            {
+                "id": 2,
+                "author": "Emma Turner",
+                "text": "I'd like to learn more about the role of international organizations in this process.",
+                "date": "2021-10-03"
+            }
+        ]
+    },
+    {
+        "id": 23,
+        "title": "Digital Surveillance and Civil Liberties",
+        "description": "Examining the tension between digital surveillance practices and the protection of civil liberties.",
+        "img": "https://i.ibb.co/xzx1RfQ/politics26.jpg",
+        "category": "politics",
+        "subcategory": "antarctica",
+        "published_date": "2021-09-01",
+        "author": "David Miller",
+        "tags": [
+            "digital surveillance",
+            "privacy",
+            "civil liberties"
+        ],
+        "likes": 206,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Green",
+                "text": "Finding the right balance between security and privacy is a complex challenge.",
+                "date": "2021-09-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Turner",
+                "text": "I'm curious about the legal frameworks surrounding digital surveillance.",
+                "date": "2021-09-03"
+            }
+        ]
+    },
+    {
+        "id": 24,
+        "title": "Environmental Diplomacy",
+        "description": "Exploring how diplomacy and international cooperation can address global environmental challenges.",
+        "img": "https://i.ibb.co/8mHzJbf/politics27.jpg",
+        "category": "politics",
+        "subcategory": "antarctica",
+        "published_date": "2021-08-01",
+        "author": "Michael Clark",
+        "tags": [
+            "environmental diplomacy",
+            "international cooperation",
+            "climate change"
+        ],
+        "likes": 322,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Olivia Turner",
+                "text": "Environmental issues require collaborative efforts on a global scale.",
+                "date": "2021-08-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Adams",
+                "text": "I'm interested in the role of non-state actors in environmental diplomacy.",
+                "date": "2021-08-03"
+            }
+        ]
+    },
+    {
+        "id": 25,
+        "title": "The Rise of Technocracy",
+        "description": "Analyzing the growing influence of technocrats in policymaking and its implications.",
+        "img": "https://i.ibb.co/c65zydb/politics28.jpg",
+        "category": "politics",
+        "subcategory": "antarctica",
+        "published_date": "2021-07-01",
+        "author": "Daniel Turner",
+        "tags": [
+            "technocracy",
+            "policymaking",
+            "governance"
+        ],
+        "likes": 184,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Green",
+                "text": "Technocrats bring expertise, but what about democratic accountability?",
+                "date": "2021-07-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Adams",
+                "text": "I'd like to explore case studies of technocratic decision-making.",
+                "date": "2021-07-03"
+            }
+        ]
+    },
+    {
+        "id": 26,
+        "title": "Cybersecurity and Political Vulnerabilities",
+        "description": "Examining the intersection of cybersecurity and political systems, including potential vulnerabilities and threats.",
+        "img": "https://i.ibb.co/jwPL7k4/politics29.jpg",
+        "category": "politics",
+        "subcategory": "europe",
+        "published_date": "2021-06-01",
+        "author": "Sophia Miller",
+        "tags": [
+            "cybersecurity",
+            "politics",
+            "technology"
+        ],
+        "likes": 271,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Turner",
+                "text": "Cyber threats pose a new dimension to national security.",
+                "date": "2021-06-02"
+            },
+            {
+                "id": 2,
+                "author": "Emma Green",
+                "text": "I'd like to explore the role of international norms in cybersecurity.",
+                "date": "2021-06-03"
+            }
+        ]
+    },
+    {
+        "id": 27,
+        "title": "Political Discourse in the Digital Age",
+        "description": "Analyzing how digital platforms impact political discourse, from echo chambers to disinformation.",
+        "img": "https://i.ibb.co/bR8NZ0K/politics30.jpg",
+        "category": "politics",
+        "subcategory": "europe",
+        "published_date": "2021-05-01",
+        "author": "Michael Turner",
+        "tags": [
+            "political discourse",
+            "digital age",
+            "media"
+        ],
+        "likes": 297,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Adams",
+                "text": "Digital platforms have reshaped the way we engage with political ideas.",
+                "date": "2021-05-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Wilson",
+                "text": "I'm interested in the role of algorithms in shaping online discussions.",
+                "date": "2021-05-03"
+            }
+        ]
+    },
+    {
+        "id": 28,
+        "title": "Corruption and Governance",
+        "description": "Exploring the detrimental effects of corruption on governance and potential anti-corruption measures.",
+        "img": "https://i.ibb.co/z28gm85/politics31.jpg",
+        "category": "politics",
+        "subcategory": "europe",
+        "published_date": "2021-04-01",
+        "author": "Daniel Clark",
+        "tags": [
+            "corruption",
+            "governance",
+            "accountability"
+        ],
+        "likes": 232,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Olivia Turner",
+                "text": "Addressing corruption is essential for fostering trust in government.",
+                "date": "2021-04-02"
+            },
+            {
+                "id": 2,
+                "author": "Sophia Green",
+                "text": "I'd like to learn about successful cases of curbing corruption.",
+                "date": "2021-04-03"
+            }
+        ]
+    },
+    {
+        "id": 29,
+        "title": "Identity Politics and Group Representation",
+        "description": "Examining the role of identity politics in shaping group representation and policy agendas.",
+        "img": "https://i.ibb.co/rFpjhyF/politics32.jpg",
+        "category": "politics",
+        "subcategory": "europe",
+        "published_date": "2021-03-01",
+        "author": "Emily Miller",
+        "tags": [
+            "identity politics",
+            "representation",
+            "diversity"
+        ],
+        "likes": 218,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Lucas Adams",
+                "text": "Identity politics can amplify marginalized voices in the political arena.",
+                "date": "2021-03-02"
+            },
+            {
+                "id": 2,
+                "author": "Ella Turner",
+                "text": "I'm curious about the tensions between different identity groups.",
+                "date": "2021-03-03"
+            }
+        ]
+    },
+    {
+        "id": 30,
+        "title": "Artificial Intelligence in Governance",
+        "description": "Analyzing the potential of artificial intelligence in improving governance and public services.",
+        "img": "https://i.ibb.co/1sLx4jh/politics33.jpg",
+        "category": "politics",
+        "subcategory": "europe",
+        "published_date": "2021-02-01",
+        "author": "Sophia Clark",
+        "tags": [
+            "artificial intelligence",
+            "governance",
+            "technology"
+        ],
+        "likes": 289,
+        "comments": [
+            {
+                "id": 1,
+                "author": "Oliver Turner",
+                "text": "AI could lead to more efficient and data-driven decision-making.",
+                "date": "2021-02-02"
+            },
+            {
+                "id": 2,
+                "author": "Emma Wilson",
+                "text": "I'm interested in the ethical considerations of AI in governance.",
+                "date": "2021-02-03"
+            }
+        ]
+    }
+]
