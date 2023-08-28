@@ -3299,5 +3299,803 @@
                 "date": "2023-08-17"
             }
         ]
-    }
+    },
+    {"id": 110,
+"title": "West Indies to Host Caribbean Premier League",
+"description": "The Caribbean Premier League (CPL) is set to take place in the West Indies, featuring top T20 talents from around the world.",
+"img": "https://i.ibb.co/Wt0Wscg/110.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2023-11-25",
+"author": "Carlos Ramirez",
+"tags": ["CPL", "West Indies", "T20 cricket"],
+"likes": 189,
+"comments": [
+  {"id": 1, "author": "CaribbeanCricketFan", "text": "A carnival of cricket entertainment!", "date": "2023-11-26"},
+  {"id": 2, "author": "T20Aficionado", "text": "Looking forward to some big hits and tight contests.", "date": "2023-11-26"}
+]
+},
+{
+"id": 111,
+"title": "Australia Announces Test Squad for Series Against Pakistan",
+"description": "Australia's cricket selectors unveil the Test squad for the upcoming series against Pakistan, with a mix of experienced and young players.",
+"img": "https://i.ibb.co/LnXL6zw/111.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2023-12-18",
+"author": "Emily Anderson",
+"tags": ["Test cricket", "Australia", "Pakistan"],
+"likes": 324,
+"comments": [
+  {"id": 1, "author": "CricketLover", "text": "A balanced squad with potential match-winners.", "date": "2023-12-19"},
+  {"id": 2, "author": "AussieCricketFan", "text": "Curious to see how the newcomers perform.", "date": "2023-12-20"}
+]},
+
+
+{"id": 112,
+"title": "Bangladesh's Star Pacer Breaks Bowling Record",
+"description": "Bangladesh's fast bowler sets a new record for the most wickets taken in a calendar year across all formats of international cricket.",
+"img": "https://i.ibb.co/9pPwNbW/112.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2023-12-29",
+"author": "Mehdi Rahman",
+"tags": ["bowling record", "Bangladesh", "fast bowler"],
+"likes": 198,
+"comments": [
+  {"id": 1, "author": "TigerSupporter", "text": "A historic achievement for Bangladeshi cricket!", "date": "2023-12-30"},
+  {"id": 2, "author": "CricInsider", "text": "This bowler's consistency is commendable.", "date": "2023-12-31"}
+]},
+
+
+{"id": 113,
+"title": "India's Women's Team Gears Up for World Cup",
+"description": "India's women's cricket team intensifies its preparations for the upcoming World Cup, aiming for a strong showing on the global stage.",
+"img": "https://i.ibb.co/CwvYGSB/113.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-01-05",
+"author": "Anjali Sharma",
+"tags": ["Women's World Cup", "India", "preparations"],
+"likes": 256,
+"comments": [
+  {"id": 1, "author": "WomenInSports", "text": "Wishing them all the best on their journey!", "date": "2024-01-06"},
+  {"id": 2, "author": "CricketEnthusiast", "text": "Time for India's women to shine.", "date": "2024-01-06"}
+]},
+
+
+{"id": 114,
+"title": "South Africa's New Fast Bowling Sensation",
+"description": "A young fast bowler from South Africa catches the attention of cricket enthusiasts with his impressive performances, hinting at a bright future.",
+"img": "https://i.ibb.co/RPMbcJR/114.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-01-15",
+"author": "Kwame Zulu",
+"tags": ["fast bowler", "South Africa", "young talent"],
+"likes": 178,
+"comments": [
+  {"id": 1, "author": "ProteaPride", "text": "Looks like South Africa has another gem in their lineup!", "date": "2024-01-16"},
+  {"id": 2, "author": "CricketDevotee", "text": "Exciting times for Proteas fans.", "date": "2024-01-16"}
+]},
+
+ 
+{"id": 115,
+"title": "England's Wicketkeeper-Batsman Achieves Milestone",
+"description": "England's wicketkeeper-batsman becomes the youngest player to score 10,000 international runs across all formats of the game.",
+"img": "https://i.ibb.co/Gnm7bdx/115.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-01-30",
+"author": "Oliver Turner",
+"tags": ["wicketkeeper-batsman", "England", "milestone"],
+"likes": 312,
+"comments": [
+  {"id": 1, "author": "EngCricketFan", "text": "An astonishing achievement by a remarkable player.", "date": "2024-01-31"},
+  {"id": 2, "author": "CricketObserver", "text": "A testament to his skill and longevity.", "date": "2024-02-01"}
+]},
+
+ 
+{"id": 116,
+"title": "Pakistan's Spin Duo Script Victory in T20 Clash",
+"description": "Pakistan's spin bowlers join forces to dismantle the opposition's batting lineup, leading their team to victory in a crucial T20 match.",
+"img": "https://i.ibb.co/9T7FRkK/116.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-02-12",
+"author": "Nida Khan",
+"tags": ["T20", "Pakistan", "spin bowling"],
+"likes": 234,
+"comments": [
+  {"id": 1, "author": "CricInsider", "text": "Unplayable spin from Pakistan's dynamic duo!", "date": "2024-02-13"},
+  {"id": 2, "author": "SpinWizardFan", "text": "These bowlers are a nightmare for batsmen.", "date": "2024-02-14"}
+]},
+
+ 
+{"id": 117,
+"title": "Australia's T20 Captain Steps Down",
+"description": "Australia's T20 captain announces stepping down from leadership responsibilities, citing a desire to focus on personal performance.",
+"img": "https://i.ibb.co/HgctzNt/117.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-02-25",
+"author": "Grace Williams",
+"tags": ["T20", "Australia", "captaincy"],
+"likes": 167,
+"comments": [
+  {"id": 1, "author": "AussieCricketFan", "text": "A tough decision, but understandable.", "date": "2024-02-26"},
+  {"id": 2, "author": "CricketEnthusiast", "text": "Wishing the captain success in the next phase of their career.", "date": "2024-02-26"}
+]},
+
+ 
+{"id": 118,
+"title": "New Zealand's Rising Star Wins Player of the Tournament",
+"description": "A young cricketer from New Zealand earns the Player of the Tournament award in a major international competition, showcasing immense potential.",
+"img": "https://i.ibb.co/K0zTPN2/118.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-03-05",
+"author": "Liam McKenzie",
+"tags": ["rising star", "New Zealand", "Player of the Tournament"],
+"likes": 189,
+"comments": [
+  {"id": 1, "author": "BlackCapsFan", "text": "A glimpse of the future of New Zealand cricket!", "date": "2024-03-06"},
+  {"id": 2, "author": "CricketAficionado", "text": "This young player is destined for greatness.", "date": "2024-03-07"}
+]},
+
+
+{"id": 119,
+"title": "South Africa's Women's Team Qualifies for World Cup",
+"description": "South Africa's women's cricket team secures qualification for the upcoming World Cup, celebrating a major achievement on the global stage.",
+"img": "https://i.ibb.co/09qM7xb/119.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-03-18",
+"author": "Zinhle Ndlovu",
+"tags": ["Women's World Cup", "South Africa", "qualification"],
+"likes": 276,
+"comments": [
+  {"id": 1, "author": "ProteaPride", "text": "A proud moment for women's cricket in South Africa!", "date": "2024-03-19"},
+  {"id": 2, "author": "WomenInSports", "text": "Congratulations to the Proteas!", "date": "2024-03-19"}
+]},
+
+
+{"id": 120,
+"title": "England's Star Batsman Reaches Triple Century",
+"description": "An England cricket team's star batsman achieves a remarkable milestone by scoring a triple century in a Test match against a formidable opponent.",
+"img": "https://i.ibb.co/sCz58qV/120.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-03-28",
+"author": "Henry Foster",
+"tags": ["Test cricket", "England", "triple century"],
+"likes": 345,
+"comments": [
+  {"id": 1, "author": "EngCricketFan", "text": "A truly monumental innings!", "date": "2024-03-29"},
+  {"id": 2, "author": "CricketEnthusiast", "text": "A once-in-a-generation player.", "date": "2024-03-30"}
+]},
+
+
+{"id": 121,
+"title": "Pakistan's ODI Series Victory Against West Indies",
+"description": "Pakistan cricket team clinches the ODI series victory against West Indies, showcasing their skills and teamwork throughout the matches.",
+"img": "https://i.ibb.co/WxgT0td/121.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-04-10",
+"author": "Zainab Ali",
+"tags": ["ODI", "Pakistan", "West Indies"],
+"likes": 198,
+"comments": [
+  {"id": 1, "author": "CricInsider", "text": "A dominating display by Pakistan!", "date": "2024-04-11"},
+  {"id": 2, "author": "WindiesCricketFan", "text": "West Indies needs to regroup for the next series.", "date": "2024-04-11"}
+]
+},
+
+{"id": 122,
+"title": "Australia's Women's Team Continues Unbeaten Streak",
+"description": "Australia's women's cricket team extends their unbeaten streak with a convincing win in a T20 match against a challenging opponent.",
+"img": "https://i.ibb.co/9YqnVtY/122.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-04-20",
+"author": "Sophie Williams",
+"tags": ["T20", "Australia", "women's cricket", "unbeaten streak"],
+"likes": 456,
+"comments": [
+  {"id": 1, "author": "WomenInSports", "text": "These athletes are rewriting records!", "date": "2024-04-21"},
+  {"id": 2, "author": "CricketLover", "text": "Australia's dominance is truly impressive.", "date": "2024-04-22"}
+]},
+
+
+{"id": 123,
+"title": "Bangladesh's Sensational Chase in ODI Thriller",
+"description": "Bangladesh cricket team pulls off a stunning chase in a nail-biting ODI match, thrilling fans and leaving opponents in awe.",
+"img": "https://i.ibb.co/dQP54q6/123.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-05-03",
+"author": "Sadia Rahman",
+"tags": ["ODI", "Bangladesh", "thriller"],
+"likes": 235,
+"comments": [
+  {"id": 1, "author": "TigerSupporter", "text": "A heart-stopping victory!", "date": "2024-05-04"},
+  {"id": 2, "author": "CricEnthusiast", "text": "One of the most memorable matches of recent times.", "date": "2024-05-05"}
+]},
+
+
+{"id": 124,
+"title": "India's T20 Captain Resigns Unexpectedly",
+"description": "India's T20 cricket team captain shocks fans by unexpectedly resigning from the captaincy, citing personal reasons for the decision.",
+"img": "https://i.ibb.co/mHzX3fH/124.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-05-15",
+"author": "Rahul Desai",
+"tags": ["T20", "India", "captaincy"],
+"likes": 179,
+"comments": [
+  {"id": 1, "author": "IndCricketFan", "text": "A surprising turn of events.", "date": "2024-05-16"},
+  {"id": 2, "author": "CricketObserver", "text": "Wonder what prompted this decision.", "date": "2024-05-17"}
+]},
+
+ 
+{"id": 125,
+"title": "South Africa's Women's Team Clinches T20 Series",
+"description": "South Africa's women's cricket team seals victory in the T20 series against a strong opponent, showcasing their prowess in the shortest format.",
+"img": "https://i.ibb.co/7XFmKYH/125.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-06-01",
+"author": "Lerato Mabena",
+"tags": ["T20", "South Africa", "women's cricket", "series victory"],
+"likes": 295,
+"comments": [
+  {"id": 1, "author": "ProteaPride", "text": "A fantastic display by our women cricketers!", "date": "2024-06-02"},
+  {"id": 2, "author": "WomenInSports", "text": "South Africa's women are setting the bar high.", "date": "2024-06-02"}
+]},
+
+ 
+{"id": 126,
+"title": "New Zealand's Test Captain Calls it Quits",
+"description": "New Zealand's Test cricket team captain announces retirement from international cricket, leaving a legacy of leadership and achievements.",
+"img": "https://i.ibb.co/ft889Ph/126.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-06-15",
+"author": "Timothy White",
+"tags": ["Test cricket", "New Zealand", "captaincy", "retirement"],
+"likes": 222,
+"comments": [
+  {"id": 1, "author": "BlackCapsFan", "text": "An end of an era for New Zealand cricket.", "date": "2024-06-16"},
+  {"id": 2, "author": "CricketDevotee", "text": "Thank you for your dedication, skipper.", "date": "2024-06-17"}
+]},
+
+
+{"id": 127,
+"title": "England's All-Rounder Returns from Injury Layoff",
+"description": "England cricket team's versatile all-rounder makes a triumphant return to the squad after recovering from a prolonged injury absence.",
+"img": "https://i.ibb.co/dtSc9zr/127.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-06-25",
+"author": "Sophia Adams",
+"tags": ["England", "all-rounder", "injury comeback"],
+"likes": 310,
+"comments": [
+  {"id": 1, "author": "CricketFanatic", "text": "Welcome back! England needed your presence.", "date": "2024-06-26"},
+  {"id": 2, "author": "AllRounderAdmirer", "text": "An asset in both batting and bowling.", "date": "2024-06-27"}
+]},
+
+ 
+{"id": 128,
+"title": "Pakistan's Emerging Talent Shines in U-19 World Cup",
+"description": "Pakistan's Under-19 cricket team showcases exceptional talent as they reach the finals of the U-19 World Cup, promising a bright future for the nation.",
+"img": "https://i.ibb.co/kGTPw2v/128.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-07-05",
+"author": "Usman Ahmed",
+"tags": ["U-19 World Cup", "Pakistan", "emerging talent"],
+"likes": 187,
+"comments": [
+  {"id": 1, "author": "YouthCricketFollower", "text": "Pakistan's future stars are making their mark!", "date": "2024-07-06"},
+  {"id": 2, "author": "CricketEnthusiast", "text": "A glimpse of what's to come.", "date": "2024-07-07"}
+]},
+
+
+{"id": 129,
+"title": "Australia's T20 Franchise League Kicks Off",
+"description": "Australia's T20 franchise league, featuring high-octane cricket action and star-studded lineups, begins to enthral cricket enthusiasts.",
+"img": "https://i.ibb.co/J2V06FN/129.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-07-18",
+"author": "Alex Mitchell",
+"tags": ["T20", "Australia", "franchise league"],
+"likes": 279,
+"comments": [
+  {"id": 1, "author": "AussieCricketFan", "text": "The league we've all been waiting for!", "date": "2024-07-19"},
+  {"id": 2, "author": "T20Aficionado", "text": "Expecting some nail-biting encounters.", "date": "2024-07-19"}
+]},
+
+ 
+{"id": 130,
+"title": "Bangladesh's Historic Test Series Triumph in England",
+"description": "Bangladesh cricket team achieves a historic Test series victory against England on English soil, marking a watershed moment in their cricketing journey.",
+"img": "https://i.ibb.co/X4Y6dY8/130.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-08-02",
+"author": "Rahim Khan",
+"tags": ["Test cricket", "Bangladesh", "England", "historic win"],
+"likes": 315,
+"comments": [
+  {"id": 1, "author": "TigerSupporter", "text": "A remarkable achievement for Bangladesh cricket!", "date": "2024-08-03"},
+  {"id": 2, "author": "CricInsider", "text": "This win will be remembered for years.", "date": "2024-08-04"}
+]
+},
+
+{"id": 131,
+"title": "India's Bowlers Shine in Test Series Victory",
+"description": "India's cricket team's bowling attack displays exceptional skill and teamwork as they secure a comprehensive Test series victory against a strong opponent.",
+"img": "https://i.ibb.co/djPkztX/131.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-08-15",
+"author": "Amit Sharma",
+"tags": ["Test cricket", "India", "bowling performance", "series victory"],
+"likes": 382,
+"comments": [
+  {"id": 1, "author": "IndCricketFan", "text": "Our bowlers showcased their dominance!", "date": "2024-08-16"},
+  {"id": 2, "author": "CricketEnthusiast", "text": "An example of great teamwork in action.", "date": "2024-08-17"}
+]},
+
+
+{"id": 132,
+"title": "South Africa's T20 Captaincy Undergoes Change",
+"description": "South Africa's T20 cricket team announces a new captain to lead the side, aiming for fresh perspectives and renewed success.",
+"img": "https://i.ibb.co/t44ZF09/132.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-08-28",
+"author": "Lungi Maseko",
+"tags": ["T20", "South Africa", "captaincy"],
+"likes": 198,
+"comments": [
+  {"id": 1, "author": "ProteaPride", "text": "Change can often bring positive outcomes.", "date": "2024-08-29"},
+  {"id": 2, "author": "CricketObserver", "text": "Wishing the new captain the best of luck.", "date": "2024-08-30"}
+]},
+
+
+{"id": 133,
+"title": "England's ODI Squad Announced for World Cup",
+"description": "England's cricket selectors reveal the ODI squad for the upcoming World Cup, featuring a mix of experienced players and rising talents.",
+"img": "https://i.ibb.co/jGyh7WD/133.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-09-10",
+"author": "Charlotte Turner",
+"tags": ["ODI", "England", "World Cup"],
+"likes": 336,
+"comments": [
+  {"id": 1, "author": "EngCricketFan", "text": "Hoping for a strong campaign from the English team!", "date": "2024-09-11"},
+  {"id": 2, "author": "CricketLover", "text": "The squad looks promising and balanced.", "date": "2024-09-12"}
+]},
+
+
+{"id": 134,
+"title": "Bangladesh's Spinners Excel in Asia Cup",
+"description": "Bangladesh cricket team's spin bowlers play a pivotal role in their success as they clinch the Asia Cup title, outclassing opponents in the tournament.",
+"img": "https://i.ibb.co/WVTVdWd/134.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-09-22",
+"author": "Farid Ahmed",
+"tags": ["Asia Cup", "Bangladesh", "spin bowling", "champions"],
+"likes": 245,
+"comments": [
+  {"id": 1, "author": "TigerSupporter", "text": "Our spinners truly spun a web!", "date": "2024-09-23"},
+  {"id": 2, "author": "CricInsider", "text": "Dominance by the Bangladesh team.", "date": "2024-09-24"}
+]},
+
+{
+"id": 135,
+"title": "Australia's Cricketer of the Year Award",
+"description": "Australia's cricket board announces the Cricketer of the Year award, recognizing exceptional performances across formats in the past year.",
+"img": "https://i.ibb.co/V9VKJYn/135.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-10-05",
+"author": "Emma Mitchell",
+"tags": ["Cricketer of the Year", "Australia", "awards"],
+"likes": 172,
+"comments": [
+  {"id": 1, "author": "AussieCricketFan", "text": "A deserving recognition for outstanding contributions.", "date": "2024-10-06"},
+  {"id": 2, "author": "CricketEnthusiast", "text": "Looking forward to finding out the winner!", "date": "2024-10-07"}
+]},
+
+
+{"id": 136,
+"title": "New Zealand's Test Opener Registers Record Partnership",
+"description": "New Zealand's cricket team's opening pair sets a new record for the highest partnership in Test cricket, showcasing their resilience and skill.",
+"img": "https://i.ibb.co/RHBF6Ns/136.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-10-18",
+"author": "Sophie Williams",
+"tags": ["Test cricket", "New Zealand", "record partnership"],
+"likes": 298,
+"comments": [
+  {"id": 1, "author": "BlackCapsFan", "text": "An unforgettable partnership!", "date": "2024-10-19"},
+  {"id": 2, "author": "CricketAficionado", "text": "A testament to their mutual understanding.", "date": "2024-10-20"}
+]},
+
+
+{"id": 137,
+"title": "England's Women's Team Triumphs in T20 World Cup",
+"description": "England's women's cricket team emerges victorious in the T20 World Cup, showcasing exceptional skills and teamwork throughout the tournament.",
+"img": "https://i.ibb.co/T20MhCW/137.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-10-30",
+"author": "Olivia Turner",
+"tags": ["T20 World Cup", "England", "champions"],
+"likes": 376,
+"comments": [
+  {"id": 1, "author": "WomenInSports", "text": "A remarkable achievement for women's cricket!", "date": "2024-10-31"},
+  {"id": 2, "author": "CricketDevotee", "text": "They played like true champions.", "date": "2024-11-01"}
+]
+},
+
+{"id": 138,
+"title": "Pakistan's Fast Bowler Returns with Fiery Spell",
+"description": "Pakistan's fast bowler makes a fiery return to international cricket, delivering an impressive spell that rattles the opposition's batting lineup.",
+"img": "https://i.ibb.co/DKgbH2T/138.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-11-10",
+"author": "Ahmed Khan",
+"tags": ["fast bowler", "Pakistan", "comeback"],
+"likes": 209,
+"comments": [
+  {"id": 1, "author": "CricInsider", "text": "A comeback with a bang!", "date": "2024-11-11"},
+  {"id": 2, "author": "FastBowlingAficionado", "text": "This bowler is a force to be reckoned with.", "date": "2024-11-12"}
+]},
+
+
+{"id": 139,
+"title": "Australia's Youngest Centurion in Test Cricket",
+"description": "A young cricketer from Australia becomes the youngest player to score a century in Test cricket, capturing the attention of fans worldwide.",
+"img": "https://i.ibb.co/Gk4pg4P/139.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-11-22",
+"author": "Alex Mitchell",
+"tags": ["Test cricket", "Australia", "youngest centurion"],
+"likes": 321,
+"comments": [
+  {"id": 1, "author": "AussieCricketFan", "text": "A star in the making!", "date": "2024-11-23"},
+  {"id": 2, "author": "CricketAficionado", "text": "The future of Australian cricket looks bright.", "date": "2024-11-24"}
+]},
+
+
+{"id": 140,
+"title": "Bangladesh's Women's Team Makes History in T20",
+"description": "Bangladesh's women's cricket team creates history by reaching the finals of a major T20 tournament, showcasing their rapid progress and determination.",
+"img": "https://i.ibb.co/MMW2kz6/140.jpg",
+"category": "sports",
+"subcategory": "cricket",
+"published_date": "2024-12-03",
+"author": "Sadia Rahman",
+"tags": ["T20", "Bangladesh", "women's cricket", "historic achievement"],
+"likes": 257,
+"comments": [
+  {"id": 1, "author": "TigerSupporter", "text": "A remarkable journey for Bangladesh's women cricketers!", "date": "2024-12-04"},
+  {"id": 2, "author": "WomenInSports", "text": "Breaking barriers and setting new standards.", "date": "2024-12-04"}
+]},
+{
+    "id": 141,
+    "title": "Captain's Comeback: Star Player Returns After Injury",
+    "description": "The team's captain makes a triumphant return to the field after recovering from a long-term injury, boosting morale and team spirit.",
+    "img": "https://i.ibb.co/pbms7t2/141.jpg",
+    "category": "sports",
+    "subcategory": "football",
+    "published_date": "2024-09-18",
+    "author": "David Rodriguez",
+    "tags": ["captain's return", "injury recovery", "team morale"],
+    "likes": 219,
+    "comments": [
+      {"id": 1, "author": "FootballFanatic", "text": "His presence on the field is invaluable.", "date": "2024-09-19"},
+      {"id": 2, "author": "SoccerSupporter", "text": "Great to see the captain back in action.", "date": "2024-09-19"}
+    ]
+  },
+  {
+    "id": 142,
+    "title": "Title Race Intensifies: Tight Competition at the Top",
+    "description": "The race for the league title heats up as multiple teams are neck-and-neck at the top of the table, setting the stage for a thrilling finish.",
+    "img": "https://i.ibb.co/dfdSdq4/142.jpg",
+    "category": "sports",
+    "subcategory": "football",
+    "published_date": "2024-09-28",
+    "author": "Sophia Lewis",
+    "tags": ["title race", "league competition", "thrilling finish"],
+    "likes": 276,
+    "comments": [
+      {"id": 1, "author": "FootballObserver", "text": "Every match counts in such a tight competition.", "date": "2024-09-29"},
+      {"id": 2, "author": "SoccerEnthusiast", "text": "Predictions are nearly impossible at this stage.", "date": "2024-09-29"}
+    ]
+  },
+  {
+    "id": 143,
+    "title": "Rising Star's Contract Extension: Club Secures Future",
+    "description": "The club announces the extension of a rising star's contract, signaling the commitment to nurturing and retaining young talent.",
+    "img": "https://i.ibb.co/Bsj8Pxf/143.jpg",
+    "category": "sports",
+    "subcategory": "football",
+    "published_date": "2024-10-10",
+    "author": "John Thompson",
+    "tags": ["contract extension", "rising star", "young talent"],
+    "likes": 307,
+    "comments": [
+      {"id": 1, "author": "FootballAficionado", "text": "Investing in the future is a smart move.", "date": "2024-10-11"},
+      {"id": 2, "author": "SoccerSupporter", "text": "Keeping talented players is key to sustained success.", "date": "2024-10-11"}
+    ]
+  },
+  {
+    "id": 144,
+    "title": "Legendary Striker Retires: A Glorious Career Comes to an End",
+    "description": "A football icon announces his retirement, marking the end of a storied career that has left an indelible mark on the sport.",
+    "img": "https://i.ibb.co/X4KNf2Y/144.jpg",
+    "category": "sports",
+    "subcategory": "football",
+    "published_date": "2024-10-22",
+    "author": "Emily Johnson",
+    "tags": ["retirement", "legendary striker", "glorious career"],
+    "likes": 186,
+    "comments": [
+      {"id": 1, "author": "FootballLover", "text": "A true legend of the game bids farewell.", "date": "2024-10-23"},
+      {"id": 2, "author": "SoccerFanatic", "text": "His legacy will continue to inspire generations.", "date": "2024-10-23"}
+    ]
+  },
+  {
+    "id": 145,
+    "title": "Fan's Perspective: The Impact of the Home Crowd",
+    "description": "A passionate fan shares insights on how the presence of a fervent home crowd can influence a team's performance and create a powerful atmosphere.",
+    "img": "https://i.ibb.co/4mr6rpT/145.jpg",
+    "category": "sports",
+    "subcategory": "football",
+    "published_date": "2024-11-05",
+    "author": "Matthew Wilson",
+    "tags": ["fan perspective", "home crowd", "atmosphere"],
+    "likes": 142,
+    "comments": [
+      {"id": 1, "author": "FootballDiehard", "text": "Fans truly are the twelfth player on the field.", "date": "2024-11-06"},
+      {"id": 2, "author": "SoccerDevotee", "text": "The energy of the crowd can be electrifying.", "date": "2024-11-06"}
+    ]
+  },
+  {
+    "id": 146,
+    "title": "International Break: National Teams Clash in Exciting Friendlies",
+    "description": "During the international break, national teams engage in exciting friendly matches, giving players a chance to represent their countries on the global stage.",
+    "img": "https://i.ibb.co/23K4nNk/146.jpg",
+    "category": "sports",
+    "subcategory": "football",
+    "published_date": "2024-11-15",
+    "author": "Lucas Martinez",
+    "tags": ["international break", "friendly matches", "national teams"],
+    "likes": 179,
+    "comments": [
+      {"id": 1, "author": "FootballEnthusiast", "text": "A taste of international football outside of tournaments.", "date": "2024-11-16"},
+      {"id": 2, "author": "SoccerPassion", "text": "Friendlies often unveil future stars and interesting matchups.", "date": "2024-11-16"}
+    ]
+  },
+  {
+    "id": 147,
+    "title": "Football and Community: Club's Initiatives Make a Difference",
+    "description": "The club's community outreach programs and initiatives highlight the positive impact of football in fostering unity, inclusivity, and social change.",
+    "img": "https://i.ibb.co/NxhgQZp/147.jpg",
+    "category": "sports",
+    "subcategory": "football",
+    "published_date": "2024-11-28",
+    "author": "Isabella Garcia",
+    "tags": ["community initiatives", "inclusivity", "social change"],
+    "likes": 198,
+    "comments": [
+      {"id": 1, "author": "Football4Good", "text": "Football has the power to transcend the game itself.", "date": "2024-11-29"},
+      {"id": 2, "author": "SoccerAdvocate", "text": "Kudos to the club for using its influence for good.", "date": "2024-11-29"}
+    ]
+  },
+  {
+    "id": 148,
+    "title": "Football Fashion: Players' Stylish Choices Off the Field",
+    "description": "Exploring the fashion sense of football players as they make stylish statements with their outfits outside the stadium, influencing trends and fans alike.",
+    "img": "https://i.ibb.co/Hh4FNLq/148.jpg",
+    "category": "lifestyle",
+    "subcategory": "fashion",
+    "published_date": "2024-12-10",
+    "author": "Sophie Anderson",
+    "tags": ["football fashion", "stylish choices", "trendsetters"],
+    "likes": 165,
+    "comments": [
+      {"id": 1, "author": "FashionFootballer", "text": "Players are style icons both on and off the field.", "date": "2024-12-11"},
+      {"id": 2, "author": "SoccerTrendWatcher", "text": "Their fashion choices often reflect their personalities.", "date": "2024-12-11"}
+    ]
+  },
+  {
+    "id": 149,
+    "title": "Winter Transfer Window: Clubs Eye Reinforcements",
+    "description": "As the winter transfer window approaches, football clubs are actively scouting and pursuing potential signings to strengthen their squads for the season.",
+    "img": "https://i.ibb.co/tKCddHK/149.jpg",
+    "category": "sports",
+    "subcategory": "football",
+    "published_date": "2024-12-22",
+    "author": "Daniel Smith",
+    "tags": ["transfer window", "reinforcements", "winter signings"],
+    "likes": 254,
+    "comments": [
+      {"id": 1, "author": "TransferRumors", "text": "Speculation and anticipation always surround the transfer window.", "date": "2024-12-23"},
+      {"id": 2, "author": "SoccerInsider", "text": "Clubs are strategizing to fill gaps and bolster their ranks.", "date": "2024-12-23"}
+    ]
+  },
+  {
+    "id": 160,
+    "title": "Grand Slam Triumph: Player Clinches First Major Title",
+    "description": "A rising tennis star secures their first Grand Slam victory, marking a historic moment in their career and signaling a new era in tennis.",
+    "img": "https://i.ibb.co/6RQv3Sq/160.jpg",
+    "category": "sports",
+    "subcategory": "tennis",
+    "published_date": "2025-01-15",
+    "author": "Anna Wilson",
+    "tags": ["Grand Slam victory", "rising star", "historic moment"],
+    "likes": 312,
+    "comments": [
+      {"id": 1, "author": "TennisEnthusiast", "text": "The first of many more to come!", "date": "2025-01-16"},
+      {"id": 2, "author": "TennisFanatic", "text": "Such an inspiring journey to success.", "date": "2025-01-16"}
+    ]
+  },
+  {
+    "id": 161,
+    "title": "Clay Court Dominance: Player's Winning Streak Continues",
+    "description": "A tennis player's exceptional performance on clay courts leads to a series of victories, solidifying their reputation as a force to be reckoned with on this surface.",
+    "img": "https://i.ibb.co/0XBpNtY/161.jpg",
+    "category": "sports",
+    "subcategory": "tennis",
+    "published_date": "2025-02-02",
+    "author": "Mark Thompson",
+    "tags": ["clay court dominance", "winning streak", "surface specialist"],
+    "likes": 278,
+    "comments": [
+      {"id": 1, "author": "ClayCourtAficionado", "text": "Their technique on clay is truly remarkable.", "date": "2025-02-03"},
+      {"id": 2, "author": "TennisLover", "text": "Consistency is key to success in tennis.", "date": "2025-02-03"}
+    ]
+  },
+  {
+    "id": 162,
+    "title": "Injury Setback: Player to Miss Upcoming Championships",
+    "description": "A top-seeded player faces disappointment as they announce their withdrawal from the upcoming championships due to an unexpected injury, leaving fans in suspense.",
+    "img": "https://i.ibb.co/60wYs8h/162.jpg",
+    "category": "sports",
+    "subcategory": "tennis",
+    "published_date": "2025-02-18",
+    "author": "Jessica Williams",
+    "tags": ["injury setback", "tournament withdrawal", "fan disappointment"],
+    "likes": 195,
+    "comments": [
+      {"id": 1, "author": "TennisSupporter", "text": "Wishing them a speedy recovery.", "date": "2025-02-19"},
+      {"id": 2, "author": "TennisFan", "text": "Injuries are part of an athlete's journey.", "date": "2025-02-19"}
+    ]
+  },
+  {
+    "id": 163,
+    "title": "Rivalry Renewed: Players Face Off in Thrilling Five-Set Match",
+    "description": "Two tennis titans rekindle their intense rivalry on the court, delivering an epic five-set match that keeps spectators on the edge of their seats.",
+    "img": "https://i.ibb.co/LvKCh4T/163.jpg",
+    "category": "sports",
+    "subcategory": "tennis",
+    "published_date": "2025-03-10",
+    "author": "Michael Davis",
+    "tags": ["rivalry renewed", "epic match", "spectacle"],
+    "likes": 352,
+    "comments": [
+      {"id": 1, "author": "TennisObserver", "text": "These matchups are what tennis fans live for.", "date": "2025-03-11"},
+      {"id": 2, "author": "TennisAddict", "text": "Both players brought their A-game!", "date": "2025-03-11"}
+    ]
+  },
+  {
+    "id": 164,
+    "title": "Tennis and Technology: How Analytics is Reshaping the Game",
+    "description": "Exploring the impact of advanced analytics and technology in tennis, from player performance analysis to innovations in equipment and training.",
+    "img": "https://i.ibb.co/60DtRVx/164.jpg",
+    "category": "sports",
+    "subcategory": "tennis",
+    "published_date": "2025-03-25",
+    "author": "Sophia Martinez",
+    "tags": ["tennis technology", "analytics", "innovation"],
+    "likes": 216,
+    "comments": [
+      {"id": 1, "author": "TennisTechEnthusiast", "text": "Data-driven insights are changing the game.", "date": "2025-03-26"},
+      {"id": 2, "author": "TechSavvyTennisFan", "text": "It's fascinating how technology enhances performance.", "date": "2025-03-26"}
+    ]
+  },
+  {
+    "id": 165,
+    "title": "Next-Gen Prospects: Young Talents Making Waves",
+    "description": "Spotlighting the emerging young talents in the world of tennis who are making their mark on the professional circuit and attracting attention worldwide.",
+    "img": "https://i.ibb.co/Ldkgj13/165.jpg",
+    "category": "sports",
+    "subcategory": "tennis",
+    "published_date": "2025-04-08",
+    "author": "David Thompson",
+    "tags": ["young talents", "next-gen prospects", "rising stars"],
+    "likes": 289,
+    "comments": [
+      {"id": 1, "author": "TennisAficionado", "text": "The future of tennis looks incredibly promising.", "date": "2025-04-09"},
+      {"id": 2, "author": "TennisSupporter", "text": "These players are bringing new energy to the sport.", "date": "2025-04-09"}
+    ]
+  },
+  {
+    "id": 166,
+    "title": "Grass Court Challenge: Players Prepare for Unique Surface",
+    "description": "As the grass court season approaches, tennis players gear up to adapt their game to the unique challenges posed by this fast and unpredictable surface.",
+    "img": "https://i.ibb.co/JcrfDDs/166.jpg",
+    "category": "sports",
+    "subcategory": "tennis",
+    "published_date": "2025-04-20",
+    "author": "Emily Johnson",
+    "tags": ["grass court season", "surface adaptation", "fast-paced"],
+    "likes": 241,
+    "comments": [
+      {"id": 1, "author": "GrassCourtEnthusiast", "text": "It's exciting to see how players adjust to grass.", "date": "2025-04-21"},
+      {"id": 2, "author": "TennisLover", "text": "Grass courts add a layer of unpredictability to matches.", "date": "2025-04-21"}
+    ]
+  },
+  {
+    "id": 167,
+    "title": "Tennis Fashion Spotlight: Iconic Outfits Over the Decades",
+    "description": "Tracing the evolution of tennis fashion by revisiting iconic outfits worn by players over the past decades, showcasing how style and sport intertwine.",
+    "img": "https://i.ibb.co/TYfkyhY/167.jpg",
+    "category": "lifestyle",
+    "subcategory": "fashion",
+    "published_date": "2025-05-03",
+    "author": "Olivia Clark",
+    "tags": ["tennis fashion", "iconic outfits", "style evolution"],
+    "likes": 175,
+    "comments": [
+      {"id": 1, "author": "FashionTennisFanatic", "text": "Tennis fashion has a rich history of trends.", "date": "2025-05-04"},
+      {"id": 2, "author": "TrendWatcher", "text": "Players influence not only the game but also fashion.", "date": "2025-05-04"}
+    ]
+  },
+  {
+    "id": 168,
+    "title": "Mindfulness in Tennis: How Players Harness Mental Strength",
+    "description": "Exploring the role of mindfulness and mental conditioning in tennis, highlighting how players use these techniques to stay focused, calm, and resilient on the court.",
+    "img": "https://i.ibb.co/yW7nwXX/168.jpg",
+    "category": "sports",
+    "subcategory": "tennis",
+    "published_date": "2025-05-18",
+    "author": "Alex Turner",
+    "tags": ["mindfulness", "mental strength", "resilience"],
+    "likes": 312,
+    "comments": [
+      {"id": 1, "author": "MindfulTennisPlayer", "text": "The mental game is just as crucial as the physical.", "date": "2025-05-19"},
+      {"id": 2, "author": "TennisEnthusiast", "text": "Mindfulness has brought a new dimension to tennis.", "date": "2025-05-19"}
+    ]
+  },
+  {
+    "id": 169,
+    "title": "Tennis Community Spotlight: Local Club's Inspiring Initiatives",
+    "description": "Highlighting the positive impact of a local tennis club in the community, showcasing their initiatives to promote the sport, inclusivity, and youth development.",
+    "img": "https://i.ibb.co/CwZLZ2p/169.jpg",
+    "category": "community",
+    "subcategory": "tennis",
+    "published_date": "2025-06-02",
+    "author": "Rachel Adams",
+    "tags": ["tennis community", "local club", "youth development"],
+    "likes": 189,
+    "comments": [
+      {"id": 1, "author": "CommunityTennisPlayer", "text": "These clubs play a vital role in nurturing future players.", "date": "2025-06-03"},
+      {"id": 2, "author": "TennisSupporter", "text": "Community initiatives are heartwarming and impactful.", "date": "2025-06-03"}
+    ]
+  }
 ]
