@@ -155,7 +155,7 @@
         "description": "Examining the rise of populism in recent political movements and its implications for governance.",
         "img": "https://i.ibb.co/bz9m7pS/politics6.jpg",
         "category": "politics",
-        "subcategory": "north america",
+        "subcategory": "north-america",
         "published_date": "2023-02-10",
         "author": "Daniel Wilson",
         "tags": [
@@ -185,7 +185,7 @@
         "description": "Assessing the effectiveness of various climate change policies implemented by governments worldwide.",
         "img": "https://i.ibb.co/6XsNd5j/politics7.jpg",
         "category": "politics",
-        "subcategory": "north america",
+        "subcategory": "north-america",
         "published_date": "2023-01-05",
         "author": "Anna Thompson",
         "tags": [
@@ -215,7 +215,7 @@
         "description": "Exploring the role and influence of international organizations in global politics and diplomacy.",
         "img": "https://i.ibb.co/5Fj8VCC/politics8.jpg",
         "category": "politics",
-        "subcategory": "north america",
+        "subcategory": "north-america",
         "published_date": "2022-12-01",
         "author": "David Miller",
         "tags": [
@@ -245,7 +245,7 @@
         "description": "Examining the ethical dilemmas faced by politicians and policymakers in making difficult decisions.",
         "img": "https://i.ibb.co/st34YRb/politics11.jpg",
         "category": "politics",
-        "subcategory": "north america",
+        "subcategory": "north-america",
         "published_date": "2022-11-01",
         "author": "Emily Turner",
         "tags": [
@@ -275,7 +275,7 @@
         "description": "Analyzing the role of social media platforms in facilitating and shaping political activism.",
         "img": "https://i.ibb.co/G0FvxnQ/politics13.jpg",
         "category": "politics",
-        "subcategory": "north america",
+        "subcategory": "north-america",
         "published_date": "2022-10-01",
         "author": "Ryan Johnson",
         "tags": [
@@ -305,7 +305,7 @@
         "description": "Examining the progress and challenges in achieving gender balance in political leadership roles.",
         "img": "https://i.ibb.co/XfPSr1F/politics14.jpg",
         "category": "politics",
-        "subcategory": "south america",
+        "subcategory": "south-america",
         "published_date": "2022-09-01",
         "author": "Lindsay Williams",
         "tags": [
@@ -335,7 +335,7 @@
         "description": "Analyzing the impact of migration policies on international relations and geopolitics.",
         "img": "https://i.ibb.co/0CRQdCV/politics15.jpg",
         "category": "politics",
-        "subcategory": "south america",
+        "subcategory": "south-america",
         "published_date": "2022-08-01",
         "author": "James Anderson",
         "tags": [
@@ -365,7 +365,7 @@
         "description": "Exploring the resurgence of nationalism in contemporary politics and its impact on international relations.",
         "img": "https://i.ibb.co/8sD7hS3/politics16.jpg",
         "category": "politics",
-        "subcategory": "south america",
+        "subcategory": "south-america",
         "published_date": "2022-07-01",
         "author": "Olivia Robinson",
         "tags": [
@@ -395,7 +395,7 @@
         "description": "Examining how digital tools and social media are transforming the field of diplomacy.",
         "img": "https://i.ibb.co/WVn6s1j/politics17.jpg",
         "category": "politics",
-        "subcategory": "south america",
+        "subcategory": "south-america",
         "published_date": "2022-06-01",
         "author": "Michael Green",
         "tags": [
@@ -425,7 +425,7 @@
         "description": "Analyzing the growing political polarization and its impact on democratic societies.",
         "img": "https://i.ibb.co/XC9SfcY/politics18.jpg",
         "category": "politics",
-        "subcategory": "south america",
+        "subcategory": "south-america",
         "published_date": "2022-05-01",
         "author": "Sophie Roberts",
         "tags": [
@@ -935,7 +935,7 @@
         "description": "Discover strategies for managing financial challenges specific to small businesses and startups.",
         "img": "https://i.ibb.co/sty8HCs/business5.jpg",
         "category": "business",
-        "subcategory": "North America",
+        "subcategory": "north-america",
         "published_date": "2023-08-10",
         "author": "John Smith",
         "tags": [
@@ -965,7 +965,7 @@
         "description": "Explore the latest trends in e-commerce that are reshaping the retail landscape globally.",
         "img": "https://i.ibb.co/3v6qpJz/business7.jpg",
         "category": "business",
-        "subcategory": "South America",
+        "subcategory": "south-america",
         "published_date": "2023-07-25",
         "author": "Emily Brown",
         "tags": [
@@ -995,7 +995,7 @@
         "description": "Learn about innovative supply chain management strategies that optimize efficiency and reduce costs.",
         "img": "https://i.ibb.co/khy0SYR/business6.jpg",
         "category": "business",
-        "subcategory": "Australia",
+        "subcategory": "australia",
         "published_date": "2023-07-18",
         "author": "Michael Johnson",
         "tags": [
@@ -1025,7 +1025,7 @@
         "description": "Discover how data-driven decision making can lead to better business outcomes and strategic advantages.",
         "img": "https://i.ibb.co/X507dbP/business4.jpg",
         "category": "business",
-        "subcategory": "Antarctica",
+        "subcategory": "antarctica",
         "published_date": "2023-06-30",
         "author": "Alexandra Lee",
         "tags": [
@@ -1055,7 +1055,7 @@
         "description": "Explore marketing tactics to ensure a successful launch for your new products in today's competitive market.",
         "img": "https://i.ibb.co/c3j8bdf/business3.jpg",
         "category": "business",
-        "subcategory": "Europe",
+        "subcategory": "europe",
         "published_date": "2023-06-15",
         "author": "William Clark",
         "tags": [
@@ -1085,7 +1085,7 @@
         "description": "Learn how to build, manage, and lead successful remote teams in the evolving landscape of remote work.",
         "img": "https://i.ibb.co/7yh8Ymc/business10.jpg",
         "category": "business",
-        "subcategory": "Africa",
+        "subcategory": "africa",
         "published_date": "2023-05-20",
         "author": "Sarah Roberts",
         "tags": [
@@ -1115,7 +1115,7 @@
         "description": "Discover sustainable business practices that not only benefit the environment but also contribute to profitability.",
         "img": "https://i.ibb.co/z2cc5JG/business12.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-05-10",
         "author": "David Miller",
         "tags": [
@@ -1145,7 +1145,7 @@
         "description": "Learn the fundamental cybersecurity measures that every small business should implement to protect their digital assets.",
         "img": "https://i.ibb.co/WybCYwZ/business13.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-04-25",
         "author": "Jennifer Adams",
         "tags": [
@@ -1175,7 +1175,7 @@
         "description": "Explore strategies for building business resilience and agility to thrive in times of uncertainty and rapid change.",
         "img": "https://i.ibb.co/n3dXRrP/business14.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-04-10",
         "author": "Robert Turner",
         "tags": [
@@ -1205,7 +1205,7 @@
         "description": "Explore investment approaches to navigate and capitalize on opportunities in a volatile financial market.",
         "img": "https://i.ibb.co/jvqjLHr/business15.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-08-05",
         "author": "Michael Anderson",
         "tags": [
@@ -1235,7 +1235,7 @@
         "description": "Learn techniques to foster creative thinking and innovative problem-solving within your business operations.",
         "img": "https://i.ibb.co/VDL6Y4t/business16.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-07-28",
         "author": "Linda Williams",
         "tags": [
@@ -1265,7 +1265,7 @@
         "description": "Discover various market entry strategies for businesses seeking to expand their operations on a global scale.",
         "img": "https://i.ibb.co/CwGhMSy/business17.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-07-12",
         "author": "Christopher Turner",
         "tags": [
@@ -1295,7 +1295,7 @@
         "description": "Learn best practices for optimizing inventory management to enhance retail efficiency and customer satisfaction.",
         "img": "https://i.ibb.co/Fs5D5R7/business19.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-06-25",
         "author": "Maria Rodriguez",
         "tags": [
@@ -1325,7 +1325,7 @@
         "description": "Explore negotiation strategies and techniques to achieve win-win outcomes in various business scenarios.",
         "img": "https://i.ibb.co/CJqvsBD/business20.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-06-10",
         "author": "Daniel Carter",
         "tags": [
@@ -1355,7 +1355,7 @@
         "description": "Learn how to create a compelling employer brand to attract top talent and foster a positive company culture.",
         "img": "https://i.ibb.co/SrP2HPd/img1.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-05-20",
         "author": "Jessica Turner",
         "tags": [
@@ -1385,7 +1385,7 @@
         "description": "Discover sales tactics tailored for the digital era to succeed in business-to-business (B2B) selling.",
         "img": "https://i.ibb.co/F0CfMYB/img2.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-05-08",
         "author": "Mark Roberts",
         "tags": [
@@ -1415,7 +1415,7 @@
         "description": "Explore how emotional intelligence influences effective leadership and team management in the corporate world.",
         "img": "https://i.ibb.co/4TNMttc/img3.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-04-18",
         "author": "Sophia Mitchell",
         "tags": [
@@ -1445,7 +1445,7 @@
         "description": "Learn about the importance of diversity and inclusion in the workplace and strategies to create an inclusive environment.",
         "img": "https://i.ibb.co/TtmGHHX/resize.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-04-05",
         "author": "Andre Johnson",
         "tags": [
@@ -1475,7 +1475,7 @@
         "description": "Explore emerging social media trends and tactics to leverage platforms for business growth and brand engagement.",
         "img": "https://i.ibb.co/KKRtSdK/pexels-george-milton-7014337.jpg",
         "category": "business",
-        "subcategory": "",
+        "subcategory": "africa",
         "published_date": "2023-03-20",
         "author": "Melissa Davis",
         "tags": [
@@ -1505,7 +1505,7 @@
         "description": "Learn how to manage your time efficiently to increase productivity and achieve your professional goals.",
         "img": "https://i.ibb.co/khpHSrC/img14.jpg",
         "category": "business",
-        "subcategory": "Time Management",
+        "subcategory": "time-management",
         "published_date": "2023-08-22",
         "author": "Matthew Harris",
         "tags": [
@@ -1535,7 +1535,7 @@
         "description": "Discover essential tax considerations and strategies for small business owners to ensure compliance and minimize taxes.",
         "img": "https://i.ibb.co/80tLJyP/img12.jpg",
         "category": "business",
-        "subcategory": "Taxation",
+        "subcategory": "taxation",
         "published_date": "2023-08-18",
         "author": "Emily Turner",
         "tags": [
@@ -1565,7 +1565,7 @@
         "description": "Explore the impact of artificial intelligence and automation on modern business operations and the opportunities they bring.",
         "img": "https://i.ibb.co/80tLJyP/img12.jpg",
         "category": "business",
-        "subcategory": "AI & Automation",
+        "subcategory": "ai-automation",
         "published_date": "2023-08-12",
         "author": "David Clark",
         "tags": [
@@ -1596,7 +1596,7 @@
         "description": "Learn how to set optimal pricing strategies that give your business a competitive edge while maintaining profitability.",
         "img": "https://i.ibb.co/y5gSPQT/istockphoto-1256603011-612x612.jpg",
         "category": "business",
-        "subcategory": "Pricing Strategy",
+        "subcategory": "ai-automation",
         "published_date": "2023-08-05",
         "author": "Sophia Turner",
         "tags": [
@@ -1626,7 +1626,7 @@
         "description": "Discover how to create lasting customer relationships by providing exceptional service and enhancing loyalty.",
         "img": "https://i.ibb.co/C0GZfR9/img6.jpg",
         "category": "business",
-        "subcategory": "Customer Loyalty",
+        "subcategory": "customer-loyalty",
         "published_date": "2023-07-30",
         "author": "John Miller",
         "tags": [
@@ -1656,7 +1656,7 @@
         "description": "Explore the importance of ethical practices in business and how they contribute to long-term success and reputation.",
         "img": "https://i.ibb.co/bd0vHPk/img7.jpg",
         "category": "business",
-        "subcategory": "Business Practices",
+        "subcategory": "customer-loyalty",
         "published_date": "2023-07-20",
         "author": "Emma Harris",
         "tags": [
@@ -1686,7 +1686,7 @@
         "description": "Learn how to expand your product offerings and diversify your business portfolio to capture new market opportunities.",
         "img": "https://i.ibb.co/YDWhPym/img8.jpg",
         "category": "business",
-        "subcategory": "Product Diversification",
+        "subcategory": "diversification",
         "published_date": "2023-07-15",
         "author": "Michael Turner",
         "tags": [
@@ -1716,7 +1716,7 @@
         "description": "Discover a range of tools and technologies that enable effective remote collaboration and communication among virtual teams.",
         "img": "https://i.ibb.co/72v8Ntn/img15.jpg",
         "category": "business",
-        "subcategory": "Remote Work",
+        "subcategory": "diversification",
         "published_date": "2023-07-08",
         "author": "Sophie Clark",
         "tags": [
@@ -1746,7 +1746,7 @@
         "description": "Learn how to design and optimize a sales funnel that guides potential customers from awareness to conversion.",
         "img": "https://i.ibb.co/rF268fJ/img16.jpg",
         "category": "business",
-        "subcategory": "Sales Funnel",
+        "subcategory": "sales-funnel",
         "published_date": "2023-06-30",
         "author": "Daniel Smith",
         "tags": [
@@ -1776,7 +1776,7 @@
         "description": "Explore the qualities and strategies of adaptive leadership to lead effectively in times of rapid change and uncertainty.",
         "img": "https://i.ibb.co/9cXbzmn/img17.jpg",
         "category": "business",
-        "subcategory": "Adaptive Leadership",
+        "subcategory": "leadership",
         "published_date": "2023-06-22",
         "author": "Olivia Johnson",
         "tags": [
@@ -1806,7 +1806,7 @@
         "description": "Learn how to foster clear and efficient communication within remote teams to ensure collaboration and productivity.",
         "img": "https://i.ibb.co/BPJ3y1g/img19.jpg",
         "category": "business",
-        "subcategory": "Remote Work",
+        "subcategory": "leadership",
         "published_date": "2023-08-18",
         "author": "Alex Turner",
         "tags": [
@@ -1836,7 +1836,7 @@
         "description": "Discover approaches to scale your startup and manage growth challenges while maintaining the core values of your business.",
         "img": "https://i.ibb.co/NKFWCgG/img20.jpg",
         "category": "business",
-        "subcategory": "Startup",
+        "subcategory": "leadership",
         "published_date": "2023-08-14",
         "author": "Sophia Miller",
         "tags": [
@@ -1866,7 +1866,7 @@
         "description": "Explore the use of augmented reality in the retail industry and how it enhances the shopping experience for consumers.",
         "img": "https://i.ibb.co/3sFMZXv/img21.jpg",
         "category": "business",
-        "subcategory": "Technology",
+        "subcategory": "leadership",
         "published_date": "2023-08-10",
         "author": "David Wilson",
         "tags": [
@@ -1896,7 +1896,7 @@
         "description": "Learn how to build cohesive and high-performing teams by employing effective team-building strategies and activities.",
         "img": "https://i.ibb.co/jvRNZDR/img22.jpg",
         "category": "business",
-        "subcategory": "Team Building",
+        "subcategory": "leadership",
         "published_date": "2023-08-05",
         "author": "Emily Smith",
         "tags": [
@@ -1926,7 +1926,7 @@
         "description": "Explore the dominance of video content in digital marketing strategies and how businesses can leverage its power.",
         "img": "https://i.ibb.co/pQF6DPt/img23.jpg",
         "category": "business",
-        "subcategory": "Digital Marketing",
+        "subcategory": "sales-funnel",
         "published_date": "2023-07-30",
         "author": "Daniel Turner",
         "tags": [
@@ -3297,6 +3297,726 @@
                 "author": "Haruki",
                 "text": "A delightful balance of texture and taste in every bite.",
                 "date": "2023-08-17"
+            }
+        ]
+    },
+    {
+        "id": 111,
+        "title": "The Art of Ballet",
+        "description": "Exploring the elegance and grace of classical ballet.",
+        "img": "https://i.ibb.co/197bkGD/The-Art-of-Ballet.jpg",
+        "category": "Arts",
+        "subcategory": "Dance",
+        "published_date": "2023-08-20",
+        "author": "Anna Pavlova",
+        "tags": [
+            "Ballet",
+            "Dance",
+            "Classical"
+        ],
+        "likes": 120,
+        "comments": [
+            {
+                "id": 141,
+                "author": "Sophia",
+                "text": "Ballet is poetry in motion.",
+                "date": "2023-08-15"
+            },
+            {
+                "id": 142,
+                "author": "Daniel",
+                "text": "Anna Pavlova's performances were legendary.",
+                "date": "2023-08-15"
+            }
+        ]
+    },
+    {
+        "id": 112,
+        "title": "The Evolution of Jazz",
+        "description": "Tracing the history and influence of jazz music.",
+        "img": "https://i.ibb.co/xHFzL8y/The-Evolution-of-Jazz.jpg",
+        "category": "Arts",
+        "subcategory": "Music",
+        "published_date": "2023-08-19",
+        "author": "Louis Armstrong",
+        "tags": [
+            "Jazz",
+            "Music History",
+            "Louis Armstrong"
+        ],
+        "likes": 180,
+        "comments": [
+            {
+                "id": 143,
+                "author": "Oliver",
+                "text": "Jazz is the heartbeat of America.",
+                "date": "2023-08-14"
+            },
+            {
+                "id": 144,
+                "author": "Ella",
+                "text": "Louis Armstrong's trumpet changed the world of music.",
+                "date": "2023-08-14"
+            }
+        ]
+    },
+    {
+        "id": 113,
+        "title": "The Golden Age of TV Serials",
+        "description": "Recalling the iconic TV serials of the 20th century.",
+        "img": "https://i.ibb.co/GFQ1r5Y/The-Golden-Age-of-TV-Serials.jpg",
+        "category": "Arts",
+        "subcategory": "TV Serial",
+        "published_date": "2023-08-18",
+        "author": "Lucy Ricardo",
+        "tags": [
+            "Television",
+            "Classic TV",
+            "Nostalgia"
+        ],
+        "likes": 220,
+        "comments": [
+            {
+                "id": 145,
+                "author": "Ricky",
+                "text": "Those were the days of great storytelling on TV.",
+                "date": "2023-08-13"
+            },
+            {
+                "id": 146,
+                "author": "Ethel",
+                "text": "Lucy Ricardo remains an iconic character in TV history.",
+                "date": "2023-08-13"
+            }
+        ]
+    },
+    {
+        "id": 114,
+        "title": "The Impact of Pop Culture",
+        "description": "Analyzing the influence of pop culture on society.",
+        "img": "https://i.ibb.co/nPBjNbP/Pop-Culture-and-the-Digital-Age.jpg",
+        "category": "Arts",
+        "subcategory": "Pop Culture",
+        "published_date": "2023-08-17",
+        "author": "Andy Warhol",
+        "tags": [
+            "Pop Culture",
+            "Society",
+            "Art"
+        ],
+        "likes": 260,
+        "comments": [
+            {
+                "id": 147,
+                "author": "Marilyn",
+                "text": "Pop culture shapes our collective identity.",
+                "date": "2023-08-12"
+            },
+            {
+                "id": 148,
+                "author": "Basquiat",
+                "text": "Andy Warhol was the pop art maestro.",
+                "date": "2023-08-12"
+            }
+        ]
+    },
+    {
+        "id": 115,
+        "title": "Hollywood's Glittering Awards",
+        "description": "A look at the history and glamour of Hollywood awards ceremonies.",
+        "img": "https://i.ibb.co/4S1sdMc/Hollywood-s-Glittering-Awards.jpg",
+        "category": "Arts",
+        "subcategory": "Awards",
+        "published_date": "2023-08-16",
+        "author": "Meryl Streep",
+        "tags": [
+            "Awards",
+            "Hollywood",
+            "Cinema"
+        ],
+        "likes": 310,
+        "comments": [
+            {
+                "id": 149,
+                "author": "Leonardo",
+                "text": "The Oscars are the epitome of film recognition.",
+                "date": "2023-08-11"
+            },
+            {
+                "id": 150,
+                "author": "Cate",
+                "text": "Meryl Streep is a true Hollywood legend.",
+                "date": "2023-08-11"
+            }
+        ]
+    },
+    {
+        "id": 116,
+        "title": "The Magic of Cinema",
+        "description": "Exploring the art and technology behind movie-making.",
+        "img": "https://i.ibb.co/n3Nsmcj/The-Magic-of-Cinema.jpg",
+        "category": "Arts",
+        "subcategory": "Movies",
+        "published_date": "2023-08-15",
+        "author": "Alfred Hitchcock",
+        "tags": [
+            "Cinema",
+            "Filmmaking",
+            "Alfred Hitchcock"
+        ],
+        "likes": 280,
+        "comments": [
+            {
+                "id": 151,
+                "author": "Grace Kelly",
+                "text": "Movies transport us to different worlds.",
+                "date": "2023-08-10"
+            },
+            {
+                "id": 152,
+                "author": "James Stewart",
+                "text": "Alfred Hitchcock was the master of suspense.",
+                "date": "2023-08-10"
+            }
+        ]
+    },
+    {
+        "id": 117,
+        "title": "Contemporary Dance: Breaking Boundaries",
+        "description": "Exploring the innovative and boundary-pushing world of contemporary dance.",
+        "img": "https://i.ibb.co/JtJrSSH/Contemporary-Dance-Breaking-Boundaries.jpg",
+        "category": "Arts",
+        "subcategory": "Dance",
+        "published_date": "2023-08-22",
+        "author": "Isabella Duncan",
+        "tags": [
+            "Dance",
+            "Contemporary Dance",
+            "Innovation"
+        ],
+        "likes": 135,
+        "comments": [
+            {
+                "id": 153,
+                "author": "Michael",
+                "text": "Contemporary dance challenges our perceptions of movement.",
+                "date": "2023-08-17"
+            },
+            {
+                "id": 154,
+                "author": "Sophie",
+                "text": "Isabella Duncan is a visionary in the dance world.",
+                "date": "2023-08-17"
+            }
+        ]
+    },
+    {
+        "id": 118,
+        "title": "Music Legends: Icons Who Changed the Industry",
+        "description": "Celebrating the legendary musicians who revolutionized the music industry.",
+        "img": "https://i.ibb.co/FmHYKhM/Music-Legends-Icons-Who-Changed-the-Industry.jpg",
+        "category": "Arts",
+        "subcategory": "Music",
+        "published_date": "2023-08-21",
+        "author": "Bob Dylan",
+        "tags": [
+            "Music",
+            "Legends",
+            "Music Revolution"
+        ],
+        "likes": 190,
+        "comments": [
+            {
+                "id": 155,
+                "author": "Johnny",
+                "text": "Bob Dylan's lyrics are a reflection of a generation's spirit.",
+                "date": "2023-08-16"
+            },
+            {
+                "id": 156,
+                "author": "Joni",
+                "text": "Music owes a lot to these trailblazers.",
+                "date": "2023-08-16"
+            }
+        ]
+    },
+    {
+        "id": 119,
+        "title": "TV Series That Defined a Decade",
+        "description": "Looking back at the TV series that left a lasting mark on the 2010s.",
+        "img": "https://i.ibb.co/4ZhcN4Q/TV-Series-That-Defined-a-Decade.jpg",
+        "category": "Arts",
+        "subcategory": "TV Serial",
+        "published_date": "2023-08-20",
+        "author": "David Lynch",
+        "tags": [
+            "Television",
+            "Decade",
+            "Memorable Series"
+        ],
+        "likes": 250,
+        "comments": [
+            {
+                "id": 157,
+                "author": "Cooper",
+                "text": "Twin Peaks was a game-changer in TV storytelling.",
+                "date": "2023-08-15"
+            },
+            {
+                "id": 158,
+                "author": "Laura",
+                "text": "David Lynch's surrealism is unparalleled.",
+                "date": "2023-08-15"
+            }
+        ]
+    },
+    {
+        "id": 120,
+        "title": "Pop Culture and the Digital Age",
+        "description": "Analyzing how the digital era has transformed pop culture consumption.",
+        "img": "https://i.ibb.co/7KVsYTD/Pop-Culture.jpg",
+        "category": "Arts",
+        "subcategory": "Pop Culture",
+        "published_date": "2023-08-19",
+        "author": "Digital Analyst",
+        "tags": [
+            "Pop Culture",
+            "Digital Revolution",
+            "Media Consumption"
+        ],
+        "likes": 275,
+        "comments": [
+            {
+                "id": 159,
+                "author": "Techie",
+                "text": "The internet changed how we engage with pop culture forever.",
+                "date": "2023-08-14"
+            },
+            {
+                "id": 160,
+                "author": "Influencer",
+                "text": "Pop culture is now at our fingertips, thanks to technology.",
+                "date": "2023-08-14"
+            }
+        ]
+    },
+    {
+        "id": 121,
+        "title": "Cinematic Marvels: The Unforgettable Films of the 21st Century",
+        "description": "Highlighting the remarkable movies that defined cinema in the 21st century.",
+        "img": "https://i.ibb.co/kDWRGcZ/Cinematic-Marvels.jpg",
+        "category": "Arts",
+        "subcategory": "Movies",
+        "published_date": "2023-08-18",
+        "author": "Ava DuVernay",
+        "tags": [
+            "Cinema",
+            "21st Century Films",
+            "Movie Magic"
+        ],
+        "likes": 300,
+        "comments": [
+            {
+                "id": 161,
+                "author": "Film Buff",
+                "text": "These films are a testament to the power of storytelling.",
+                "date": "2023-08-13"
+            },
+            {
+                "id": 162,
+                "author": "Movie Lover",
+                "text": "Ava DuVernay's insights always enrich our film knowledge.",
+                "date": "2023-08-13"
+            }
+        ]
+    },
+    {
+        "id": 122,
+        "title": "The Art of Flamenco",
+        "description": "Exploring the passionate and rhythmic world of Flamenco dance and music.",
+        "img": "https://i.ibb.co/xhD7fmZ/The-Art-of-Flamenco.jpg",
+        "category": "Arts",
+        "subcategory": "Dance",
+        "published_date": "2023-08-26",
+        "author": "Carlos Montoya",
+        "tags": [
+            "Flamenco",
+            "Dance",
+            "Spanish Culture"
+        ],
+        "likes": 155,
+        "comments": [
+            {
+                "id": 163,
+                "author": "Maria",
+                "text": "Flamenco is a celebration of life and emotion.",
+                "date": "2023-08-21"
+            },
+            {
+                "id": 164,
+                "author": "Antonio",
+                "text": "Carlos Montoya is a true maestro of Flamenco.",
+                "date": "2023-08-21"
+            }
+        ]
+    },
+    {
+        "id": 123,
+        "title": "Soulful Sounds: The Blues Revolution",
+        "description": "Delving into the origins and influence of blues music on modern genres.",
+        "img": "https://i.ibb.co/rMT9zdk/Soulful-Sounds-The-Blues-Revolution.jpg",
+        "category": "Arts",
+        "subcategory": "Music",
+        "published_date": "2023-08-25",
+        "author": "B.B. King",
+        "tags": [
+            "Blues",
+            "Music History",
+            "Musical Revolution"
+        ],
+        "likes": 210,
+        "comments": [
+            {
+                "id": 165,
+                "author": "Robert",
+                "text": "The blues is the root of so much great music.",
+                "date": "2023-08-20"
+            },
+            {
+                "id": 166,
+                "author": "Etta",
+                "text": "B.B. King's guitar could sing the blues like no other.",
+                "date": "2023-08-20"
+            }
+        ]
+    },
+    {
+        "id": 124,
+        "title": "TV Dramas That Redefined Storytelling",
+        "description": "Examining the TV dramas that pushed the boundaries of storytelling.",
+        "img": "https://i.ibb.co/THSxdhD/TV-Dramas-That-Redefined-Storytelling.jpg",
+        "category": "Arts",
+        "subcategory": "TV Serial",
+        "published_date": "2023-08-24",
+        "author": "Aaron Sorkin",
+        "tags": [
+            "Television",
+            "Drama",
+            "Storytelling"
+        ],
+        "likes": 245,
+        "comments": [
+            {
+                "id": 167,
+                "author": "Audrey",
+                "text": "TV dramas have become a platform for profound narratives.",
+                "date": "2023-08-19"
+            },
+            {
+                "id": 168,
+                "author": "Charlie",
+                "text": "Aaron Sorkin's scripts are a masterclass in dialogue.",
+                "date": "2023-08-19"
+            }
+        ]
+    },
+    {
+        "id": 125,
+        "title": "Icons of Pop Culture: From Elvis to TikTok",
+        "description": "Tracing the evolution of pop culture icons from the '50s to the digital age.",
+        "img": "https://i.ibb.co/fxb70rT/Icons-of-Pop-Culture-From-Elvis-to-Tik-Tok.jpg",
+        "category": "Arts",
+        "subcategory": "Pop Culture",
+        "published_date": "2023-08-23",
+        "author": "Cultural Historian",
+        "tags": [
+            "Pop Culture",
+            "Iconic Figures",
+            "Cultural Evolution"
+        ],
+        "likes": 290,
+        "comments": [
+            {
+                "id": 169,
+                "author": "ElvisFan",
+                "text": "Elvis Presley defined an era of music and style.",
+                "date": "2023-08-18"
+            },
+            {
+                "id": 170,
+                "author": "TikToker",
+                "text": "TikTok is reshaping pop culture in real-time.",
+                "date": "2023-08-18"
+            }
+        ]
+    },
+    {
+        "id": 126,
+        "title": "Oscars Through the Years: A Visual Journey",
+        "description": "Exploring the changing aesthetics and fashion at the Academy Awards over time.",
+        "img": "https://i.ibb.co/G9mP2Dt/Oscars-Through-the-Years-A-Visual-Journey.jpg",
+        "category": "Arts",
+        "subcategory": "Awards",
+        "published_date": "2023-08-22",
+        "author": "Fashion Historian",
+        "tags": [
+            "Awards",
+            "Fashion",
+            "Red Carpet"
+        ],
+        "likes": 325,
+        "comments": [
+            {
+                "id": 171,
+                "author": "Fashionista",
+                "text": "The Oscars red carpet is a showcase of glamour and style.",
+                "date": "2023-08-17"
+            },
+            {
+                "id": 172,
+                "author": "History Buff",
+                "text": "Fashion history is intertwined with the Oscars' evolution.",
+                "date": "2023-08-17"
+            }
+        ]
+    },
+    {
+        "id": 127,
+        "title": "Contemporary Dance: Expressing Emotions Through Movement",
+        "description": "Exploring the abstract and emotive world of contemporary dance.",
+        "img": "https://i.ibb.co/LdPhJpc/Contemporary-Dance.jpg",
+        "category": "Arts",
+        "subcategory": "Dance",
+        "published_date": "2023-08-21",
+        "author": "Isabella Duncan",
+        "tags": [
+            "Contemporary Dance",
+            "Emotion",
+            "Abstract"
+        ],
+        "likes": 175,
+        "comments": [
+            {
+                "id": 173,
+                "author": "DanceLover",
+                "text": "Contemporary dance is like poetry with the body.",
+                "date": "2023-08-16"
+            },
+            {
+                "id": 174,
+                "author": "ArtEnthusiast",
+                "text": "Isabella Duncan's choreography is mesmerizing.",
+                "date": "2023-08-16"
+            }
+        ]
+    },
+    {
+        "id": 128,
+        "title": "The Rhythm of Tap Dancing",
+        "description": "Diving into the history and precision of tap dancing.",
+        "img": "https://i.ibb.co/smH2pvm/The-Rhythm-of-Tap-Dancing.jpg",
+        "category": "Arts",
+        "subcategory": "Dance",
+        "published_date": "2023-08-20",
+        "author": "Gregory Hines",
+        "tags": [
+            "Tap Dance",
+            "Rhythm",
+            "Dance History"
+        ],
+        "likes": 198,
+        "comments": [
+            {
+                "id": 175,
+                "author": "TapDanceFan",
+                "text": "Tap dancing is like making music with your feet.",
+                "date": "2023-08-15"
+            },
+            {
+                "id": 176,
+                "author": "DanceHistorian",
+                "text": "Gregory Hines was a tap dance legend.",
+                "date": "2023-08-15"
+            }
+        ]
+    },
+    {
+        "id": 129,
+        "title": "The Sound of Classical Music",
+        "description": "An exploration of the timeless beauty and complexity of classical music.",
+        "img": "https://i.ibb.co/W3gv8Bb/The-Sound-of-Classical-Music.jpg",
+        "category": "Arts",
+        "subcategory": "Music",
+        "published_date": "2023-08-19",
+        "author": "Ludwig Beethoven",
+        "tags": [
+            "Classical Music",
+            "Composers",
+            "Orchestral"
+        ],
+        "likes": 265,
+        "comments": [
+            {
+                "id": 177,
+                "author": "MusicLover",
+                "text": "Classical music touches the soul in profound ways.",
+                "date": "2023-08-14"
+            },
+            {
+                "id": 178,
+                "author": "MusicScholar",
+                "text": "Beethoven's symphonies are masterpieces of human expression.",
+                "date": "2023-08-14"
+            }
+        ]
+    },
+    {
+        "id": 130,
+        "title": "Exploring the World of Indie Rock",
+        "description": "A journey through the independent and alternative music scene.",
+        "img": "https://i.ibb.co/WsjtzPF/Exploring-the-World-of-Indie-Rock.jpg",
+        "category": "Arts",
+        "subcategory": "Music",
+        "published_date": "2023-08-18",
+        "author": "Indie Enthusiast",
+        "tags": [
+            "Indie Rock",
+            "Alternative Music",
+            "Music Subculture"
+        ],
+        "likes": 210,
+        "comments": [
+            {
+                "id": 179,
+                "author": "IndieFanatic",
+                "text": "Indie rock has an authenticity that's hard to find elsewhere.",
+                "date": "2023-08-13"
+            },
+            {
+                "id": 180,
+                "author": "MusicExplorer",
+                "text": "The indie scene is a treasure trove of musical innovation.",
+                "date": "2023-08-13"
+            }
+        ]
+    },
+    {
+        "id": 131,
+        "title": "Classic Sitcoms: Laughter Through the Decades",
+        "description": "Remembering the timeless sitcoms that have kept us laughing for generations.",
+        "img": "https://i.ibb.co/ss47w0N/Classic-Sitcoms-Laughter-Through-the-Decades.png",
+        "category": "Arts",
+        "subcategory": "TV Serial",
+        "published_date": "2023-08-16",
+        "author": "SitcomNostalgia",
+        "tags": [
+            "Sitcoms",
+            "Comedy",
+            "Nostalgia"
+        ],
+        "likes": 320,
+        "comments": [
+            {
+                "id": 183,
+                "author": "LaughLover",
+                "text": "Sitcoms are a source of endless joy and humor.",
+                "date": "2023-08-11"
+            },
+            {
+                "id": 184,
+                "author": "TimelessFan",
+                "text": "SitcomNostalgia's insights into classic TV are delightful.",
+                "date": "2023-08-11"
+            }
+        ]
+    },
+    {
+        "id": 132,
+        "title": "The Nobel Prize: Celebrating Excellence in Science and Literature",
+        "description": "A tribute to the Nobel laureates who have shaped our world.",
+        "img": "https://i.ibb.co/xFqQNs2/The-Nobel-Prize.jpg",
+        "category": "Arts",
+        "subcategory": "Awards",
+        "published_date": "2023-08-13",
+        "author": "NobelObserver",
+        "tags": [
+            "Nobel Prize",
+            "Excellence",
+            "Achievement"
+        ],
+        "likes": 295,
+        "comments": [
+            {
+                "id": 189,
+                "author": "CuriousMind",
+                "text": "The Nobel Prize inspires us to reach new heights of knowledge.",
+                "date": "2023-08-08"
+            },
+            {
+                "id": 190,
+                "author": "LiterateSoul",
+                "text": "NobelObserver's articles on excellence are truly enlightening.",
+                "date": "2023-08-08"
+            }
+        ]
+    },
+    {
+        "id": 133,
+        "title": "The Tony Awards: Broadway's Night of Stars",
+        "description": "A glimpse into the glamour and talent of Broadway's most prestigious awards.",
+        "img": "https://i.ibb.co/ZVfjPGw/The-Tony-Awards.jpg",
+        "category": "Arts",
+        "subcategory": "Awards",
+        "published_date": "2023-08-12",
+        "author": "BroadwayFanatic",
+        "tags": [
+            "Tony Awards",
+            "Broadway",
+            "Theater Excellence"
+        ],
+        "likes": 275,
+        "comments": [
+            {
+                "id": 191,
+                "author": "TheaterEnthusiast",
+                "text": "The Tony Awards celebrate the magic of the stage.",
+                "date": "2023-08-07"
+            },
+            {
+                "id": 192,
+                "author": "StageLover",
+                "text": "BroadwayFanatic's insights into theater are spellbinding.",
+                "date": "2023-08-07"
+            }
+        ]
+    },
+    {
+        "id": 134,
+        "title": "Animation Revolution: The Rise of Digital Cartoons",
+        "description": "Exploring how digital animation has transformed the world of cartoons.",
+        "img": "https://i.ibb.co/sHJzSmt/Animation-Revolution-The-Rise-of-Digital-Cartoons.jpg",
+        "category": "Arts",
+        "subcategory": "Movies",
+        "published_date": "2023-08-10",
+        "author": "AnimationGeek",
+        "tags": [
+            "Digital Animation",
+            "Cartoons",
+            "Animation Evolution"
+        ],
+        "likes": 345,
+        "comments": [
+            {
+                "id": 195,
+                "author": "CartoonEnthusiast",
+                "text": "Digital animation has brought cartoons to a new level of creativity.",
+                "date": "2023-08-05"
+            },
+            {
+                "id": 196,
+                "author": "AnimationCritic",
+                "text": "AnimationGeek's insights into the animation world are spot on.",
+                "date": "2023-08-05"
             }
         ]
     }

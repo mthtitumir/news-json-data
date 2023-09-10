@@ -1,0 +1,602 @@
+[
+    {
+        "id": 135,
+        "title": "Benefits of Regular Exercise",
+        "description": "Discover the transformative practice of mindfulness meditation, which involves cultivating present-moment awareness without judgment. By dedicating time each day to focus on your breath, sensations, and thoughts, you can reduce stress, enhance emotional regulation, and improve overall well-being. This practice encourages a deeper connection to your inner self and promotes a sense of calm amidst life's challenges. Studies have shown that mindfulness meditation can also lower blood pressure, improve sleep quality, and reduce symptoms of anxiety and depression. Whether you're new to meditation or seeking to deepen your practice, mindfulness can empower you to navigate life with greater clarity, resilience, and a heightened appreciation for the present moment.",
+        "img": "https://i.ibb.co/Yc4YbwY/Blog-HTHAncillary-Benefits-880x495.jpg",
+        "category": "health",
+        "subcategory": "physical",
+        "published_date": "2023-08-01",
+        "author": "John Doe",
+        "tags": [
+            "exercise",
+            "fitness",
+            "health"
+        ],
+        "likes": 152,
+        "comments": [
+            {
+                "id": "101",
+                "author": "HealthEnthusiast21",
+                "text": "Maintaining a balanced diet and staying active is crucial for overall well-being. Remember, small lifestyle changes can lead to big health improvements!",
+                "date": "2023-08-15"
+            },
+            {
+                "id": "102",
+                "author": "WellnessWarrior99",
+                "text": "I recently started practicing mindfulness meditation, and it has had a remarkable impact on my stress levels. Taking care of your mental health is just as important as your physical health!",
+                "date": "2023-08-20"
+            }
+        ]
+    },
+    {
+        "id": 136,
+        "title": "Healthy Eating Habits",
+        "description": "Unlock the secrets of providing balanced nutrition for children to support their growth and development. A diet rich in vitamins, minerals, lean proteins, whole grains, and fruits and vegetables is essential for fueling their active bodies and promoting proper brain function. Encouraging healthy eating habits from a young age can establish a foundation for a lifetime of well-being. Learn about age-appropriate portion sizes, creative ways to introduce new foods, and strategies to limit excessive sugar and processed foods. With the right guidance, you can empower your kids to make nutritious choices that will nourish their bodies and set them on a path to lifelong health.",
+        "img": "https://i.ibb.co/nnjkZ9K/hwb-program.jpg",
+        "category": "health",
+        "subcategory": "physical",
+        "published_date": "2023-07-15",
+        "author": "Jane Smith",
+        "tags": [
+            "nutrition",
+            "diet",
+            "wellness"
+        ],
+        "likes": 243,
+        "comments": [
+            {
+                "id": "23456",
+                "author": "FitnessFreak123",
+                "text": "Just finished a great workout session! Remember, consistency is key to achieving your fitness goals. Keep pushing yourself!",
+                "date": "2023-08-18"
+            },
+            {
+                "id": "34567",
+                "author": "HealthyEating101",
+                "text": "Trying out a new recipe today: a colorful salad with a variety of veggies and a light vinaigrette. Eating the rainbow for good health!",
+                "date": "2023-08-21"
+            }
+        ]
+    },
+    {
+        "id": 137,
+        "title": "Understanding Mental Health",
+        "description": "Empower yourself to manage diabetes effectively through lifestyle modifications. By making conscious choices, such as adopting a balanced diet, engaging in regular physical activity, managing stress, and getting enough sleep, you can stabilize blood sugar levels and reduce the risk of complications. Learn how to monitor your blood glucose, create meal plans that prioritize whole foods and appropriate carbohydrates, and incorporate exercise into your routine to improve insulin sensitivity. Taking proactive steps to manage diabetes can lead to better overall health, increased energy levels, and a reduced reliance on medication. With dedication and informed decision-making, you can achieve greater control over your health and enjoy a higher quality of life.",
+        "img": "https://i.ibb.co/cw37S9Z/IHL-C-Mental-Health.jpg",
+        "category": "health",
+        "subcategory": "physical",
+        "published_date": "2023-06-10",
+        "author": "Michael Johnson",
+        "tags": [
+            "mental health",
+            "wellness",
+            "self-care"
+        ],
+        "likes": 189,
+        "comments": [
+            {
+                "id": "45678",
+                "author": "MindBodyConnection",
+                "text": "Don't underestimate the power of a good night's sleep. It's not just about rest; it's essential for your mental and physical well-being!",
+                "date": "2023-08-17"
+            },
+            {
+                "id": "56789",
+                "author": "WellnessJourney22",
+                "text": "Practicing gratitude daily has truly improved my outlook on life. Remember to find joy in the little things and nurture your emotional health.",
+                "date": "2023-08-16"
+            }
+        ]
+    },
+    {
+        "id": 138,
+        "title": "The Importance of Sleep",
+        "description": "In a world filled with challenges, cultivating resilience is a valuable skill that empowers you to navigate adversity and maintain well-being. Resilience involves developing the mental and emotional strength to bounce back from setbacks, adapt to change, and thrive despite difficulties. Learn strategies to enhance your coping skills, such as cultivating a positive mindset, building a strong support network, practicing self-care, and developing problem-solving abilities. These skills not only help you manage stress but also promote a sense of empowerment and personal growth. By honing your resilience, you can face life's uncertainties with confidence, develop a deeper sense of gratitude, and emerge from challenges stronger and more prepared to embrace the opportunities that lie ahead..",
+        "img": "https://i.ibb.co/74rrHc2/depositphotos-204406738-stock-photo-health-care-medical-services-concept.webp",
+        "category": "health",
+        "subcategory": "physical",
+        "published_date": "2023-05-20",
+        "author": "Emily Davis",
+        "tags": [
+            "sleep",
+            "health",
+            "rest"
+        ],
+        "likes": 305,
+        "comments": [
+            {
+                "id": "67891",
+                "author": "HolisticHealing",
+                "text": "Exploring alternative therapies like acupuncture and herbal remedies can complement conventional medicine. It's all about balance!",
+                "date": "2023-08-19"
+            },
+            {
+                "id": "78901",
+                "author": "ActiveLifestyleGal",
+                "text": "Hiking in nature is my favorite way to stay active. The fresh air, scenic views, and physical activity do wonders for body and soul.",
+                "date": "2023-08-22"
+            }
+        ]
+    },
+    {
+        "id": 139,
+        "title": "Managing Stress in a Fast-Paced World",
+        "description": "Embrace a heart-healthy diet to promote cardiovascular well-being and reduce the risk of heart disease. Incorporating nutrient-rich foods that support heart health, such as whole grains, lean proteins, fruits, vegetables, and healthy fats, can help manage blood pressure, cholesterol levels, and overall heart function. Explore the benefits of omega-3 fatty acids found in fatty fish, fiber-rich foods that aid digestion and lower cholesterol, and antioxidants that protect blood vessels. Discover how to make mindful choices when eating out, reading food labels, and cooking at home to ensure your diet aligns with heart-healthy principles. By nourishing your body with the right nutrients, you can enjoy increased energy, improved circulation, and a heart that beats strong for years to come.",
+        "img": "https://i.ibb.co/7Ntw7zb/istockphoto-1300107797-612x612.jpg",
+        "category": "health",
+        "subcategory": "physical",
+        "published_date": "2023-04-12",
+        "author": "Alex Roberts",
+        "tags": [
+            "stress",
+            "mental health",
+            "relaxation"
+        ],
+        "likes": 124,
+        "comments": [
+            {
+                "id": "89012",
+                "author": "MentalHealthMatters",
+                "text": "Let's break the stigma around mental health. It's okay to ask for help when you need it, and seeking therapy can make a world of difference.",
+                "date": "2023-08-23"
+            },
+            {
+                "id": "90123",
+                "author": "FitnessInProgress",
+                "text": "Remember, setbacks are a natural part of any health journey. What matters is getting back on track and not giving up on your goals.",
+                "date": "2023-08-24"
+            }
+        ]
+    },
+    {
+        "id": 140,
+        "title": "Benefits of Hydration",
+        "description": "Embark on a journey to understand allergies and their impact on daily life. Allergies occur when the immune system reacts to harmless substances, triggering symptoms such as sneezing, itching, congestion, or even severe reactions like anaphylaxis. Learn about common allergens, including pollen, pet dander, food, and insect venom, and how they can affect different individuals. Discover the importance of allergy testing to identify triggers and explore management strategies, including allergen avoidance, medications, and allergy shots. With the right knowledge and tools, you can reduce allergy symptoms, improve your quality of life, and ensure a safer environment for yourself and those around you.",
+        "img": "https://i.ibb.co/LSdC1Qn/20220910103120.jpg",
+        "category": "health",
+        "subcategory": "social",
+        "published_date": "2023-03-28",
+        "author": "Sarah Wilson",
+        "tags": [
+            "hydration",
+            "nutrition",
+            "wellness"
+        ],
+        "likes": 198,
+        "comments": [
+            {
+                "id": "01234",
+                "author": "PlantBasedLife",
+                "text": "Transitioning to a plant-based diet has improved my energy levels and overall health. It's amazing how food can be medicine!",
+                "date": "2023-08-25"
+            },
+            {
+                "id": "12340",
+                "author": "YogaZenMaster",
+                "text": "Starting my day with a yoga session sets a positive tone for everything that follows. Flexibility of the body brings flexibility of the mind.",
+                "date": "2023-08-26"
+            }
+        ]
+    },
+    {
+        "id": 141,
+        "title": "Cardiovascular Health and You",
+        "description": "Embrace an active lifestyle as you age to maintain physical health and independence. Regular physical activity is crucial for preserving muscle mass, bone density, and joint flexibility. Explore exercises that enhance cardiovascular fitness, strength, balance, and flexibility, helping you prevent falls and injuries. Engaging in activities like walking, swimming, yoga, and strength training can promote cognitive function, boost mood, and enhance overall well-being. Learn about the importance of warming up, cooling down, and staying hydrated during exercise. By making exercise a consistent part of your routine, you can enjoy a higher quality of life, maintain your mobility, and continue to engage in the activities you love.",
+        "img": "https://i.ibb.co/DwkPf9J/resize.jpg",
+        "category": "health",
+        "subcategory": "social",
+        "published_date": "2023-02-18",
+        "author": "David Lee",
+        "tags": [
+            "heart health",
+            "cardiovascular",
+            "wellness"
+        ],
+        "likes": 271,
+        "comments": [
+            {
+                "id": "23451",
+                "author": "WellnessQuest",
+                "text": "Incorporating mindfulness into my daily routine has helped me manage stress and stay grounded. Don't forget to breathe and be present!",
+                "date": "2023-08-27"
+            },
+            {
+                "id": "34562",
+                "author": "NutritionNinja",
+                "text": "Remember, hydration is key! Drinking enough water throughout the day supports digestion, skin health, and overall vitality.",
+                "date": "2023-08-28"
+            }
+        ]
+    },
+    {
+        "id": 142,
+        "title": "A Guide to Mindful Meditation",
+        "description": "Recognize the vital role of taking regular mental health breaks in managing stress and maintaining overall well-being. In our fast-paced world, dedicating time for self-care and relaxation is essential for recharging your mental and emotional batteries. Explore mindfulness techniques, meditation, deep breathing exercises, and engaging hobbies that provide a respite from daily pressures. Learn how to set healthy boundaries to protect your mental health, both at work and in your personal life. By prioritizing mental health breaks, you can reduce burnout, enhance focus and productivity, and cultivate a positive outlook on life.",
+        "img": "https://i.ibb.co/3dqzS24/IHL-C-Health-Promotion.jpg",
+        "category": "health",
+        "subcategory": "social",
+        "published_date": "2023-01-05",
+        "author": "Amanda Brown",
+        "tags": [
+            "meditation",
+            "mindfulness",
+            "mental health"
+        ],
+        "likes": 333,
+        "comments": [
+            {
+                "id": "45673",
+                "author": "GymMotivator",
+                "text": "Feeling sore after a challenging workout? Embrace the discomfort—it's a sign of progress. Your muscles are getting stronger!",
+                "date": "2023-08-29"
+            },
+            {
+                "id": "56784",
+                "author": "HealthyHabitsRock",
+                "text": "Replacing sugary snacks with nutrient-packed alternatives has been a game changer for me. Your body deserves the best fuel!",
+                "date": "2023-08-30"
+            }
+        ]
+    },
+    {
+        "id": 143,
+        "title": "Building Strong Bones: Calcium and More",
+        "description": "Understand the profound impact of personal hygiene on your immune system's strength and overall health. Practicing good hygiene, such as washing your hands regularly, maintaining oral health, and keeping your living spaces clean, plays a vital role in preventing the spread of infections. Explore the science behind how germs spread and learn how proper hygiene practices can protect you and those around you from illnesses. Discover the connection between a healthy immune system and habits like getting enough sleep, staying hydrated, and eating a balanced diet. By embracing hygiene as a cornerstone of your health routine, you can bolster your body's defenses and enjoy a higher level of well-being.",
+        "img": "https://i.ibb.co/ZXCvcc8/home-banner.jpg",
+        "category": "health",
+        "subcategory": "social",
+        "published_date": "2022-12-14",
+        "author": "Robert Johnson",
+        "tags": [
+            "bone health",
+            "calcium",
+            "nutrition"
+        ],
+        "likes": 156,
+        "comments": [
+            {
+                "id": "67895",
+                "author": "MindfulEater",
+                "text": "Eating mindfully means savoring each bite and listening to your body's hunger cues. It's about nourishment, not just consumption.",
+                "date": "2023-08-31"
+            },
+            {
+                "id": "78906",
+                "author": "EmpoweredWellness",
+                "text": "Taking charge of your health empowers you to make informed decisions. Regular check-ups and screenings are investments in your future.",
+                "date": "2023-09-01"
+            }
+        ]
+    },
+    {
+        "id": 144,
+        "title": "Coping with Allergies: Tips for Better Living",
+        "description": "Unlock the secrets to maintaining optimal spinal health and overall well-being by prioritizing good posture. Whether you're sitting at a desk, standing, or engaging in physical activities, proper posture is crucial for preventing back pain, muscle strain, and other spinal issues. Explore ergonomic principles for creating a supportive workspace, learn posture-improving exercises and stretches, and understand the importance of core strength in promoting a healthy spine. By adopting mindful posture habits, you can alleviate discomfort, prevent chronic conditions, and enjoy improved mobility. A strong and well-aligned spine not only enhances physical health but also contributes to confidence and a positive self-image.",
+        "img": "https://i.ibb.co/V3mkwxh/depositphotos-21682933-stock-photo-medical-exam.webp",
+        "category": "health",
+        "subcategory": "social",
+        "published_date": "2022-11-02",
+        "author": "Linda White",
+        "tags": [
+            "allergies",
+            "healthcare",
+            "wellness"
+        ],
+        "likes": 87,
+        "comments": [
+            {
+                "id": "89017",
+                "author": "StrongerEveryDay",
+                "text": "Progress may be slow, but it's still progress. Celebrate every step forward on your fitness journey, no matter how small.",
+                "date": "2023-09-02"
+            },
+            {
+                "id": "90128",
+                "author": "HolisticNutrition",
+                "text": "Food is medicine, and a diverse diet is key. Experiment with different fruits, vegetables, and whole grains for optimal health.",
+                "date": "2023-09-03"
+            }
+        ]
+    },
+    {
+        "id": 145,
+        "title": "The Power of Superfoods",
+        "description": "Delve into the essential role of dietary fiber in promoting optimal digestive health. High-fiber foods, such as whole grains, legumes, fruits, and vegetables, aid digestion, prevent constipation, and support a healthy gut microbiome. Learn about soluble and insoluble fiber, their benefits, and ways to incorporate them into your diet for improved gut function.",
+        "img": "https://i.ibb.co/nwmCvD9/depositphotos-40960757-stock-photo-doctor-hand-with-modern-computer.webp",
+        "category": "health",
+        "subcategory": "spiritual",
+        "published_date": "2022-10-15",
+        "author": "Maria Garcia",
+        "tags": [
+            "superfoods",
+            "nutrition",
+            "health"
+        ],
+        "likes": 213,
+        "comments": [
+            {
+                "id": "01239",
+                "author": "WellbeingWarrior",
+                "text": "Cultivating positive relationships and a strong support system is essential for your mental health. Surround yourself with positivity.",
+                "date": "2023-09-04"
+            },
+            {
+                "id": "12340",
+                "author": "OutdoorAdventurer",
+                "text": "Nature offers a natural reset for the mind and body. Spending time outdoors reduces stress and boosts your mood—go for a hike!",
+                "date": "2023-09-05"
+            }
+        ]
+    },
+    {
+        "id": 146,
+        "title": "Benefits of Regular Stretching",
+        "description": "Explore the powerful connection between physical activity and mental well-being. Engaging in regular exercise releases endorphins, reduces stress, and enhances mood. Discover different types of workouts, from aerobic exercises to yoga, that contribute to improved mental health and cognitive function.",
+        "img": "https://i.ibb.co/yWbcQqj/health-risks-1.jpg",
+        "category": "health",
+        "subcategory": "spiritual",
+        "published_date": "2022-09-05",
+        "author": "Chris Williams",
+        "tags": [
+            "stretching",
+            "fitness",
+            "muscle health"
+        ],
+        "likes": 178,
+        "comments": [
+            {
+                "id": "23451",
+                "author": "MindOverMatter",
+                "text": "Believe in yourself and your ability to overcome challenges. A positive mindset is a powerful tool in achieving your health goals.",
+                "date": "2023-09-06"
+            },
+            {
+                "id": "34562",
+                "author": "PositiveVibesOnly",
+                "text": "Surround yourself with positivity and gratitude. Your outlook on life can significantly impact your overall health and well-being.",
+                "date": "2023-09-07"
+            }
+        ]
+    },
+    {
+        "id": 147,
+        "title": "A Guide to Healthy Skin",
+        "description": "Learn how weight-bearing exercises and strength training can help build and maintain strong bones. Bone health is vital for preventing osteoporosis and fractures. Discover exercises that promote bone density, as well as dietary sources of calcium and vitamin D for optimal bone support.",
+        "img": "https://i.ibb.co/3T1nXDF/stock-photo-healthcare-people-group-working-in-hospital.jpg",
+        "category": "health",
+        "subcategory": "spiritual",
+        "published_date": "2022-08-23",
+        "author": "Sophia Taylor",
+        "tags": [
+            "skin health",
+            "beauty",
+            "skincare"
+        ],
+        "likes": 240,
+        "comments": [
+            {
+                "id": "45673",
+                "author": "FitnessExplorer",
+                "text": "Variety is the spice of life and fitness! Trying new workouts keeps things exciting and challenges your body in different ways.",
+                "date": "2023-09-08"
+            },
+            {
+                "id": "56784",
+                "author": "SelfCareChampion",
+                "text": "Prioritize self-care without guilt. Taking time for yourself is not selfish—it's a necessary act of love for your mind and body.",
+                "date": "2023-09-09"
+            }
+        ]
+    },
+    {
+        "id": 148,
+        "title": "Understanding Common Cold vs. Flu",
+        "description": "Master the art of portion control for maintaining a healthy weight and balanced nutrition. Explore strategies to recognize proper serving sizes, avoid overeating, and create a mindful relationship with food that supports your long-term health goals.",
+        "img": "https://i.ibb.co/y5c1JBZ/health-insurance-getty-imag.jpg",
+        "category": "health",
+        "subcategory": "spiritual",
+        "published_date": "2022-07-10",
+        "author": "Kevin Brown",
+        "tags": [
+            "cold",
+            "flu",
+            "infections"
+        ],
+        "likes": 126,
+        "comments": [
+            {
+                "id": "67895",
+                "author": "BalanceSeeker",
+                "text": "Strive for balance in all aspects of your life. Balancing work, rest, exercise, and social connections contributes to overall wellness.",
+                "date": "2023-09-10"
+            },
+            {
+                "id": "78906",
+                "author": "HealthyAging",
+                "text": "Aging is a natural process. Focus on staying active and nourishing your body to enjoy a vibrant and fulfilling life at any age.",
+                "date": "2023-09-11"
+            }
+        ]
+    },
+    {
+        "id": 149,
+        "title": "The Role of Vitamins in Health",
+        "description": "Discover the calming effects of focused breathing techniques in managing anxiety and stress. Practice deep breathing, diaphragmatic breathing, and other relaxation exercises that activate the body's relaxation response and promote a sense of tranquility.",
+        "img": "https://i.ibb.co/yfGp2sx/istockphoto-1169605564-612x612.jpg",
+        "category": "health",
+        "subcategory": "spiritual",
+        "published_date": "2022-06-18",
+        "author": "Emma Johnson",
+        "tags": [
+            "vitamins",
+            "nutrition",
+            "health"
+        ],
+        "likes": 193,
+        "comments": [
+            {
+                "id": "89017",
+                "author": "WellnessInMotion",
+                "text": "Movement doesn't have to be intense to be beneficial. Even a simple walk can boost your mood and support cardiovascular health.",
+                "date": "2023-09-12"
+            },
+            {
+                "id": "90128",
+                "author": "MindfulHydration",
+                "text": "Sip water mindfully throughout the day. Staying hydrated supports brain function, digestion, and radiant skin.",
+                "date": "2023-09-13"
+            }
+        ]
+    },
+    {
+        "id": 150,
+        "title": "Holistic Approaches to Pain Management",
+        "description": "Explore the many benefits of staying adequately hydrated. Water plays a vital role in regulating body temperature, supporting digestion, and maintaining skin health. Learn about daily hydration needs and creative ways to ensure you're drinking enough water throughout the day.",
+        "img": "https://i.ibb.co/YNj466M/holistic-blog.jpg",
+        "category": "health",
+        "subcategory": "intellectual",
+        "published_date": "2022-05-09",
+        "author": "Daniel Roberts",
+        "tags": [
+            "pain management",
+            "holistic health",
+            "wellness"
+        ],
+        "likes": 150,
+        "comments": [
+            {
+                "id": "01239",
+                "author": "HolisticMind",
+                "text": "Mindfulness isn't just about meditation. Engage fully in whatever you're doing, whether it's eating, walking, or simply breathing.",
+                "date": "2023-09-14"
+            },
+            {
+                "id": "12340",
+                "author": "HealthyChoices",
+                "text": "Every healthy choice you make is a step toward a better future. Celebrate each nutritious meal and active moment—it all adds up!",
+                "date": "2023-09-15"
+            }
+        ]
+    },
+    {
+        "id": 151,
+        "title": "Importance of Regular Check-ups",
+        "description": "Embark on a journey of mindful eating to achieve weight management and a healthier relationship with food. Discover how tuning into hunger cues, savoring flavors, and eating with intention can help you make balanced dietary choices.",
+        "img": "https://i.ibb.co/P5wJ56M/Adobe-Stock-235763325.jpg",
+        "category": "health",
+        "subcategory": "intellectual",
+        "published_date": "2022-04-03",
+        "author": "Laura Smith",
+        "tags": [
+            "healthcare",
+            "check-ups",
+            "preventive care"
+        ],
+        "likes": 210,
+        "comments": [
+            {
+                "id": "23452",
+                "author": "HealthyMindset",
+                "text": "A positive attitude can impact your health more than you think. Embrace challenges as opportunities for growth and learning.",
+                "date": "2023-09-16"
+            },
+            {
+                "id": "34563",
+                "author": "FitnessJunkie",
+                "text": "Remember, you don't have to be perfect to be healthy. Progress is about consistency and making better choices over time.",
+                "date": "2023-09-17"
+            }
+        ]
+    },
+    {
+        "id": 152,
+        "title": "Ergonomics in the Workplace",
+        "description": "Uncover the factors that contribute to a strong immune system and its ability to defend against infections. Learn about immune-boosting foods, regular exercise, adequate sleep, and stress reduction strategies that help maintain robust immunity.",
+        "img": "https://i.ibb.co/301TcwC/i-Stock-170155837-1024x683.jpg",
+        "category": "health",
+        "subcategory": "intellectual",
+        "published_date": "2022-03-12",
+        "author": "Mark Taylor",
+        "tags": [
+            "ergonomics",
+            "workplace health",
+            "wellness"
+        ],
+        "likes": 162,
+        "comments": [
+            {
+                "id": "45674",
+                "author": "WellnessAdventures",
+                "text": "Exploring new activities keeps you excited about staying healthy. Try something you've never done before—it's invigorating!",
+                "date": "2023-09-18"
+            },
+            {
+                "id": "56785",
+                "author": "HolisticHealer",
+                "text": "Remember the power of touch. Hugs and physical connections release oxytocin, promoting feelings of love and reducing stress.",
+                "date": "2023-09-19"
+            }
+        ]
+    },
+    {
+        "id": 153,
+        "title": "The Gut-Brain Connection",
+        "description": "Explore the essential role of quality sleep in promoting overall health and well-being. Learn how sleep impacts physical and mental functions, and discover tips for creating a conducive sleep environment and establishing healthy sleep habits.",
+        "img": "https://i.ibb.co/M2gnThZ/rawpixel-760103-unsplash.jpg",
+        "category": "health",
+        "subcategory": "intellectual",
+        "published_date": "2022-02-06",
+        "author": "Olivia Brown",
+        "tags": [
+            "gut health",
+            "mental health",
+            "wellness"
+        ],
+        "likes": 231,
+        "comments": [
+            {
+                "id": "01230",
+                "author": "HealthAwareness",
+                "text": "Regular health check-ups are like preventive maintenance for your body. Catching issues early can lead to better outcomes.",
+                "date": "2023-09-24"
+            },
+            {
+                "id": "12341",
+                "author": "FitnessExplorer",
+                "text": "Dance like nobody's watching! Dancing is a joyful way to move your body and boost your mood—it's exercise in disguise.",
+                "date": "2023-09-25"
+            }
+        ]
+    },
+    {
+        "id": 154,
+        "title": "Benefits of Practicing Yoga",
+        "description": "Dive into the science of happiness and well-being. Explore positive psychology principles, gratitude practices, and strategies for cultivating a positive outlook on life that contributes to enhanced mental and emotional health.",
+        "img": "https://i.ibb.co/QmxWmRG/DIAL-A-DOCTOR-A-look-at-the-Telemedicine-Practice-Guidelines-2020.png",
+        "category": "health",
+        "subcategory": "intellectual",
+        "published_date": "2022-01-15",
+        "author": "Andrew Clark",
+        "tags": [
+            "yoga",
+            "fitness",
+            "mindfulness"
+        ],
+        "likes": 287,
+        "comments": [
+            {
+                "id": "89018",
+                "author": "StrongMindStrongBody",
+                "text": "Mental resilience goes hand in hand with physical strength. Training your mind is just as important as training your muscles.",
+                "date": "2023-09-22"
+            },
+            {
+                "id": "90129",
+                "author": "WellnessWar",
+                "text": "Life's challenges are opportunities to rise. Embrace setbacks as stepping stones to becoming a stronger and more resilient you.",
+                "date": "2023-09-23"
+            }
+        ]
+    }
+]
