@@ -5051,7 +5051,7 @@
         "description": "Explore the latest breakthroughs in AI and machine learning.",
         "img": "https://i.ibb.co/T2s8TRp/technology22.jpg",
         "category": "Technology",
-        "subcategory": "Artificial Intelligence",
+        "subcategory": "Artificial-Intelligence",
         "published_date": "2023-09-16",
         "author": "John Smith",
         "tags": [
@@ -5060,7 +5060,7 @@
             "Technology"
         ],
         "likes": 120,
-        "comments": 25
+        "comments": []
     },
     {
         "id": 201,
@@ -5077,7 +5077,7 @@
             "Telecom"
         ],
         "likes": 95,
-        "comments": 18
+        "comments": []
     },
     {
         "id": 202,
@@ -5085,7 +5085,7 @@
         "description": "Discover the potential of quantum computing in solving complex problems.",
         "img": "https://i.ibb.co/yPW1jtV/technology.jpg",
         "category": "Technology",
-        "subcategory": "Quantum Computing",
+        "subcategory": "Quantum-Computing",
         "published_date": "2023-09-14",
         "author": "David Anderson",
         "tags": [
@@ -5093,7 +5093,7 @@
             "Technology"
         ],
         "likes": 150,
-        "comments": 30
+        "comments": []
     },
     {
         "id": 203,
@@ -5109,7 +5109,7 @@
             "Online Safety"
         ],
         "likes": 80,
-        "comments": 12
+        "comments": []
     },
     {
         "id": 204,
@@ -5126,7 +5126,7 @@
             "Technology"
         ],
         "likes": 110,
-        "comments": 20
+        "comments": []
     },
     {
         "id": 205,
@@ -5142,7 +5142,7 @@
             "Technology"
         ],
         "likes": 130,
-        "comments": 22
+        "comments": []
     },
     {
         "id": 206,
@@ -5158,7 +5158,7 @@
             "Technology"
         ],
         "likes": 100,
-        "comments": 15
+        "comments": []
     },
     {
         "id": 207,
@@ -5166,7 +5166,7 @@
         "description": "Discover the latest developments in electric vehicle technology.",
         "img": "https://i.ibb.co/yPW1jtV/technology.jpg",
         "category": "Technology",
-        "subcategory": "Electric Vehicles",
+        "subcategory": "Electric-Vehicles",
         "published_date": "2023-09-09",
         "author": "Lisa Davis",
         "tags": [
@@ -5174,7 +5174,7 @@
             "Technology"
         ],
         "likes": 90,
-        "comments": 14
+        "comments": []
     },
     {
         "id": 208,
@@ -5182,7 +5182,7 @@
         "description": "Learn about the latest missions to explore Mars.",
         "img": "https://i.ibb.co/ngMpFBX/arts.jpg",
         "category": "Technology",
-        "subcategory": "Space Exploration",
+        "subcategory": "Space-Exploration",
         "published_date": "2023-09-08",
         "author": "Robert Smith",
         "tags": [
@@ -5191,7 +5191,7 @@
             "Technology"
         ],
         "likes": 70,
-        "comments": 10
+        "comments": []
     },
     {
         "id": 209,
@@ -5208,7 +5208,7 @@
             "Technology"
         ],
         "likes": 85,
-        "comments": 16
+        "comments": []
     },
     {
         "id": 210,
@@ -5216,7 +5216,7 @@
         "description": "Discover how AI is revolutionizing healthcare.",
         "img": "https://i.ibb.co/T2s8TRp/technology22.jpg",
         "category": "Technology",
-        "subcategory": "Artificial Intelligence",
+        "subcategory": "Artificial-Intelligence",
         "published_date": "2023-09-06",
         "author": "Alex Johnson",
         "tags": [
@@ -5225,7 +5225,7 @@
             "Technology"
         ],
         "likes": 120,
-        "comments": 25
+        "comments": []
     },
     {
         "id": 211,
@@ -5233,7 +5233,7 @@
         "description": "Explore the latest wearable technology trends.",
         "img": "https://i.ibb.co/r5C1y2S/tech3.jpg",
         "category": "Technology",
-        "subcategory": "Wearable Technology",
+        "subcategory": "Artificial-Intelligence",
         "published_date": "2023-09-05",
         "author": "Sophia Martinez",
         "tags": [
@@ -5241,7 +5241,7 @@
             "Technology"
         ],
         "likes": 95,
-        "comments": 18
+        "comments": []
     },
     {
         "id": 212,
@@ -5249,7 +5249,7 @@
         "description": "Discover how AI is transforming the finance industry.",
         "img": "https://i.ibb.co/yPW1jtV/technology.jpg",
         "category": "Technology",
-        "subcategory": "Artificial Intelligence",
+        "subcategory": "Artificial-Intelligence",
         "published_date": "2023-09-04",
         "author": "James Wilson",
         "tags": [
@@ -5258,7 +5258,7 @@
             "Technology"
         ],
         "likes": 150,
-        "comments": 30
+        "comments": []
     },
     {
         "id": 213,
@@ -5275,7 +5275,7 @@
             "Technology"
         ],
         "likes": 110,
-        "comments": 20
+        "comments": []
     },
     {
         "id": 214,
@@ -5291,7 +5291,7 @@
             "Technology"
         ],
         "likes": 130,
-        "comments": 22
+        "comments": []
     },
     {
         "id": 215,
@@ -5299,7 +5299,7 @@
         "description": "Explore the possibilities of commercial space travel.",
         "img": "https://i.ibb.co/T2s8TRp/technology22.jpg",
         "category": "Technology",
-        "subcategory": "Space Exploration",
+        "subcategory": "Space-Exploration",
         "published_date": "2023-09-01",
         "author": "Laura Adams",
         "tags": [
@@ -5307,7 +5307,7 @@
             "Technology"
         ],
         "likes": 100,
-        "comments": 15
+        "comments": []
     },
     {
         "id": 216,
@@ -5315,7 +5315,7 @@
         "description": "Discover how technology is transforming urban living.",
         "img": "https://i.ibb.co/r5C1y2S/tech3.jpg",
         "category": "Technology",
-        "subcategory": "Smart Cities",
+        "subcategory": "Biotechnology",
         "published_date": "2023-08-31",
         "author": "William Turner",
         "tags": [
@@ -5324,7 +5324,7 @@
             "Technology"
         ],
         "likes": 90,
-        "comments": 14
+        "comments": []
     },
     {
         "id": 217,
@@ -5341,7 +5341,7 @@
             "Technology"
         ],
         "likes": 70,
-        "comments": 10
+        "comments": []
     },
     {
         "id": 218,
@@ -5349,7 +5349,7 @@
         "description": "Discover the latest VR developments and applications.",
         "img": "https://i.ibb.co/ngMpFBX/arts.jpg",
         "category": "Technology",
-        "subcategory": "Virtual Reality",
+        "subcategory": "Virtual-Reality",
         "published_date": "2023-08-29",
         "author": "Chris Anderson",
         "tags": [
@@ -5357,7 +5357,7 @@
             "Technology"
         ],
         "likes": 85,
-        "comments": 16
+        "comments": []
     },
     {
         "id": 219,
@@ -5365,7 +5365,7 @@
         "description": "Explore how AI is shaping the gaming industry.",
         "img": "https://i.ibb.co/ngMpFBX/arts.jpg",
         "category": "Technology",
-        "subcategory": "Artificial Intelligence",
+        "subcategory": "Artificial-Intelligence",
         "published_date": "2023-08-28",
         "author": "Michael Garcia",
         "tags": [
@@ -5374,7 +5374,7 @@
             "Technology"
         ],
         "likes": 120,
-        "comments": 25
+        "comments": []
     },
     {
         "id": 220,
@@ -5382,7 +5382,7 @@
         "description": "Learn about the advancements in autonomous vehicle technology.",
         "img": "https://i.ibb.co/T2s8TRp/technology22.jpg",
         "category": "Technology",
-        "subcategory": "Autonomous Vehicles",
+        "subcategory": "Autonomous-Vehicles",
         "published_date": "2023-08-27",
         "author": "Daniel Smith",
         "tags": [
@@ -5390,7 +5390,7 @@
             "Technology"
         ],
         "likes": 95,
-        "comments": 18
+        "comments": []
     },
     {
         "id": 221,
@@ -5406,7 +5406,7 @@
             "Technology"
         ],
         "likes": 150,
-        "comments": 30
+        "comments": []
     },
     {
         "id": 222,
@@ -5414,7 +5414,7 @@
         "description": "Explore upcoming missions and plans for space exploration.",
         "img": "https://i.ibb.co/yPW1jtV/technology.jpg",
         "category": "Technology",
-        "subcategory": "Space Exploration",
+        "subcategory": "Space-Exploration",
         "published_date": "2023-08-25",
         "author": "Robert Johnson",
         "tags": [
@@ -5422,7 +5422,7 @@
             "Technology"
         ],
         "likes": 80,
-        "comments": 12
+        "comments": []
     },
     {
         "id": 223,
@@ -5430,7 +5430,7 @@
         "description": "Learn how AI is improving diagnostic processes in healthcare.",
         "img": "https://i.ibb.co/ngMpFBX/arts.jpg",
         "category": "Technology",
-        "subcategory": "Artificial Intelligence",
+        "subcategory": "Artificial-Intelligence",
         "published_date": "2023-08-24",
         "author": "Emma White",
         "tags": [
@@ -5439,7 +5439,7 @@
             "Technology"
         ],
         "likes": 110,
-        "comments": 20
+        "comments": []
     },
     {
         "id": 224,
@@ -5447,7 +5447,7 @@
         "description": "Discover the impact of IoT on our daily lives.",
         "img": "https://i.ibb.co/yPW1jtV/technology.jpg",
         "category": "Technology",
-        "subcategory": "Internet of Things",
+        "subcategory": "Artificial-Intelligence",
         "published_date": "2023-08-23",
         "author": "John Davis",
         "tags": [
@@ -5455,7 +5455,7 @@
             "Technology"
         ],
         "likes": 130,
-        "comments": 22
+        "comments": []
     },
     {
         "id": 225,
@@ -5472,7 +5472,7 @@
             "Technology"
         ],
         "likes": 100,
-        "comments": 15
+        "comments": []
     },
     {
         "id": 300,
